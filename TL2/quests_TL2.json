@@ -1,0 +1,2751 @@
+[{
+        "name": "Hidden Costs",
+        "objective": "bring enchanting tools to Baldrick the Enchanter",
+        "first_tasks": ["search Path of the Honored Dead for a Beornen"],
+        "first_task_locations": [{
+                "name": "Path of the Honored Dead",
+                "description": "a pass"
+            }
+        ],
+        "quest_giver": {
+            "name": "Baldrick the Enchanter",
+            "description": "a mage who sells enchantments",
+            "location": "Baldrick the Enchanter's store"
+        },
+        "reward": [{
+                "name": "",
+                "description": "the player's first enchantment, free of charge",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Beornen",
+                "description": "a male bear-mage with enchanting tools",
+                "location": "Path of the Honored Dead"
+            }
+        ],
+        "tools": ["Baldrick the Enchanter can't enchant anything without enchanting tools"],
+        "description": "Welcome! Welcome, my friend. I have numerous enchantments available... weapons, armor, trinkets, and the like. Or, rather, I would, if I hadn't lost my enchantment kit!\nMaybe you can help me. I've heard there's a Beornen shaman or something out in the Path of the Honored Dead, who has the kind of enchanting tools I need. If you could locate this bear-mage and acquire those tools, I would happily give you your first enchantment, free of charge!"
+    }, {
+        "name": "Little Lost Ones",
+        "objective": "help Bellethe find Finnas and their precious animals",
+        "first_tasks": ["find Finnas"],
+        "first_task_locations": [{
+                "name": "Widow's Veil",
+                "description": "a cave inhabited by nasty creatures"
+            }
+        ],
+        "quest_giver": {
+            "name": "Bellethe",
+            "description": "a worried wife, and a passionate animal owner",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Finnas",
+                "description": "Bellethe's husband",
+                "location": "Widow's Veil"
+            }
+        ],
+        "locations": [{
+                "name": "Estherian Enclave",
+                "description": "a town"
+            }
+        ],
+        "tools": ["Bellethe and Finnas are homesteaders with a small farm in the Frosted Hills: they went to get supplies from Estherian Enclave before winter"],
+        "description": "Please, help me! Our dear little ones wandered into that cave! My husband Finnas ventured after them, but it is crawling with nasty creatures, and he hasn't returned!\nMy husband Finnas and I were on our way to the Estherian Enclave. We're homesteaders, with a small farm in the Frosted Hills. The weather is getting harsh, so we were making one last run for supplies before winter. Oh, I'm beside myself with worry! Please, find Finnas and our precious babies! You have to help us! You could have a special item as a token of our gratitude!"
+    }, {
+        "name": "The Thing",
+        "objective": "destroy the Thing before it infects the whole world",
+        "first_tasks": ["find the Thing"],
+        "first_task_locations": [{
+                "name": "Norsk Leiren",
+                "description": "a cold, icy dungeon"
+            }
+        ],
+        "quest_giver": {
+            "name": "Blair",
+            "description": "a researcher, giving quest via \"Blair's Notes\"",
+            "location": "Norsk Leiren"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "\"Blair's Notes\"",
+                "description": "notes on the discovery of the Thing",
+                "amount": 1
+            }
+        ],
+        "enemies": [{
+                "name": "Thing",
+                "description": "a dangerous parasitic, infectious creature",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Bennings",
+                "description": "one of Blair's fellow researchers",
+                "location": "Norsk Leiren"
+            }, {
+                "name": "Fuchs",
+                "description": "one of Blair's fellow researchers",
+                "location": "Norsk Leiren"
+            }
+        ],
+        "tools": ["the Thing got in Bennings, but then Fuchs disappeared"],
+        "description": "\"Blair's Notes\"\nby Blair\n\nIt was in the ice. Who knows how long? But it wasn't dead. And now it's hiding, here somewhere... in one of us. We found it in Bennings, but then Fuchs disappeared. It's still here, and it's looking for a way out. If it gets out into the world, it can infect everyone, everywhere. Three years, at most. Gods forgive us for what we've set loose upon the world."
+    }, {
+        "name": "Bounty: Sturmbeorn!",
+        "objective": "alleviate the threat of the Sturmbeorn",
+        "first_tasks": ["kill 10 Sturmbeorn"],
+        "first_task_locations": [{
+                "name": "Temple Steppes",
+                "description": "a grassland plain"
+            }
+        ],
+        "quest_giver": {
+            "name": "Commander Vale",
+            "description": "the leader of the Vanquisher Corps, giving quest via \"Bounty Board\"",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "bounty",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Vanquisher Corps",
+                "description": "a military outfit"
+            }, {
+                "name": "Estherians",
+                "description": "a race of people"
+            }
+        ],
+        "enemies": [{
+                "name": "Sturmbeorn",
+                "description": "savage raiders attacking the Estherians and the settlers of the Empire",
+                "amount": 10
+            }
+        ],
+        "items": [{
+                "name": "\"Bounty Board\"",
+                "description": "a bounty board",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "BOUNTY!\nThe Sturmbeorn raiders are a threat to the Estherians and to the brave settlers of the Empire. Commander Vale is authorized to pay a reward to anyone who assists the Vanquisher Corps in ridding the Temple Steppes of these savage brutes.\nThis bounty shall be paid to anyone who slays 10 or more Sturmbeorn in the Temple Steppes."
+    }, {
+        "name": "Bounty: Warbeasts!",
+        "objective": "help colonists by thinning out packs of Warbeasts",
+        "first_tasks": ["kill 10 Warbeasts"],
+        "first_task_locations": [{
+                "name": "Temple Steppes",
+                "description": "a region in Estheria"
+            }
+        ],
+        "quest_giver": {
+            "name": "Commander Vale",
+            "description": "the leader of the Vanquisher Corps, giving quest via \"Bounty Board\"",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "\"Bounty Board\"",
+                "description": "a bounty board",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Vanquisher Corps",
+                "description": "a military outfit"
+            }
+        ],
+        "enemies": [{
+                "name": "Warbeasts",
+                "description": "dangerous monsters",
+                "amount": 10
+            }
+        ],
+        "locations": [{
+                "name": "Estheria",
+                "description": "a country"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "BOUNTY!\nCommander Vale of the Vanquisher Corps is offering a reward to anyone who can help thin out the packs of Warbeasts hampering colonization and defense efforts in Estheria.\nThis reward shall be paid to anyone who slays 10 or more Warbeasts in the Temple Steppes."
+    }, {
+        "name": "Cacklespit's Brew",
+        "objective": "collect ingredients for Cacklespit's brew",
+        "first_tasks": ["get Mask of a Murderer, Thorns as Hard as Iron, and Black Heart of a Coward"],
+        "first_task_locations": [{
+                "name": "Blightbogs",
+                "description": "a bog"
+            }
+        ],
+        "quest_giver": {
+            "name": "Cacklespit",
+            "description": "a potion-selling witch",
+            "location": "Blightbogs"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a special concoction that will make the player famous for generations to come",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Mask of a Murderer",
+                "description": "an alchemy ingredient",
+                "amount": 1
+            }, {
+                "name": "Thorns as Hard as Iron",
+                "description": "an alchemy ingredient",
+                "amount": 1
+            }, {
+                "name": "Black Heart of a Coward",
+                "description": "an alchemy ingredient",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "Another customer for one of old Cacklespit's brews, eh? I can provide a special concoction, free of charge...if you aren't afraid to get your hands a little dirty.\nAs any true cook will tell you, the finest ingredients are of the utmost importance if you want to create something truly special. I will require three items to brew the special mixture I have in mind...\nThe Mask of a Murderer, Thorns as Hard as Iron, and the Black Heart of a Coward.\nAll three are to be found here in the bogs - you only have to find them!\nOnce I brew the ingredients properly, your name will be known for generations to come!"
+    }, {
+        "name": "Heartfire",
+        "objective": "recover the Heartfire Stone for yourself",
+        "first_tasks": ["claim the key to Vyrax's Tower"],
+        "first_task_locations": [{
+                "name": "Forgotten Halls",
+                "description": "an ancient dungeon"
+            }
+        ],
+        "quest_giver": {
+            "name": "Cam",
+            "description": "a researcher the player has helped before",
+            "location": ""
+        },
+        "reward": [{
+                "name": "Heartfire Stone",
+                "description": "a rare and powerful artifact the confers to its wielder the power of dragonfire",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "",
+                "description": "Vyrax's Tower, a tower in Rivenskull Gorge"
+            }, {
+                "name": "Rivenskull Gorge",
+                "description": "a region"
+            }
+        ],
+        "characters": [{
+                "name": "Vyrax",
+                "description": "an ancient dragon who has hoarded treasure",
+                "location": "Vyrax's Tower"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "Hello again! I think I may be able to repay the favor you've done for us.\nI've been doing some research, and have uncovered some interesting information about Vyrax, the ancient dragon who still dwells in the tower in Rivenskull Gorge.\nThe interesting bit is this - Vyrax has amidst his hoard a Heartfire Stone, which confers to its wielder the power of dragonfire. It is a rare and powerful artifact that would surely aid you.\nIf you wish to find the Heartfire Stone, you will need to first claim the key to Vyrax's Tower, in the depths of the Forgotten Halls.\nGood luck!"
+    }, {
+        "name": "Truffle Kerfuffle",
+        "objective": "bring 12 Ember Truffles to Clive",
+        "first_tasks": ["gather 12 Ember Truffles"],
+        "first_task_locations": [{
+                "name": "Muckery",
+                "description": "a fungal cave"
+            }
+        ],
+        "quest_giver": {
+            "name": "Clive",
+            "description": "a botanist working for the Empire",
+            "location": ""
+        },
+        "reward": [{
+                "name": "Super Mana Potion",
+                "description": "a potion",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Ember Truffles",
+                "description": "Ember-infused mushrooms",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I'm a botanist, serving the Empire by gathering various Ember-infused plants.  And I've found a virtual treasure trove of Ember Truffles, down in the Muckery... but some of them have already attained sentience, and that's making it difficult for me to gather them.\nIf you can bring me, say, a dozen Ember Truffles, I'll keep ten for the Empire, and I'll use the other two to make a Super Mana Potion for you.\nDo we have a deal?"
+    }, {
+        "name": "Protect the Guardian!",
+        "objective": "protect the Guardian of Water",
+        "first_tasks": ["scout the Wellspring Temple"],
+        "first_task_locations": [{
+                "name": "Wellspring Temple",
+                "description": "a temple"
+            }
+        ],
+        "quest_giver": {
+            "name": "Eldrayn",
+            "description": "a local leader",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Commander Vale",
+                "description": "a female military leader",
+                "location": "Wellspring Temple"
+            }, {
+                "name": "Alchemist",
+                "description": "an evil man",
+                "location": ""
+            }, {
+                "name": "Guardian of Water",
+                "description": "a powerful being upholding peace",
+                "location": "Wellspring Temple"
+            }
+        ],
+        "tools": ["Commander Vale believes that the Alchemist might attack the Wellspring Temple: the Alchemist wants to reach the Guardian of Water"],
+        "description": "Commander Vale believes that the Alchemist might attack the Wellspring Temple, in an attempt to reach the Guardian of Water ... for what nefarious purpose I am afraid to speculate. There has been no word from either Vale, or the Guardian.\nScout the Wellspring Temple, and determine if the Guardian of Water is in any danger."
+    }, {
+        "name": "Regroup at the Enclave",
+        "objective": "plan your next move with Commander Vale",
+        "first_tasks": ["return to the Estherian Enclave"],
+        "first_task_locations": [{
+                "name": "Estherian Enclave",
+                "description": "a settlement"
+            }
+        ],
+        "quest_giver": {
+            "name": "Guardian of Water",
+            "description": "a powerful spirit of nature who was attacked by the Alchemist, one of the Guardians",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Commander Vale",
+                "description": "a female military leader",
+                "location": ""
+            }, {
+                "name": "Alchemist",
+                "description": "an evil man",
+                "location": ""
+            }
+        ],
+        "groups": [{
+                "name": "Guardians",
+                "description": "powerful spirits"
+            }
+        ],
+        "tools": ["the Alchemist gets more dangerous each time he siphons off energy from Guardians"],
+        "description": "The Alchemist must be stopped before he attacks any more Guardians! Each time he siphons off our energy, he becomes more dangerous.\nYou and Commander Vale should return the Estherian Enclave, and plan your next move."
+    }, {
+        "name": "Return to the Enclave",
+        "objective": "stop the Alchemist before it's too late",
+        "first_tasks": ["go to the Ossean Wastes with the help of Commander Vale"],
+        "first_task_locations": [{
+                "name": "Ossean Wastes",
+                "description": "a large desert"
+            }
+        ],
+        "quest_giver": {
+            "name": "Commander Vale",
+            "description": "a military leader",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Guardian",
+                "description": "a powerful spirit",
+                "location": ""
+            }, {
+                "name": "Alchemist",
+                "description": "a man who has Ordrak's Heart",
+                "location": ""
+            }
+        ],
+        "items": [{
+                "name": "Ordrak's Heart",
+                "description": "a destructive artifact",
+                "amount": 1
+            }
+        ],
+        "tools": ["Ordrak's Heart wreaking havoc", "the Guardian wants the player to go to the Ossean Wastes"],
+        "description": "I don't know if the Alchemist understands that Ordrak's Heart is wreaking such havoc... or if he just doesn't care! I hope there's still a chance to stop him, one way or another, before it's too late.\nSo the Guardian wants you to head to the Ossean Wastes? You know what? I think I can help you with that..."
+    }, {
+        "name": "Trail of the Grand Regent",
+        "objective": "go to the Watchweald Temple",
+        "first_tasks": ["take Crows' Pass to the Frosted Hills to catch up to the Grand Regent before he enters the Watchweald Temple"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Commander Vale",
+            "description": "a human military leader",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Watchweald Temple",
+                "description": "a temple"
+            }, {
+                "name": "Crows' Pass",
+                "description": "a pass"
+            }, {
+                "name": "Frosted Hills",
+                "description": "hills"
+            }
+        ],
+        "characters": [{
+                "name": "Grand Regent",
+                "description": "a male Estherian infected with the plague",
+                "location": ""
+            }
+        ],
+        "groups": [{
+                "name": "Estherians",
+                "description": "human-like creatures of magical nature"
+            }
+        ],
+        "tools": ["this plague targets beings of an inherently magical nature, not humans"],
+        "description": "This plague seems to specifically target beings of an inherently magical nature, such as the Estherians. So far it's not affecting humans, so I've sent for a transport to bring us some medical supplies, and I'll be coordinating the medical relief here.\nMeanwhile, you need to get out to the Watchweald Temple. Take Crows' Pass to the Frosted Hills. Try to catch up to the Grand Regent before he enters the temple."
+    }, {
+        "name": "Warn the Estherians",
+        "objective": "head up the pass to the Enclave, and warn the Estherians that the Alchemist is coming to them",
+        "first_tasks": ["find Commander Vale and let her know what happened"],
+        "first_task_locations": [{
+                "name": "Enclave",
+                "description": "the home of the Estherians"
+            }
+        ],
+        "quest_giver": {
+            "name": "Destroyer",
+            "description": "a male hero",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Alchemist",
+                "description": "an evil man",
+                "location": ""
+            }, {
+                "name": "Commander Vale",
+                "description": "a woman, an old friend to the Destroyer",
+                "location": "Enclave"
+            }
+        ],
+        "locations": [{
+                "name": "Torchlight",
+                "description": "a town"
+            }
+        ],
+        "groups": [{
+                "name": "Estherians",
+                "description": "a race of people"
+            }
+        ],
+        "tools": ["the Alchemist destroyed Torchlight"],
+        "description": "Someone needs to warn the Estherians. Head up the pass to their Enclave. Find my old friend, Commander Vale, and let her know what happened.\nTell them that the Alchemist destroyed Torchlight, and is headed their way. He may be there already..."
+    }, {
+        "name": "The Brave Ones",
+        "objective": "destroy the Ezrohir machines that pump \"Manatoxin\" in Zeryphesh's water supply",
+        "first_tasks": ["enter the Undercurrents"],
+        "first_task_locations": [{
+                "name": "Undercurrents",
+                "description": "a sewer in Zeryphesh, inhabited by poisonous creatures"
+            }
+        ],
+        "quest_giver": {
+            "name": "Dilawar",
+            "description": "a Zeraphi soldier",
+            "location": "Zeryphesh"
+        },
+        "reward": [{
+                "name": "",
+                "description": "Dilawar will reward the player",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Zeraphi",
+                "description": "a race of people"
+            }, {
+                "name": "Ezrohir",
+                "description": "a race of people hostile to the Zeraphi"
+            }
+        ],
+        "locations": [{
+                "name": "Zeryphesh",
+                "description": "a city inhabited by Zeraphi"
+            }
+        ],
+        "items": [{
+                "name": "\"Manatoxin\"",
+                "description": "a poison designed to disrupt Zeraphi physiology, created by Ezrohir",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "My friend, I need your help! My squad and I had observed a group of Ezrohir moving in and out of the Undercurrents. They have installed machines to pump a virulent poison into the city's water supply. Their \"Manatoxin\" is specifically designed to disrupt Zeraphi physiology. Unfortunately, the noxious atmosphere seems to have attracted a horde of poisonous beasts, and I only just escaped with my life. If you can enter the Undercurrents and destroy those machines for me, I will reward you. What do you say?\nI won't lie to you: Destroying those machines won't be simple... but it's vital, and you're the only one who can do it."
+    }, {
+        "name": "Risk and Reward",
+        "objective": "meet Duros the Blade in Zeryphesh",
+        "first_tasks": ["see if your luck holds out"],
+        "first_task_locations": [{
+                "name": "Zeryphesh",
+                "description": "a town"
+            }
+        ],
+        "quest_giver": {
+            "name": "Duros the Blade",
+            "description": "a gambler from Zeryphesh",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "tools": ["the player saved Duros the Blade from imprisonment"],
+        "description": "Finally saved! Thank you! You look like a person who likes risk! I'm heading back to town now. Meet me there and see if your luck holds out!"
+    }, {
+        "name": "Wash Away My Sins",
+        "objective": "set Edovar free",
+        "first_tasks": ["return the Glyph of Balthazar"],
+        "first_task_locations": [{
+                "name": "Wellspring Basin",
+                "description": "a temple"
+            }
+        ],
+        "quest_giver": {
+            "name": "Edovar",
+            "description": "a spirit of an ambitious thief",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Glyph of Balthazar",
+                "description": "an artifact that has power over water",
+                "amount": 1
+            }
+        ],
+        "tools": ["Edovar stole the Glyph of Balthazar from the Wellspring Basin: he died while trying to use the Glyph of Balthazar and was trapped drowning forever"],
+        "description": "I am merely spirit, but I mean you no harm. In life, I was an ambitious thief, and I thought I was invincible. My greatest achievement was when I stole the Glyph of Balthazar from the Wellspring Basin. I thought I could master its power over water, but I was very, very wrong.\nNow I am trapped here in eternal torment, drowning forever, unable to rectify my mistake. Will you return the Glyph of Balthazar to the Wellspring Basin, and set my spirit free at last?"
+    }, {
+        "name": "Hostage Negotiations",
+        "objective": "defeat Kidrik the Mauler, and free his hostages",
+        "first_tasks": ["find Kidrik the Mauler and his captives"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "the underground slave den"
+            }
+        ],
+        "quest_giver": {
+            "name": "Elder Josimon",
+            "description": "a man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Kidrik the Mauler",
+                "description": "the male leader of the slavers",
+                "location": "the underground slave den"
+            }
+        ],
+        "tools": ["Kidrik the Mauler slipped away during the attack"],
+        "description": "Kidrik the Mauler must have slipped away during the attack, and concealed himself in the underground slave den! And, if the captives are there, as well, Kidrik must be holding them hostage!\nYou must defeat Kidrik and free the captives, or all that has been done to stop the slavers will have been for naught!"
+    }, {
+        "name": "Up In Smoke",
+        "objective": "put the slavers out of the picture for good",
+        "first_tasks": ["burn down the slavers' houses"],
+        "first_task_locations": [{
+                "name": "Slavers' Camp",
+                "description": "home of the slavers who have been harassing the Estherians, in the Frosted Hills"
+            }
+        ],
+        "quest_giver": {
+            "name": "Elder Josimon",
+            "description": "a man from the Enclave",
+            "location": "Slavers' Camp"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Estherians",
+                "description": "a race of people"
+            }
+        ],
+        "locations": [{
+                "name": "Frosted Hills",
+                "description": "hills"
+            }
+        ],
+        "tools": ["the player freed Elder Josimon from the slavers: he had recovered the Passkey Ember from them, but they captured him"],
+        "description": "Thank you for rescuing me. I had recovered the Passkey Ember from these slavers, but they captured me as I was trying to return to the Enclave.\nI could use your help with one small matter before you go. These slavers have been harrying the Estherians for several weeks now. You defeated many, but there are many more watching us from the safety of those huts. Burn them out! If they are allowed to remain, the Frosted Hills will never be safe."
+    }, {
+        "name": "The Ember Keys",
+        "objective": "use the Ember Keys to open the Watchweald Portal",
+        "first_tasks": ["get the Passkey Ember from the slavers, and Latchkey Ember from the goblins"],
+        "first_task_locations": [{
+                "name": "Old Estherian Refuge",
+                "description": "an area"
+            }
+        ],
+        "quest_giver": {
+            "name": "Elder Valin",
+            "description": "a man who was planning to enter the Watchweald Portal",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Ember Keys",
+                "description": "the keys that are used to open the Watchweald Portal",
+                "amount": 1
+            }, {
+                "name": "Passkey Ember",
+                "description": "one of the Ember Keys",
+                "amount": 1
+            }, {
+                "name": "Latchkey Ember",
+                "description": "one of the Ember Keys",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Watchweald Portal",
+                "description": "a portal in the Old Estherian Refuge"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I was planning to enter the Watchweald Portal in the Old Estherian Refuge. Unfortunately the keys have been stolen. Goblin miners took one, and we believe that some slavers who recently moved into the area have the other. It takes both keys to activate the Watchweald Portal... and it is beyond my abilities to retrieve them.\nRecover the Passkey Ember from the slavers, and the Latchkey Ember from the goblins. You can use them to open the Portal in the Refuge."
+    }, {
+        "name": "The Locket",
+        "objective": "kill the Wraith Lord and find Estherian Spectre's remains along the Locket",
+        "first_tasks": ["find the Sanguine Gems", "place the Sanguine Gems on the altars to open the path to the Wraith Lord"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "the depths beyond the Rotting Crypt"
+            }, {
+                "name": "Rotting Crypt",
+                "description": "a crypt"
+            }
+        ],
+        "quest_giver": {
+            "name": "Estherian Spectre",
+            "description": "a ghost of a man who is bound to the Rotting Crypt",
+            "location": "near the altars in the Rotting Crypt"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Locket",
+                "description": "a locket Jessa seeks",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Jessa",
+                "description": "a woman",
+                "location": ""
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I am bound to this place, and may not pass beyond the threshold. \nIf you seek my remains, you must find the Sanguine Gems - they may be found in the depths beyond. Place them upon these altars, and the path to the Wraith Lord will be revealed.\nIf you can best him, you will discover my remains there - and the Locket Jessa seeks."
+    }, {
+        "name": "Cacklespit's Realm",
+        "objective": "bring 4 skulls of famous warriors to Fade",
+        "first_tasks": ["find 4 skulls of famous warriors"],
+        "first_task_locations": [{
+                "name": "Sundered Battlefield",
+                "description": "an ancient battleground"
+            }
+        ],
+        "quest_giver": {
+            "name": "Fade",
+            "description": "an immortal spirit who covets the remains of the living",
+            "location": "Sundered Battlefield"
+        },
+        "reward": [{
+                "name": "",
+                "description": "Fade shows the player the way to Cacklespit's Realm",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Cacklespit's Realm",
+                "description": "a hidden realm"
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "skulls of famous warriors",
+                "amount": 4
+            }
+        ],
+        "tools": ["the player has summoned Fade: the player wants to enter Cacklespit's Realm"],
+        "description": "I am Fade - why have you summoned me?\nAh, you want to enter Cacklespit's hidden realm. Yes, I know the way - but I do not provide service without compensation.\nI have very particular... appetites. The remains of the living are infused with a lingering residue of deeds past, which sustains me. Bring me the skulls of four warriors of renown, and I will take you where you wish to go. This battlefield is littered with the bones of great heroes. Your search should not be difficult."
+    }, {
+        "name": "The Djinni's Final Task",
+        "objective": "free the Guardian by humiliating Ezrek Khan",
+        "first_tasks": ["steal Ezrek Khan's Lamp of Marvels"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Fazeer Shah",
+            "description": "a djinni",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Guardian",
+                "description": "the player's ally who was enchanted by Ezrek Khan",
+                "location": ""
+            }, {
+                "name": "Ezrek Khan",
+                "description": "a male djinni, and Fazeer Shah's old rival",
+                "location": ""
+            }
+        ],
+        "groups": [{
+                "name": "Netherim",
+                "description": "demonic creatures"
+            }
+        ],
+        "items": [{
+                "name": "Lamp of Marvels",
+                "description": "a djinni lamp",
+                "amount": 1
+            }
+        ],
+        "tools": ["the player successfully completed their previous tasks to Fazeer Shah: this is the player's final task", "Ezrek Khan draws his power from the same source as the Netherim: the Netherim will oppose the player should they challenge Ezrek Khan"],
+        "description": "Well, well. You are much more determined... and capable... than I had suspected! Excellent...\nNow, to your final task. If you truly wish to free the Guardian, you must humiliate my old rival, Ezrek Khan, by stealing his precious Lamp of Marvels.\nBe warned: Ezrek Khan draws his power from the same source as the Netherim. His realm borders closely on theirs; they will almost certainly stand against you, should you challenge the djinni."
+    }, {
+        "name": "The Djinni's First Task",
+        "objective": "perform three tasks for Fazeer Shah's amusement",
+        "first_tasks": ["recover Fazeer Shah's Lamp of Wonders from the Tu'tara"],
+        "first_task_locations": [{
+                "name": "Sadwa Mesa",
+                "description": "a mesa"
+            }
+        ],
+        "quest_giver": {
+            "name": "Fazeer Shah",
+            "description": "a djinni",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "Fazeer Shah will undo whatever the Artificer and the Alchemist have done to the Guardian",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Lamp of Wonders",
+                "description": "a djinni lamp",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Guardian",
+                "description": "the player's ally who was enchanted by the Artificer and the Alchemist",
+                "location": ""
+            }, {
+                "name": "Artificer",
+                "description": "a powerful man, and the player's enemy",
+                "location": ""
+            }, {
+                "name": "Alchemist",
+                "description": "an evil, powerful man allied with the Artificer",
+                "location": ""
+            }
+        ],
+        "groups": [{
+                "name": "Tu'tara",
+                "description": "monstrous reptiles"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "The Artificer and the Alchemist might be formidable, but even their combined powers are nothing more than parlor tricks to one such as me. I can easily undo anything that they have done to your \"Guardian.\" I will of course require something in return.\nMy only real enemy in this desert is boredom. I will make you a bargain: Perform three tasks for my amusement. If your struggles provide suitable entertainment, then, and only then, will I free your Guardian.\nYour first task: Journey to the Sadwa Mesa, and recover my Lamp of Wonders from the Tu'tara!"
+    }, {
+        "name": "The Djinni's Next Task",
+        "objective": "complete Fazeer Shah's second task",
+        "first_tasks": ["survive"],
+        "first_task_locations": [{
+                "name": "Portal",
+                "description": "a portal to another place"
+            }
+        ],
+        "quest_giver": {
+            "name": "Fazeer Shah",
+            "description": "a djinni",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Tu'tara",
+                "description": "monstrous reptiles"
+            }
+        ],
+        "tools": ["the player survived Fazeer Shah's first task with the Tu'tara"],
+        "description": "You survived the Tu'tara more or less in one piece. Congratulations. But it occurs to me that you didn't do anything that you wouldn't ordinarily have done. This second task should prove much more amusing.\nStep through the Portal. Your second task... is to survive!"
+    }, {
+        "name": "The Adventure Continues",
+        "objective": "restart your adventure",
+        "first_tasks": ["ask Felicia to show you the way"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Felicia",
+            "description": "a woman",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "You seem weary - perhaps you are in need of a fresh perspective. If you so desire, I can allow you to retrace your steps with all of the knowledge you currently possess. Simply ask, and I can show you the way!"
+    }, {
+        "name": "The Not-So-Lost Husband",
+        "objective": "tell Bellethe that Finnas is okay",
+        "first_tasks": ["take Snowbell and Sunbeam to Bellethe"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Finnas",
+            "description": "a grateful man who injured his leg",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Bellethe",
+                "description": "Finnas' wife",
+                "location": ""
+            }, {
+                "name": "Snowbell",
+                "description": "Finnas and Bellethe's pet",
+                "location": ""
+            }, {
+                "name": "Sunbeam",
+                "description": "Finnas and Bellethe's pet",
+                "location": ""
+            }
+        ],
+        "tools": ["the player told Finnas that the player came here to rescue him, Snowbell and Sunbeam"],
+        "description": "You ... you came to rescue us?  Thank the guardians!\nI've managed to keep Snowbell and Sunbeam safe up here, but I injured my leg. I can't make my way out of this cave while carrying them. If you'll take them to Bellethe, I'll follow you out at my own pace. Tell Bellethe that I'm okay. My thanks to you for your help!"
+    }, {
+        "name": "Grom's Arena",
+        "objective": "prove your worth to Grom",
+        "first_tasks": ["attempt to survive the Arena of Slaughter"],
+        "first_task_locations": [{
+                "name": "Arena of Slaughter",
+                "description": "Grom's bloodstained arena"
+            }
+        ],
+        "quest_giver": {
+            "name": "Grom",
+            "description": "a peerless killer",
+            "location": "Arena of Slaughter"
+        },
+        "reward": [{
+                "name": "",
+                "description": "Grom's vast spoils",
+                "amount": 1
+            }
+        ],
+        "tools": ["many have tried to survive the Arena of Slaughter: now their souls serve Grom"],
+        "description": "So... you come seeking the wealth of Grom? My spoils are vast, and have no peer in this realm.\nThere is no path to success for you, lest you survive my arena and prove your worth.\nBe forewarned - many have tested their mettle on this bloodstained floor, but none have yet succeeded. Their souls are now mine, and they do as they are bid.\nWill you attempt the challenge? I will await your decision.\nNone have yet triumphed within the walls of my arena.\nPerhaps you will be the first?\nPerhaps..."
+    }, {
+        "name": "The Corrupted Guardian",
+        "objective": "prevent the Alchemist from corrupting and controlling all the world's magic",
+        "first_tasks": ["free the Guardian of Mana from Ezrohir's control"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "the player's ally",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "the player will thwart the Alchemist's plans",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Artificer",
+                "description": "an evil man allied with the Alchemist",
+                "location": ""
+            }, {
+                "name": "Alchemist",
+                "description": "an evil man, the player's enemy",
+                "location": ""
+            }, {
+                "name": "Guardian of Mana",
+                "description": "a good spirit that controls all magic",
+                "location": ""
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "the Alchemist's minions"
+            }
+        ],
+        "tools": ["the player defeated the Artificer in the Vaults: he enslaved the Guardian of Mana for the Alchemist"],
+        "description": "We must act quickly. It appears that the Artificer you defeated in the Vaults has enslaved the Guardian of Mana for the enemy. The most pressing danger is that they will use the enslaved Guardian to corrupt... and control... all the world's magic. Our only recourse in that event may be to destroy the Guardian.\nThere might still be hope. If we can find a way to free the Guardian from Ezrohir's control, we can thwart the Alchemist's plans."
+    }, {
+        "name": "Breaking the Siege",
+        "objective": "free the Guardian of Mana",
+        "first_tasks": ["fight your way past the Ezrohir to the Guardian of Mana"],
+        "first_task_locations": [{
+                "name": "Riftkeep",
+                "description": "a nearby fortress that was designated as a neutral ground, where the Zeraphi and the Ezrohir could meet and talk over their differences, now occupied by the Ezrohir"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "the player's ally",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "a hostile race of people, originally a faction of the Zeraphi"
+            }, {
+                "name": "Zeraphi",
+                "description": "a race of people, the player's allies"
+            }
+        ],
+        "characters": [{
+                "name": "Guardian of Mana",
+                "description": "a powerful spirit",
+                "location": "Riftkeep"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "When the Zeraphi and Ezrohir \"parted ways,\" they designated the nearby fortress of Riftkeep as a neutral ground, where they could meet and talk over their differences. But it has remained unused for centuries... until a few weeks ago, when the Ezrohir army seized the fortress. They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces.\nThe Ezrohir will be expecting the Zeraphi to attack them at Riftkeep, to attempt to rescue the Guardian. But they know it will take time for the Zeraphi to arrive. You can get there much more quickly, and fight your way inside before they are prepared to repel you.\nGo. Fight past the Ezrohir and free the Guardian!"
+    }, {
+        "name": "Meet the Djinni",
+        "objective": "convince Fazeer Shah to help you",
+        "first_tasks": ["locate Fazeer Shah"],
+        "first_task_locations": [{
+                "name": "Salt Barrens",
+                "description": "a desert"
+            }
+        ],
+        "quest_giver": {
+            "name": "Guardian Of Air",
+            "description": "an immortal spirit",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Fazeer Shah",
+                "description": "a male djinni",
+                "location": "Salt Barrens"
+            }, {
+                "name": "Ezrek Khan",
+                "description": "a male djinni",
+                "location": "a dark realm"
+            }
+        ],
+        "tools": ["Fazeer Shah and Ezrek Khan went to war centuries ago: they damaged the cities and devastated the land; Zeraphi sultan had enough and banished them both"],
+        "description": "Centuries ago, a djinni named Fazeer Shah and a djinni named Ezrek Khan quarreled over some trivial matter, and ultimately went to war. They caused considerable damage to the cities, and devastated the land, until the Zeraphi sultan had had enough. He banished them both: one to the desert, and one to... another place; a dark realm.\nIf you can reach Fazeer Shah, you might be able to convince him to help us.\nYou must travel out into the Salt Barrens to locate Fazeer Shah."
+    }, {
+        "name": "On to Grunnheim!",
+        "objective": "defeat the Dark Alchemist before he gets to the Clockwork Core",
+        "first_tasks": ["speak to the Railmaster, and depart to Grunnheim"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Guardian Of Air",
+            "description": "one of the Guardians",
+            "location": ""
+        },
+        "reward": [{
+                "name": "Clockwork Core",
+                "description": "a device that upholds the barriers between different worlds",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Dark Alchemist",
+                "description": "an evil man who has stolen the energy of three Guardians",
+                "location": ""
+            }, {
+                "name": "Railmaster",
+                "description": "a male transport expert",
+                "location": ""
+            }
+        ],
+        "locations": [{
+                "name": "Grunnheim",
+                "description": "a haunted forest"
+            }
+        ],
+        "groups": [{
+                "name": "Guardians",
+                "description": "powerful spirits who uphold the balance between the elements"
+            }, {
+                "name": "Netherim",
+                "description": "numerous demons residing in another world"
+            }
+        ],
+        "tools": ["the player thought that the Dark Alchemist is after the Guardian Of Air's power: he left the desert for Grunnheim", "the Dark Alchemist is powerful enough to destroy the barrier between the player's world and the realm of the Netherim"],
+        "description": "Let us return to the matter of the Dark Alchemist. He has now stolen the energy of three Guardians, and we thought he desired my power as well. But, for some reason, he has left the desert, and is now en route to Grunnheim.\nThat can only mean that he is bound for the Clockwork Core. With the power he has amassed, he could destroy the barrier between our world and the realm of the Netherim. They would pour through by the millions.\nSeek the Railmaster, and depart for Grunnheim as soon as you are able."
+    }, {
+        "name": "The Eve of War",
+        "objective": "save the Guardian of Mana from the Alchemist and Netherim",
+        "first_tasks": ["seek the Forsaken Vaults, and convince the Sphinx to grant you entry"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Guardian of Air",
+            "description": "a powerful spirit",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Alchemist",
+                "description": "an evil man",
+                "location": "Forsaken Vaults"
+            }, {
+                "name": "Guardian of Mana",
+                "description": "a powerful female spirit who is pursuing the Alchemist",
+                "location": "Forsaken Vaults"
+            }, {
+                "name": "Sphinx",
+                "description": "the guardian of the Forsaken Vaults",
+                "location": "Forsaken Vaults"
+            }
+        ],
+        "groups": [{
+                "name": "Netherim",
+                "description": "the Alchemist's demonic minions"
+            }
+        ],
+        "locations": [{
+                "name": "Forsaken Vaults",
+                "description": "hidden archives"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I have been expecting you. I am the Guardian of Air.\nThe Guardian of Mana has pursued the Alchemist into the Forsaken Vaults, which are guarded by the Sphinx. Seek the Vaults, and convince the Sphinx to grant you entry. The Guardian of Mana is in great danger... if not from the Alchemist, then from the Netherim. Save her."
+    }, {
+        "name": "Into the Dark",
+        "objective": "defeat the Alchemist and seize Ordrak's Heart before he destroys the Clockwork Core",
+        "first_tasks": ["overtake the Alchemist before he reaches the Clockwork Core"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Guardian Of Mana",
+            "description": "the player's ally",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Alchemist",
+                "description": "a villainous man holding Ordrak's Heart",
+                "location": ""
+            }
+        ],
+        "groups": [{
+                "name": "Guardians",
+                "description": "powerful spirits"
+            }
+        ],
+        "items": [{
+                "name": "Ordrak's Heart",
+                "description": "a powerful relic infused with the energy stolen from the Guardians",
+                "amount": 1
+            }, {
+                "name": "Clockwork Core",
+                "description": "a device that upholds the barriers between the worlds",
+                "amount": 1
+            }
+        ],
+        "tools": ["the Clockwork Core can be restored with Ordrak's Heart"],
+        "description": "You must overtake the Alchemist before he reaches the Clockwork Core. With the power of Ordrak's Heart, he could destroy the barrier between the worlds, which would mean the end of everything.\nYou must defeat the Alchemist and seize the Heart. He intends to use it for destruction, but, infused with the energy stolen from the Guardians, it now has the power to restore the Clockwork Core, and repair the damage to the barrier."
+    }, {
+        "name": "Freedom!",
+        "objective": "leave Riftkeep with the Guardian of Mana",
+        "first_tasks": ["enter the portal to Zeryphesh that the Guardian of Mana opens for you"],
+        "first_task_locations": [{
+                "name": "Riftkeep",
+                "description": "a fortress"
+            }
+        ],
+        "quest_giver": {
+            "name": "Guardian of Mana",
+            "description": "a powerful spirit",
+            "location": "Riftkeep"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Zeryphesh",
+                "description": "a city"
+            }
+        ],
+        "tools": ["the player freed Guardian of Mana from her enslavement by beating some sense into her"],
+        "description": "Stop. Enough. You have freed me from my enslavement and I am myself once more!\nWe must leave this place. I will open a portal for you, to Zeryphesh."
+    }, {
+        "name": "Return to the Enclave",
+        "objective": "stop the Alchemist before he can drain the two Guardians in the Ossean Wastes",
+        "first_tasks": ["talk to Commander Vale about getting to the Ossean Wastes"],
+        "first_task_locations": [{
+                "name": "Enclave",
+                "description": "a settlement"
+            }
+        ],
+        "quest_giver": {
+            "name": "Guardian of the Wild",
+            "description": "one of the Guardians, drained by the Alchemist",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Alchemist",
+                "description": "a male pawn of the Netherim",
+                "location": ""
+            }, {
+                "name": "Commander Vale",
+                "description": "a female military leader",
+                "location": "Enclave"
+            }
+        ],
+        "groups": [{
+                "name": "Guardians",
+                "description": "powerful spirits"
+            }, {
+                "name": "Netherim",
+                "description": "evil denizens of the Nether Realm"
+            }
+        ],
+        "locations": [{
+                "name": "Ossean Wastes",
+                "description": "a desert"
+            }
+        ],
+        "tools": ["Guardian of the Wild fears that the Alchemist uses the power of the Guardians to open a portal to the Nether Realm, plunging the world into eternal chaos"],
+        "description": "I fear the Alchemist is a pawn of the Netherim. With the power of the Guardians, a portal to the Nether Realm could be thrown wide, and the world would be plunged into an age of never-ending torment.\nReturn to the Enclave immediately. Commander Vale can help you secure passage to the Ossean Wastes, where two of my fellow Guardians can be found. Stop the Alchemist before he can drain them as well!"
+    }, {
+        "name": "Shadow of the Skara",
+        "objective": "help the Zeraphi any way you can",
+        "first_tasks": ["search for surviving Zeraphi"],
+        "first_task_locations": [{
+                "name": "Swarm Point",
+                "description": "a Skara nest"
+            }
+        ],
+        "quest_giver": {
+            "name": "Hareph",
+            "description": "a relieved Zeraphi master of explosives",
+            "location": "an outpost"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Skara",
+                "description": "aggressive, dangerous, flying insects"
+            }, {
+                "name": "Zeraphi",
+                "description": "a race of people"
+            }
+        ],
+        "tools": ["Hareph and his Zeraphi crew came to the outpost to deal with the Skara: the crew went to investigate the stacks and never came back", "Hareph gives the player explosives"],
+        "description": "I'm so relieved you have arrived! My crew and I journeyed to this outpost to deal with the increasingly aggressive Skara.\nI remained here to fashion additional explosives while my crew investigated the stacks, but they never returned. I have been unable to leave here because of the swarming Skara.\nPlease take these explosives with you and journey to Swarm Point, and search for any surviving Zeraphi and help them in any way you can!"
+    }, {
+        "name": "Coming Out Ahead",
+        "objective": "save the Bronze Head of Grunnheim from destruction by Sturmbeorn",
+        "first_tasks": ["recover the Bronze Head of Grunnheim"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "the temple, houses thousands of years of historical artifacts and documents, overrun by the Sturmbeorn"
+            }
+        ],
+        "quest_giver": {
+            "name": "High Priest Tauna",
+            "description": "the head priest of the temple",
+            "location": "a safe place"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Bronze Head of Grunnheim",
+                "description": "an artifact that contains records, some of which are the only accounts of major historic events",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Sturmbeorn",
+                "description": "brutish bandits who only value gold"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "We are relatively safe here, but the brutish Sturmbeorn will surely destroy everything that isn't made of gold! The temple is home to thousands of years of historical artifacts and documents, and it grieves me immeasurably to think of all of those treasures lost!\nWe were able to gather up some of the artifacts, as we fled, but the Bronze Head of Grunnheim was left behind! Please, find it! Some of its records are the only accounts we have of major historic events!"
+    }, {
+        "name": "Sudden Outbreaks",
+        "objective": "save uninfected temple priests from Nether-Thralls",
+        "first_tasks": ["find the temple priests"],
+        "first_task_locations": [{
+                "name": "Watchweald Temple",
+                "description": "a temple swept by a plague that transforms priests into Nether-Thralls"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a protector",
+            "location": "outside the Watchweald Temple"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Guardian of the Wild",
+                "description": "a good spirit",
+                "location": ""
+            }
+        ],
+        "enemies": [{
+                "name": "Nether-Thralls",
+                "description": "demonic creatures",
+                "amount": 1
+            }
+        ],
+        "tools": ["after saving the temple priests, the player can focus on aiding the Guardian of the Wild"],
+        "description": "Thank the Gods you are here! A plague is sweeping through the Watchweald Temple, transforming the temple priests into Nether-Thralls! Several uninfected priests are still inside, trapped by the Nether-Thralls. I can protect them, if I can reach them... or if they can reach me.\nLook for places where the temple priests may have hidden from the Nether-Thralls, and send them back here. Once they are all safe, we can focus on aiding the Guardian of the Wild."
+    }, {
+        "name": "Onward to Zeryphesh!",
+        "objective": "travel to Zeryphesh on the Imperial Railmaster's Embercraft",
+        "first_tasks": ["tell the Imperial Railmaster when your ready to go"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Imperial Railmaster",
+            "description": "a transporter",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Vanquisher",
+                "description": "a female commander",
+                "location": ""
+            }
+        ],
+        "locations": [{
+                "name": "Zeryphesh",
+                "description": "a town a couple of days travel away from here"
+            }, {
+                "name": "Embercraft",
+                "description": "a transportation device"
+            }
+        ],
+        "tools": ["the Vanquisher told the Imperial Railmaster that the player is coming to him"],
+        "description": "You're the one the Vanquisher lady told me about, then? Alright... whenever you're ready to get rollin', we'll get your gear aboard our Embercraft, and we'll set out to Zeryphesh. Shouldn't take us more than a couple of days to get there!"
+    }, {
+        "name": "Blight of the Bugs",
+        "objective": "discover what has been blighting Skara eggs",
+        "first_tasks": ["find the rigged Skara hives and detonate them", "destroy all infected eggs"],
+        "first_task_locations": [{
+                "name": "Swarm Point",
+                "description": "a Skara nest"
+            }, {
+                "name": "Brood Hive",
+                "description": "the innermost part of the Swarm Point"
+            }
+        ],
+        "quest_giver": {
+            "name": "Hoska",
+            "description": "Hareph's only surviving crew member",
+            "location": "Swarm Point"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Skara",
+                "description": "aggressive, dangerous, flying insects"
+            }
+        ],
+        "characters": [{
+                "name": "Hareph",
+                "description": "a male demolition master",
+                "location": ""
+            }
+        ],
+        "tools": ["Hareph sent the player to find his demolition crew: he gave the player explosives", "some Skara hives seem to be infected with something"],
+        "description": "Ah, Hareph sent you with some explosives. Finally some good news!\nDon't bother looking for the rest of the crew - I'm the only one that survived. \nThere's something wrong with some of the Skara hives - they seem to be infected. You'll need to locate the rigged hives and detonate them, then descend into the Brood Hive itself and destroy any infected eggs you find. Perhaps you will discover what has been blighting the eggs!\nThis is a great task, but it must be done. We will all be in your debt."
+    }, {
+        "name": "Angry Beasts",
+        "objective": "calm down the Warbeasts",
+        "first_tasks": ["get rid of whatever's making the Warbeasts vicious"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "Warbeast den, in the Bone Defile"
+            }
+        ],
+        "quest_giver": {
+            "name": "Imperial Trapper",
+            "description": "a ranger working towards the Imperial colonization effort",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Warbeasts",
+                "description": "monstrous animals"
+            }
+        ],
+        "locations": [{
+                "name": "Bone Defile",
+                "description": "a region"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I've been charged with culling the Warbeasts here, for the Imperial colonization effort. I can keep their population down, but something is driving them wild, almost like they're rabid or something.\nCan you get into the Warbeast den, in the Bone Defile, and get rid of whatever's making them so vicious?"
+    }, {
+        "name": "Ghost of a Chance",
+        "objective": "master all challenges",
+        "first_tasks": ["defeat the 5 Spectral Champions"],
+        "first_task_locations": [{
+                "name": "Crows' Pass",
+                "description": "a pass"
+            }
+        ],
+        "quest_giver": {
+            "name": "Forgotten Hero",
+            "description": "a ghost of a long-dead hero",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "the Forgotten Hero's most prized possession",
+                "amount": 1
+            }
+        ],
+        "enemies": [{
+                "name": "Spectral Champions",
+                "description": "ghosts of champions",
+                "amount": 5
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I have been dead a very long time, and in all those centuries, I have not found one soul worthy of taking up the mantle of hero, as I once did, and seeking adventure.\nWill you be that hero? I offer you five challenges. Defeat each of the five Spectral Champions in Crows' Pass: these ghostly champions will be your challenges. Should you master them all, my most prized possession is yours..."
+    }, {
+        "name": "Taking Notes",
+        "objective": "figure out how to stop the Alchemist",
+        "first_tasks": ["find the 3 Alchemist's Journals that remain"],
+        "first_task_locations": [{
+                "name": "Icedeep Caverns",
+                "description": "icy caverns where dangerous creatures dwell"
+            }
+        ],
+        "quest_giver": {
+            "name": "Jadok",
+            "description": "a man who knows the player",
+            "location": "Icedeep Caverns"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Alchemist",
+                "description": "a villainous man",
+                "location": ""
+            }
+        ],
+        "items": [{
+                "name": "Alchemist's Journals",
+                "description": "a series of journals written by the Alchemist",
+                "amount": 3
+            }, {
+                "name": "Ordrak's Heart",
+                "description": "a dangerous artifact",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Torchlight",
+                "description": "a town"
+            }
+        ],
+        "tools": ["Jadok found volume 4 of Alchemist's Journals: it describes entering the mine at Torchlight and retrieving Ordrak's Heart"],
+        "description": "Your arrival is well-timed. I believe I have located the Alchemist's lair, here in the Icedeep Caverns. I found a Journal just inside the entrance; it speaks of entering the mine at Torchlight and retrieving Ordrak's Heart. I intended to look for more, further inside the icy caverns, but the creatures dwelling there now are too much for me.\nFinding the rest of the Alchemist's Journals would probably be very helpful in ascertaining how to stop him. The one I saw was volume four, so there are probably three more in the Icedeep Caverns."
+    }, {
+        "name": "The Missing Man",
+        "objective": "find out what happened to Hareph",
+        "first_tasks": ["find Hareph"],
+        "first_task_locations": [{
+                "name": "Swarm Stacks",
+                "description": "Skara's nesting place north of here, out in the Salt Barrens"
+            }
+        ],
+        "quest_giver": {
+            "name": "Jasha",
+            "description": "a worried friend",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Hareph",
+                "description": "a man, and Jasha's missing friend",
+                "location": "Swarm Stacks"
+            }
+        ],
+        "groups": [{
+                "name": "Skara",
+                "description": "flying insects"
+            }
+        ],
+        "locations": [{
+                "name": "Salt Barrens",
+                "description": "a desolate region"
+            }
+        ],
+        "tools": ["Hareph left with a crew to determine why the Skara have become aggressive"],
+        "description": "If you're heading out into the Salt Barrens, could you find out what happened to my companion Hareph?\nHe left with a crew to determine why the Skara have become so aggressive lately, but no one has come back.\nIf you travel North to the Swarm Stacks, you should be able to find him - or at least what happened to him."
+    }, {
+        "name": "The Locket",
+        "objective": "bring the Locket to Jessa",
+        "first_tasks": ["find the Locket"],
+        "first_task_locations": [{
+                "name": "Blightbogs",
+                "description": "a swamp"
+            }
+        ],
+        "quest_giver": {
+            "name": "Jessa",
+            "description": "a sorrowful daughter",
+            "location": "Blightbogs"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Locket",
+                "description": "a memento of Jessa's father",
+                "amount": 1
+            }
+        ],
+        "tools": ["the player told Jessa that her father is dead"],
+        "description": "Oh, my poor father - I cannot believe that he is gone! Dear father...\nPlease try to retrieve the Locket - it belonged to my father. I cannot bear to think that it is lost in this foul place, corroding away in swamp water. He must have dropped it somewhere around here..."
+    }, {
+        "name": "The Wraithring",
+        "objective": "discover Jessa's father's fate",
+        "first_tasks": ["find Jessa's father"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "the catacombs, where dark things live"
+            }
+        ],
+        "quest_giver": {
+            "name": "Jessa",
+            "description": "an anxious woman from Estheria",
+            "location": "Jessa and her father's camp"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Wraithring",
+                "description": "an ancient artifact which is said to have power over death",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Estheria",
+                "description": "a country"
+            }, {
+                "name": "Temple",
+                "description": "a temple in Estheria"
+            }
+        ],
+        "tools": ["Jessa and her father came here to recover the Wraithring: they wanted to bring it to the Temple for study", "Jessa's father wears a locket around his neck"],
+        "description": "Please, traveler! Wait a moment! I am Jessa - a traveler from Estheria. My father and I came to this place to recover an ancient artifact - the Wraithring - which is said to have power over death itself. We sought to bring it to the Temple for study.\nMy father entered the catacombs while I tended our camp - but he has not returned, and there are dark things stirring below.\nPlease - I only ask that you discover his fate - perhaps he is wounded and only needs aid to escape!\nIf the worst comes to pass... he wears a locket around his neck, and you will know him by it."
+    }, {
+        "name": "The Key to Victory",
+        "objective": "help Lord Taldimut gather up weapons and armor from the Celestial Armory without Ezrohir noticing",
+        "first_tasks": ["use the Golden Gear to get inside the Celestial Armory, and activate the Armory Portal"],
+        "first_task_locations": [{
+                "name": "Celestial Armory",
+                "description": "Lord Taldimut's armory that houses some of the finest weapons"
+            }
+        ],
+        "quest_giver": {
+            "name": "Lord Taldimut",
+            "description": "the player's old friend, who promised the player a a greater reward if the player came to visit him in Ossean Wastes",
+            "location": "Ossean Wastes"
+        },
+        "reward": [{
+                "name": "",
+                "description": "the player's choice of artifacts from the Celestial Armory",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Armory Portal",
+                "description": "a hidden portal to the Celestial Armory",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "Lord Taldimut's enemies"
+            }
+        ],
+        "locations": [{
+                "name": "Ossean Wastes",
+                "description": "a desert"
+            }
+        ],
+        "tools": ["Ezrohir have the Celestial Armory under siege"],
+        "description": "It's good to see you again, my friend! I know that I promised you a greater reward, should you come to visit... but that was before I returned to the Ossean Wastes and found the Celestial Armory under siege by Ezrohir.\nWhat if I give you your choice of artifacts from the Armory? The Celestial Armory houses some of the finest weapons in the world! You have but to use the Golden Gear to get inside, then activate the Armory Portal, which will allow us to gather up the weapons and armor safely... with the Ezrohir none the wiser!"
+    }, {
+        "name": "The Lost Key",
+        "objective": "help Lord Taldimut bring the Golden Gear to Zeryphesh",
+        "first_tasks": ["recover the Golden Gear"],
+        "first_task_locations": [{
+                "name": "Whispering Cave",
+                "description": "a deep cave"
+            }
+        ],
+        "quest_giver": {
+            "name": "Lord Taldimut",
+            "description": "a man from Zeryphesh",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Golden Gear",
+                "description": "important object related to defense of Zeryphesh",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Zeryphesh",
+                "description": "a city sieged by Ezrohir"
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "a hostile race of people"
+            }
+        ],
+        "tools": ["Lord Taldimut has been studying the crests"],
+        "description": "I have continued studying the crests, and I am more convinced than ever that the Golden Gear is hidden in the the Whispering Cave. If you can retrieve it, I can bring it back to Zeryphesh, to aid in the city's defense against the Ezrohir siege."
+    }, {
+        "name": "The Zeraphi Envoy",
+        "objective": "help Lord Taldimut narrow down the location of the Golden Gear",
+        "first_tasks": ["find the 3 crests for Lord Taldimut"],
+        "first_task_locations": [{
+                "name": "Frosted Hills",
+                "description": "frozen hills"
+            }
+        ],
+        "quest_giver": {
+            "name": "Lord Taldimut",
+            "description": "a Zeraphi ambassador, the leader of the Zeraphi envoy",
+            "location": "Frosted Hills"
+        },
+        "reward": [{
+                "name": "",
+                "description": "Lord Taldimut will reward the player",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Golden Gear",
+                "description": "important object related to defense of Zeraphi",
+                "amount": 1
+            }, {
+                "name": "",
+                "description": "crests, created by the Estherians, together form a map that shows the exact location of the Golden Gear",
+                "amount": 3
+            }
+        ],
+        "characters": [{
+                "name": "Grand Regent Eldrayn",
+                "description": "the leader of the Estherians",
+                "location": ""
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "a hostile race of people who will start a war with Zeraphi"
+            }, {
+                "name": "Zeraphi",
+                "description": "a race of people"
+            }, {
+                "name": "Estherians",
+                "description": "a race of people, friendly towards the Zeraphi"
+            }
+        ],
+        "tools": ["the player saved Lord Taldimut and his Zeraphi envoy from goblins", "Grand Regent Eldrayn allowed Lord Taldimut and his Zeraphi envoy to search for the Golden Gear"],
+        "description": "My friend, thank you for coming to our aid. I am Lord Taldimut, the leader of this Zeraphi envoy, sent to procure the Estherians' aid in our upcoming war with the Ezrohir. Grand Regent Eldrayn gave us leave to search the Frosted Hills for the Golden Gear, and we had narrowed our search to these chilly hills before we were assaulted by these goblins.\nNow we are too injured to continue our search. Can you aid us? The exact location of the Golden Gear is long forgotten, but the Estherians created a map from three crests. If you can find those, I can interpret the map and find the Gear! Search the Frosted Hills for the crests. Bring them to me, and I will reward you, on behalf of the Zeraphi people."
+    }, {
+        "name": "*Seeing Things",
+        "objective": "help Guard kill invisible demons",
+        "first_tasks": ["kill the invisible demons that surround Guard"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Guard",
+            "description": "a frantic guard",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "Thank the Gods you're here! These... demons just came out of nowhere! I've been able to hold them off so far, but, with you here, we'll soon triumph over them!\nWhy are you looking at me like that? Can't you see them? They're all around us! Please... you've got to believe me!"
+    }, {
+        "name": "The Growing Rift",
+        "objective": "see whether the Rift is closed; if not, close it",
+        "first_tasks": ["find the Rift"],
+        "first_task_locations": [{
+                "name": "Gravedeep",
+                "description": "a pit mine in the Sundered Battlefield"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a scout",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Rift",
+                "description": "a hole between this world and the world of evil, powerful demons",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Sundered Battlefield",
+                "description": "an ancient battlefield"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "Listen: If you're headed out to the Sundered Battlefield, there's something you should know. We were surveying out there, and discovered some kind of... hole, in thin air, in the pit mine we've been calling Gravedeep. The hole is very small, right now, but we could see things inside... powerful things, but horrible. Malign.\nIf you're going out there, see if you can find the hole. If we're lucky, it disappeared. But, if not, you should do your best to find a way to close it, before the things we saw get through!"
+    }, {
+        "name": "A High-Value Target",
+        "objective": "prevent the Ezrohir from interrogating Commander Muzaffar",
+        "first_tasks": ["rescue Commander Muzaffar from the Ezrohir, before they take him to Riftkeep"],
+        "first_task_locations": [{
+                "name": "Ossean Wastes",
+                "description": "a large desert"
+            }
+        ],
+        "quest_giver": {
+            "name": "Malik Vosh",
+            "description": "a friendly Zeraphi nobleman",
+            "location": "Zeryphesh"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Zeryphesh",
+                "description": "a large city inhabited by the Zeraphi"
+            }, {
+                "name": "Riftkeep",
+                "description": "the stronghold of the Ezrohir"
+            }
+        ],
+        "characters": [{
+                "name": "Commander Muzaffar",
+                "description": "the military leader of the Zeraphi, captured by the Ezrohir",
+                "location": "Ossean Wastes"
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "a hostile race of people who are at war with Zeraphi"
+            }, {
+                "name": "Zeraphi",
+                "description": "a race of people"
+            }
+        ],
+        "tools": ["the Ezrohir are preparing to assault Zeryphesh"],
+        "description": "Greetings, my friend! Welcome to Zeryphesh! I am Malik Vosh. I speak for the Zeraphi.\nAs you know, the Ezrohir are preparing to assault our city. Our military leader, Commander Muzaffar, has apparently been captured by the Ezrohir, out in the Ossean Wastes. They'll have sent for soldiers to take their prisoners back to their stronghold. Once they get him to Riftkeep, they'll identify him quickly enough, and then they'll interrogate him until they know everything about our defenses.\nI believe you're going out to the Ossean Wastes, the vast desert. Please, rescue Muzaffar. We need him."
+    }, {
+        "name": "An Enchanter in Chains",
+        "objective": "get your reward from Malo",
+        "first_tasks": ["go see Malo"],
+        "first_task_locations": [{
+                "name": "Estherian Enclave",
+                "description": "a settlement"
+            }
+        ],
+        "quest_giver": {
+            "name": "Malo",
+            "description": "a relieved enchanter",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a reward",
+                "amount": 1
+            }
+        ],
+        "tools": ["the player freed Malo from bandits"],
+        "description": "Oh, thank you so much!  Here I was, afraid I'd never enchant anything ever again!\nI'm was on my way to the Estherian Enclave when these brigands ambushed me. Once I gather my wits, I'll head over there. Come by and see me, if you get a chance! I'll have a reward for you."
+    }, {
+        "name": "The Crab Trap",
+        "objective": "stop the Ezrohir from getting scrap metal from the crabs",
+        "first_tasks": ["prevent the Crab King from finishing his negotiations with the Ezrohir"],
+        "first_task_locations": [{
+                "name": "Dead Shoals",
+                "description": "a deep crevice below Mashal"
+            }
+        ],
+        "quest_giver": {
+            "name": "Mashal",
+            "description": "a Zeraphi scout",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a potion",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Crab King",
+                "description": "the king of the crabs",
+                "location": "Dead Shoals"
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "a hostile race of people who are at war with Zeraphi"
+            }, {
+                "name": "Zeraphi",
+                "description": "a race of people"
+            }
+        ],
+        "tools": ["the player is a friend of the Zeraphi"],
+        "description": "Your timing is perfect, my friend! Below us, in the Dead Shoals, the Crab King is negotiating with a representative of the Ezrohir, to provide the Ezrohir with a huge cache of scrap metal they have salvaged. The Ezrohir will use that scrap to forge more arms to bring against us! They must be stopped!\nI beg you: Go down into the Dead Shoals and prevent the Crab King from concluding his negotiations with the Ezrohir! I realize this is not much in the way of a reward, but this potion is all I can offer."
+    }, {
+        "name": "The Merryweather Poultice",
+        "objective": "help Medrus treat himself",
+        "first_tasks": ["bring some Merryweather Leaves to Medrus"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "around here"
+            }
+        ],
+        "quest_giver": {
+            "name": "Medrus",
+            "description": "a badly injured man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "Medrus will reward the player",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Merryweather Leaves",
+                "description": "a healing herb",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "Hello! I thought I heard someone moving around out there.\nListen, my name's Medrus. I got ambushed by some raiders, and managed to get clear... but I got pretty badly injured in the process. I can treat it, but I need some Merryweather Leaves. They grow around here, but I'm too weak to look for them.\nThink you can find some for me, bring 'em back here? You'll be rewarded, I promise."
+    }, {
+        "name": "The Scroll of Anom-Irek",
+        "objective": "retrieve the Scroll of Anom-Irek, and return to Miamin",
+        "first_tasks": ["find the Scroll of Anom-Irek in a vault"],
+        "first_task_locations": [{
+                "name": "Corrupted Crypt",
+                "description": "a crypt crawling with the Sturmbeorn in the Path of the Honored Dead"
+            }
+        ],
+        "quest_giver": {
+            "name": "Miamin",
+            "description": "an Estherian scout",
+            "location": "Path of the Honored Dead"
+        },
+        "reward": [{
+                "name": "",
+                "description": "equipment fit for a hero",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Estherians",
+                "description": "magical humanoids"
+            }, {
+                "name": "Sturmbeorn",
+                "description": "ferocious bandits"
+            }
+        ],
+        "locations": [{
+                "name": "Path of the Honored Dead",
+                "description": "a pass"
+            }
+        ],
+        "items": [{
+                "name": "Scroll of Anom-Irek",
+                "description": "a powerful healing scroll",
+                "amount": 1
+            }
+        ],
+        "tools": ["the player has helped Estherians before"],
+        "description": "You must be the human the other Estherians are speaking of. I am glad to have met you. I have been sent on a quest to recover the Scroll of Anom-Irek, stored in a vault in the Corrupted Crypt, here. The scroll should allow us to heal the Estherians who have been corrupted by evil spirits. Unfortunately, the Sturmbeorn have already entered the crypt, and I have been unable to get past them.\nCan I ask you to attempt to retrieve the scroll? I will wait here in the Path of the Honored Dead for your return. Should you succeed, I will see what I can do to provide you with some equipment more fitting a hero of your stature."
+    }, {
+        "name": "Tower of the Moon",
+        "objective": "see if there are Ezrohir scouts at the Tower of the Moon",
+        "first_tasks": ["deal with any Ezrohir scouts you find"],
+        "first_task_locations": [{
+                "name": "Tower of the Moon",
+                "description": "an ancient tower in the Ossean Wastes, near Zeryphesh"
+            }
+        ],
+        "quest_giver": {
+            "name": "Muzaffar",
+            "description": "the player's friend",
+            "location": "Zeryphesh"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Zeryphesh",
+                "description": "a city-state located in the Ossean Wastes"
+            }, {
+                "name": "Forsaken Vaults",
+                "description": "a dungeon located far out in the Ossean Wastes"
+            }, {
+                "name": "Ossean Wastes",
+                "description": "a desert"
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "a race of people who are at war with Zeryphesh"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "My friend, I have a mission for you. You may have noticed the Ezrohir activity in the Ossean Wastes. We believe these are scouts operating out of the Forsaken Vaults, but they are appearing so close to the city gates that we think they might have a base much nearer, from which they are spying on us.\nWe have narrowed down the possibilities, and I want you to look into the Tower of the Moon, an ancient tower jutting from the Ossean Wastes. Determine if there are any Ezrohir scouts there... and if you find any, deal with them."
+    }, {
+        "name": "One Man's Trash",
+        "objective": "find out whether a used Ember can be recharged, and return to Nerasis",
+        "first_tasks": ["attempt to charge the Spent Ember"],
+        "first_task_locations": [{
+                "name": "Tarroch's Rift",
+                "description": "a mana-rich area with horrible monsters"
+            }
+        ],
+        "quest_giver": {
+            "name": "Nerasis",
+            "description": "a a researcher working for the Empire",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "Nerasis will pay the player",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Ember",
+                "description": "a magical power source",
+                "amount": 1
+            }, {
+                "name": "Spent Ember",
+                "description": "a burned-out Ember",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "Hello there! I wonder if you have a moment to help me out? My name is Nerasis; I'm a researcher for the Empire. I've been working on a theory that used Ember can be recharged, with exposure to a suitably large source of mana. My research led me to Tarroch's Rift, where the mana output ratio is... well, it's very high.\nThe problem is that there are quite a few horrible monsters between me and the mana source. I would be willing to pay you to take this burned-out Spent Ember into Tarroch's Rift and attempt to charge it, then bring it back here so I can see if my theory is correct."
+    }, {
+        "name": "Ghosts of Plunder Cove",
+        "objective": "avenge Olwin",
+        "first_tasks": ["find the hidden refuge of Captain Willy, and kill him"],
+        "first_task_locations": [{
+                "name": "Plunder Cove",
+                "description": "a pirate refuge"
+            }
+        ],
+        "quest_giver": {
+            "name": "Olwin",
+            "description": "a ghost of a man who was betrayed and drowned by his evil companions",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Captain Willy",
+                "description": "the leader of Olwin's murderers, a male ghost pirate",
+                "location": "Plunder Cove"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I mean you no harm; I am but a lonely soul, trapped in the afterlife. Betrayed and drowned by villainous companions, I dwell here, reliving my end, waiting in vain for my death to be avenged.\nBut it has been over a hundred years since I took my last breath, and nearly that many since my murderers themselves perished, in their hidden retreat in Plunder Cove. Seek their leader, Captain Willy. Show him that justice has neither forgotten him... nor forgiven him!"
+    }, {
+        "name": "Ghostly Justice",
+        "objective": "avenge Larry",
+        "first_tasks": ["find Captain Stillheart, and kill him"],
+        "first_task_locations": [{
+                "name": "Plunder Cove",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Larry",
+            "description": "a ghost of a former tomb raider, who was left to die by his former accomplices",
+            "location": "a desert"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Captain Stillheart",
+                "description": "the leader of Larry's former accomplices, a male ghost",
+                "location": "Plunder Cove"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I was a villain, in my time. I broke into tombs and stole from the dead. But, one day, I realized how much pain I had caused those still living... and I swore it would stop.\nMy comrades... my accomplices... felt differently. They lured me out into these desolate sands and left me to die. My spirit has haunted this place ever since, bound here by the weight of my sins, hoping for vengeance. But they perished elsewhere, beyond my reach, even though they are now spirits as well. Seek their leader, Captain Stillheart, in Plunder Cove, and show him that justice can still find him!"
+    }, {
+        "name": "On the Alchemist's Trail",
+        "objective": "stop the Alchemist",
+        "first_tasks": ["go after the Alchemist"],
+        "first_task_locations": [{
+                "name": "Broken Mines",
+                "description": "mines"
+            }
+        ],
+        "quest_giver": {
+            "name": "Professor Stoker",
+            "description": "the player's ally",
+            "location": "next to the entrance to the Broken Mines"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Alchemist",
+                "description": "the player's desperate male enemy",
+                "location": "Broken Mines"
+            }
+        ],
+        "tools": ["the Alchemist went into the Broken Mines: he is nearing his goal"],
+        "description": "This is the only entrance to the Broken Mines that we've found, so the Alchemist is almost certainly in there. That probably means he's near his goal, whatever that is... and that means he'll do everything he can to keep you from stopping him. He'll be even more desperate, more dangerous.\nI don't know what we'll encounter in there."
+    }, {
+        "name": "Robot Parts",
+        "objective": "talk to the 4000 Model",
+        "first_tasks": ["let Professor Stoker put the parts of the 4000 Model back together"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Professor Stoker",
+            "description": "an inventor",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "4000 Model",
+                "description": "an old robot",
+                "location": ""
+            }
+        ],
+        "tools": ["the player brought parts of the 4000 Model to Professor Stoker"],
+        "description": "What do we have here?  Wow, this is a 4000 Model robot! These are quite old - this one appears to have had a lot of work done to it. Not sure why it's in pieces - why don't we find out! Let me just put these together for you and we'll see what it has to say for itself."
+    }, {
+        "name": "Some Assembly Required",
+        "objective": "open the Great Door",
+        "first_tasks": ["find a power source for the dwarven automaton"],
+        "first_task_locations": [{
+                "name": "Scrapworks",
+                "description": "a dangerous junkyard"
+            }
+        ],
+        "quest_giver": {
+            "name": "Professor Stoker",
+            "description": "the player's ally",
+            "location": "Imperial Camp"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Great Door",
+                "description": "a door that leads to the Clockwork Core"
+            }
+        ],
+        "characters": [{
+                "name": "Alchemist",
+                "description": "the player's male enemy",
+                "location": ""
+            }
+        ],
+        "items": [{
+                "name": "Clockwork Core",
+                "description": "a terrible machine",
+                "amount": 1
+            }
+        ],
+        "tools": ["the Alchemist came through the Imperial Camp an hour ago: he went through the Great Door and sealed it behind him", "the Great Door leads to the Clockwork Core"],
+        "description": "I wish you had gotten here sooner! The Alchemist came through here about an hour ago. He laid waste to the camp and then went through the Great Door, there - sealed it shut behind him.\nWe believe that door leads to the Clockwork Core. We've been unable to open it ourselves, but we know how in theory. See that dwarven automaton? It's designed to open the door, but it's missing its Power Source. There should be one in the Scrapworks, but it was too dangerous for us to enter. Perhaps you will have more luck."
+    }, {
+        "name": "The Sundered Battlefield",
+        "objective": "recharge the power source, and return to Professor Stoker to install the power source in the automaton",
+        "first_tasks": ["reach the the Sundered Battlefield", "find the Emberworks on the far side of the Sundered Battlefield"],
+        "first_task_locations": [{
+                "name": "Rivenskull Pass",
+                "description": "a pass"
+            }, {
+                "name": "Sundered Battlefield",
+                "description": "an ancient battlefield"
+            }
+        ],
+        "quest_giver": {
+            "name": "Professor Stoker",
+            "description": "an inventor",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Emberworks",
+                "description": "an ancient dwarwen machine workshop"
+            }
+        ],
+        "tools": ["the player brought a power source to Professor Stoker: it is completely drained"],
+        "description": "Oh, no... I was afraid of this! The Power Source is completely drained! This is going to be more difficult than I'd anticipated. This is only a minor setback. We knew about these Power Sources from our explorations of the Emberworks, on the far side of the Sundered Battlefield. We found machines there that the ancient dwarves once used to craft them. If you can reach the Emberworks, it should be child's play to recharge it.\nYou'll have to make your way through Rivenskull Pass to reach the battlefield. Once you've charged the Power Source, come back here, and we'll install it in the Automaton."
+    }, {
+        "name": "Endless Adventure",
+        "objective": "navigate to all sorts of places from the Mapworks",
+        "first_tasks": ["go on an adventure"],
+        "first_task_locations": [{
+                "name": "Mapworks",
+                "description": "a legendary dungeon hub"
+            }
+        ],
+        "quest_giver": {
+            "name": "Retto the Mapper",
+            "description": "an excited man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "The legendary Mapworks is operational once more! From the Mapworks, you can navigate to all sorts of wondrous places! Many fine adventures surely await you within."
+    }, {
+        "name": "Enter the Door",
+        "objective": "recover the Crown from Thiss, and bring it to Robot Eye",
+        "first_tasks": ["find Thiss"],
+        "first_task_locations": [{
+                "name": "Forgotten Halls",
+                "description": "a dungeon"
+            }
+        ],
+        "quest_giver": {
+            "name": "Robot Eye",
+            "description": "an arrogant person guarding the door",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "the player will be allowed through the door",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Crown",
+                "description": "Robot Eye's family heirloom",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Thiss",
+                "description": "a great spectral dragon who stole the Crown from Robot Eye",
+                "location": "Forgotten Halls"
+            }
+        ],
+        "tools": ["the player told Robot Eye that the player wants to go through the door"],
+        "description": "You want through THIS door? Ha! Well, it's not as simple as that. Everything has a price - you must know that by now.\nIf you can solve a problem for us, we will solve a problem for you by letting you through the door. Thiss, the great Spectral Dragon, has kept something of ours for many long years. We would like it back - and you will get it for us, oh yes.\nThere is a Crown, a... family heirloom that he stole from us. He will not give it up easily, of course. But this door is im-PENETRABLE - so you've got a much better chance with Thiss than you do waiting around here.\nYou can find Thiss in the Forgotten Halls... good luck! You're going to need it."
+    }, {
+        "name": "Bring Out Your Dead",
+        "objective": "recover the Rosamortis for Selrenki",
+        "first_tasks": ["convince the spirits to unlock the Ghost Chains", "get the Rosamortis away from its big undead guardian"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "near the Bone Gallery"
+            }, {
+                "name": "Bone Gallery",
+                "description": "a crypt whose entrance is locked with the Ghost Chains"
+            }
+        ],
+        "quest_giver": {
+            "name": "Selrenki",
+            "description": "a shady man",
+            "location": "near the Bone Gallery"
+        },
+        "reward": [{
+                "name": "",
+                "description": "Selrenki makes it worth the player's while",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Ghost Chains",
+                "description": "chains that only a ghost can open",
+                "amount": 1
+            }, {
+                "name": "Rosamortis",
+                "description": "a valuable little item that can save the life of someone who's been mortally wounded",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I got a proposition for you... a little \"I scratch my back, you scratch yours\" kind of thing. See this crypt over here? It's called the Bone Gallery, and there's a little thing in there called the Rosamortis... a handy little thingamajig that can save the life of someone who's been mortally wounded... which, while pretty valuable, is also guarded by the biggest undead monstrosity I've ever seen!\nAlso, the entrance to the Bone Gallery is locked with chains only a ghost can open! You'll have to convince the spirits to unlock the Ghost Chains and give you access, then get the Rosamortis away from that monster... but I promise to make it worth your while!"
+    }, {
+        "name": "Artifice of Evil",
+        "objective": "save the Guardian of Mana, and Zeryphesh",
+        "first_tasks": ["find the Guardian of Mana"],
+        "first_task_locations": [{
+                "name": "Vaults Forsaken",
+                "description": "a foul dungeon filled with Ezrohir"
+            }
+        ],
+        "quest_giver": {
+            "name": "Sphinx",
+            "description": "a statue that speaks in riddles",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Zeryphesh",
+                "description": "a city-state"
+            }
+        ],
+        "characters": [{
+                "name": "Guardian of Mana",
+                "description": "a good female spirit",
+                "location": "Vaults Forsaken"
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "a race of people who are at war with Zeryphesh"
+            }
+        ],
+        "tools": ["the Ezrohir captured the Guardian of Mana again: they stripped away her magic and enslaved her"],
+        "description": "The Ezrohir prepare today for war\nTheir legions number in the score.\nTheir Alchemy and Artifice suffice\nTo capture Mana... not once but twice.\nImprisoned in the Vaults Forsaken:\nSubdued, enslaved, her magic taken.\nForced to lead their troops in battle\nFrom Guardian... to so much chattel.\nThe Ezrohir have Mana enslaved\nBut there's still hope; she might yet be saved.\nThe enemy lie in this foul creche.\nSave the Guardian... save Zeryphesh."
+    }, {
+        "name": "Lair of the Manticore",
+        "objective": "bring the skin of the Manticore to the Sphinx",
+        "first_tasks": ["kill the Manticore"],
+        "first_task_locations": [{
+                "name": "Stygian Aerie",
+                "description": "a Manticore nest"
+            }
+        ],
+        "quest_giver": {
+            "name": "Sphinx",
+            "description": "the riddle-speaking guardian of the gate",
+            "location": "the entrance to the Forsaken Vaults, at a desert"
+        },
+        "reward": [{
+                "name": "",
+                "description": "the Sphinx allows the player passage through the gate",
+                "amount": 1
+            }
+        ],
+        "enemies": [{
+                "name": "Manticore",
+                "description": "a half drake, a half lion beast",
+                "amount": 1
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "My ancient charge, to guard the gate\nThe desert sands to contemplate.\nIn Stygian realm lurks beast of yore\nPart drake, part lion: Manticore.\nLay its skin before my eyes\nAnd passage through shall be your prize."
+    }, {
+        "name": "Perilous Passage",
+        "objective": "save the Mana Queen",
+        "first_tasks": ["go through the gate to the Forsaken Vaults"],
+        "first_task_locations": [{
+                "name": "Forsaken Vaults",
+                "description": "a perilous dungeon"
+            }
+        ],
+        "quest_giver": {
+            "name": "Sphinx",
+            "description": "the guardian of the Forsaken Vaults, speaks in rhymes",
+            "location": "the gate to the Forsaken Vaults"
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Mana Queen",
+                "description": "a good female spirit",
+                "location": "Forsaken Vaults"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "The Mana Queen has come and gone\nThrough this gate, she journeyed on.\nFollow her and pay the cost.\nHasten forth, or she'll be lost."
+    }, {
+        "name": "The Blue Boletus",
+        "objective": "bring Blue Boletus flesh to Sprocket",
+        "first_tasks": ["get Blue Boletus flesh"],
+        "first_task_locations": [{
+                "name": "Fungal Caves",
+                "description": "the only place where Blue Boletus grow"
+            }
+        ],
+        "reward": [{
+                "name": "",
+                "description": "Sprocket will be in the player's debt",
+                "amount": 1
+            }
+        ],
+        "quest_giver": {
+            "name": "Sprocket",
+            "description": "a distraught Ponya",
+            "location": ""
+        },
+        "items": [{
+                "name": "Black Blindness",
+                "description": "a disease peculiar to the Ponya, which dims the vision and makes speech impossible permanently after two weeks, can only be cured with Blue Boletus flesh",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Ponya",
+                "description": "a race of people"
+            }, {
+                "name": "Blue Boletus",
+                "description": "fungus creatures"
+            }
+        ],
+        "tools": ["Sprocket traveled here from his home village to find Blue Boletus for his cousins who are afflicted with the Black Blindness"],
+        "description": "Oh, please - perhaps you can help us! On the advice of our village's healer, I have traveled here seeking a cure. My cousins are afflicted with the Black Blindness, an ailment peculiar to our race.\nBlack Blindness is an insidious disease - it dims the vision and makes speech impossible, and if not treated within a few weeks, can become permanent. The only known treatment is produced from the flesh of the Blue Boletus - a species of mushroom creatures that grows only in the Fungal Caves near here. I find that they are, ah, BIGGER than I had anticipated, however.\nPerhaps YOU could retrieve some Blue Boletus flesh for us? We would be forever in your debt!"
+    }, {
+        "name": "A Shattered Visage Lies",
+        "objective": "help the Faceless King reunite the Zeraphi and Ezrohir",
+        "first_tasks": ["find the Royal Masks, and bring them to the Faceless King"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Faceless King",
+            "description": "the former king of the Zeraphi and Ezrohir, an immortal man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Royal Masks",
+                "description": "the masks of the royal line, keys to the Vault of Souls",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Zeraphi, Ezrohir",
+                "description": "two warring races of people who were once one race"
+            }
+        ],
+        "locations": [{
+                "name": "Vault of Souls",
+                "description": "a place where the Faceless King can reunite the Zeraphi and Ezrohir"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I am called the Faceless King, and I have resided here since the Zeraphi and Ezrohir were one race. I was their king. It has been my dream to reunite them by accessing the Vault of Souls, but the Vault will not open without the masks of the royal line, which were stolen from me ages ago.\nIf you can locate the Royal Masks and return them to me, I can unlock the Vault of Souls, and reunite the Zeraphi and Ezrohir! Please, my mortal friend... help me end this war."
+    }, {
+        "name": "Getting One's Bearings",
+        "objective": "find the Azimuthoscope",
+        "first_tasks": ["follow the trail of Trill-Bot 4000's parts"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "dungeon"
+            }
+        ],
+        "quest_giver": {
+            "name": "Trill-Bot 4000",
+            "description": "the player's robot friend",
+            "location": "outside the dungeon"
+        },
+        "reward": [{
+                "name": "",
+                "description": "Trill-Bot 4000 can direct the player toward another treasure trove",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Azimuthoscope",
+                "description": "an important component of Trill-Bot 4000",
+                "amount": 1
+            }
+        ],
+        "tools": ["the player showed Trill-Bot 4000 a robot component"],
+        "description": "I believe you have found one of my missing components! There appears to be a trail of them, leading toward that dungeon.\nIf you follow the trail of my Parts, it might lead you to my Azimuthoscope: the component I need to direct you to another treasure trove!"
+    }, {
+        "name": "Loose Connections",
+        "objective": "reacquire the rest of Trill-Bot 4000's components",
+        "first_tasks": ["find the Cognition Linkage"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "somewhere nearby"
+            }
+        ],
+        "quest_giver": {
+            "name": "Trill-Bot 4000",
+            "description": "a robot",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "Trill-Bot 4000 will direct the player toward a treasure trove",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Cognition Linkage",
+                "description": "an important component of Trill-Bot 4000",
+                "amount": 1
+            }
+        ],
+        "tools": ["the player found Trill-Bot 4000's body, which stores his memories"],
+        "description": "It appears you have found my body. Very good. This is where my memories are stored \u2026 including the locations of multiple caches of treasure. I could share these with you, if you would help me reacquire the rest of my components.\nWe should begin with my Cognition Linkage. Without that, I won't be able to do much more than repeat this message. My sensors tell me it is somewhere nearby. Find it and reinstall it, and I will direct you to one of those treasure troves."
+    }, {
+        "name": "The Three Sisters",
+        "objective": "find the 3 sisters",
+        "first_tasks": ["investigate a tree trunk in an area full of spiders"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Trill",
+            "description": "a great bard who received a blow to the head in Torchlight",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Veras",
+                "description": "a land"
+            }, {
+                "name": "Torchlight",
+                "description": "a city in Veras that was destroyed"
+            }, {
+                "name": "Redhaven",
+                "description": "a city in Veras"
+            }
+        ],
+        "tools": ["Trill is known throughout Veras: from Torchlight to Redhaven"],
+        "description": "Greetings! I am the great bard Trill. You've heard of me of course, my talent is known throughout all of Veras. From Torchlight to Redhaven they sing of my.. songs.\nTorchlight... did something happen there? I feel a bit... Ah, nevermind. I recognize this place!\nThe spiders called, the Sisters three, the old trunk yawning wide,\nThrough ancient halls, dark ancestry, they met their fates inside.\nAn apt verse, you'll agree. I wrote it myself of course.\nThe rest of the song eludes me... Leniency please! Of course such a lapse is unforgivable in a great bard such as myself, but I feel a bit.. off.\nStill, even that bare fragment of verse can lead you to glory. Go forth, brave warrior, and slay the mighty beasts! Whatever they may be..."
+    }, {
+        "name": "Body Work",
+        "objective": "restore Umahd's physical form",
+        "first_tasks": ["find the Ezrohir marauder who wears Umahd's wrappings"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Umahd",
+            "description": "a disembodied male Zeraphi warrior",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "Umahd shall reward the player",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "a race of spirits, enemies of the Zeraphi"
+            }, {
+                "name": "Zeraphi",
+                "description": "a race of spirits"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "I am no ghost, only disembodied spirit: a Zeraphi warrior, torn from his wrappings, but unable to tear himself away from this world. Umahd is my name. I was defeated in battle, and my physical form taken from me, and made to serve the Ezrohir. But the Ezrohir Marauder who wears my wrappings has returned, no doubt thinking me long gone.\nFind that Ezrohir Marauder! Restore my physical form, and I shall reward you!"
+    }, {
+        "name": "The Cave-In",
+        "objective": "clear the way to the Scrapworks",
+        "first_tasks": ["find dynamite"],
+        "first_task_locations": [{
+                "name": "Abandoned Sawmill",
+                "description": "a dysfunct sawmill"
+            }
+        ],
+        "quest_giver": {
+            "name": "Officer",
+            "description": "a military officer working for the Professor",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "you'll be able to pass though to the Scrapworks",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Professor",
+                "description": "a man",
+                "location": ""
+            }
+        ],
+        "locations": [{
+                "name": "Scrapworks",
+                "description": "a junkyard"
+            }
+        ],
+        "tools": ["the Professor sent the player after the power source in the Scrapworks: the Officer and his troop are on the same mission", "the Officer sent his troop to the Abandoned Sawmill: he has not heard from them"],
+        "description": "So, the Professor sent you after the Power Source? We were on the same mission, but the only way to the Scrapworks is through that pile of rock.\nI know the Abandoned Sawmill used to have plenty of explosives from when the place was still in operation - a little bit of dynamite would probably get the job done here.\nI sent my troop after it, but haven't heard a thing. If you can head up there and get that dynamite, we could all pass through and get the Professor what he needs."
+    }, {
+        "name": "The Warbeast Armory",
+        "objective": "steal the armor schematics",
+        "first_tasks": ["get inside the Sturmbeorn makeshift smithy"],
+        "first_task_locations": [{
+                "name": "Temple Steppes",
+                "description": "a region"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a scout",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Sturmbeorn",
+                "description": "dangerous marauders"
+            }, {
+                "name": "Warbeasts",
+                "description": "wild monsters"
+            }
+        ],
+        "tools": ["two Sturmbeorn blacksmiths are making suits of armor for Warbeasts"],
+        "description": "If you're going out to the Temple Steppes, I could use your help. The Sturmbeorn have set up a makeshift smithy there, and they have two blacksmiths making suits of armor for wild Warbeasts they've captured.\nThose Sturmbeorn seem to be working from schematics, but they keep them under lock and key. Do you think you might be able to get in there and grab the armor schematics?"
+    }, {
+        "name": "Fade's Passage",
+        "objective": "ask Fade to open the hidden passage to Cacklespit's realm",
+        "first_tasks": ["search for the shrines that mark Fade's resting place"],
+        "first_task_locations": [{
+                "name": "Sundered Battlefield",
+                "description": "an ancient battlefield in the north"
+            }
+        ],
+        "quest_giver": {
+            "name": "Widget",
+            "description": "a friendly man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Cacklespit",
+                "description": "a female witch who has been harassing the player",
+                "location": "Cacklespit's realm"
+            }, {
+                "name": "Fade",
+                "description": "a male spirit, who may want something for his help",
+                "location": "Sundered Battlefield"
+            }
+        ],
+        "tools": ["the player helped Widget and his cousins in the past"],
+        "description": "Since you helped us in our time of need, we have been searching for a way to return the favor.\nIt seems you've met with some unexpected trouble from Cacklespit the witch. I've done a little research, and if you'd like to find her, I think I can help!\nFrom the lore I've been able to piece together, there is a secret way to her hidden realm. The spirit, Fade, can open the way - but he may ask for something in return. You'll have to journey to the Sundered Battlefield in the north. Search for the shrines that mark Fade's resting place. I hope this helps you on your way! I'll keep researching in hopes of finding more information to help you."
+    }, {
+        "name": "The Malicious Ones",
+        "objective": "prevent the Ezrohir from defiling the water supply of Zeryphesh",
+        "first_tasks": ["destroy the Ezrohir machines"],
+        "first_task_locations": [{
+                "name": "Undercurrents",
+                "description": "the sewer in Zeryphesh"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a person from Zeryphesh",
+            "location": ""
+        },
+        "reward": [{
+                "name": "NONE",
+                "description": "",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Zeryphesh",
+                "description": "a city-state"
+            }
+        ],
+        "groups": [{
+                "name": "Ezrohir",
+                "description": "a race of people who are at war with Zeryphesh"
+            }
+        ],
+        "tools": ["NONE"],
+        "description": "The Ezrohir have installed some infernal devices in the Undercurrents, defiling the supply of water entering Zeryphesh. You must destroy those machines, or Zeryphesh cannot stand against the Ezrohir!"
+    }
+]
