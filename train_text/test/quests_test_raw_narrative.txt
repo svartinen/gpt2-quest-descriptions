@@ -1,0 +1,673 @@
+This is an RPG quest from Baldur's Gate.
+The quest-giver is a guard in a bad mood.
+The quest-giver gives a quest to the player. The player's objective is to kill Commander Brage.
+The player should first find Commander Brage to complete their objective. This task can be completed in the following location: the woods to the west.
+The player will receive the following rewards for completing the quest objective: a king's ransom.
+The following characters are related to this quest: Commander Brage (the former commander of the guard, located at the woods to the west).
+There are some important facts concerning this quest. Commander Brage found a cursed sword and killed his family. Commander Brage was a well-liked man before the cursed sword changed him.
+This is the quest description, the quest-giver explaining the quest to the player:
+"State your business with the guard and go! Oh, that came out a bit harsher than I meant. I am sorry for my mood. All the guard are still grieving the loss of Commander Brage.
+The commander was friend to many before he found a cursed sword. He's not the man he was, by Helm. I'll not believe a man of Brage's rank could kill his own family. 'Twas evil magics of some sort. An entire unit went west after Brage to try to talk some sense to him. It's been a week, and none have returned.
+The reward for the commander's head is a king's ransom, but I'll not be lifting MY sword against a brother soldier.
+Travel lightly, wanderer. The woods harbor strange things."
+<|endoftext|>
+
+This is an RPG quest from Baldur's Gate.
+The quest-giver is called Gandolar Luckyfoot. Gandolar Luckyfoot is the jolly mayor of Gullykin, who is located at Gullykin.
+The quest-giver gives a quest to the player. The player's objective is to kill kobolds.
+The player should first find kobolds to complete their objective. This task can be completed in the following location: Firewine ruins, a place where many have died in the past.
+The player will receive the following rewards for completing the quest objective: a gift, whatever the player finds.
+The following locations are related to this quest: Gullykin (a halfling village near the Firewine ruins).
+This is the quest description, the quest-giver explaining the quest to the player:
+"Well met, traveler. Gandolar Luckyfoot, at your disposal.
+If I might pull on your coattail a moment more, I have a proposition for you. It's usually nature-quiet by the Firewine ruins, even with its violent bygone. Those who died and did not sleep have mostly found their rest over time. It's a live threat that comes now, with a band of kobolds that moved in.
+Perhaps we could prevail upon you to rid us of this menace, and in return, a gift from us you shall receive. Keep whatever you find as well."
+<|endoftext|>
+
+This is an RPG quest from Baldur's Gate.
+The quest-giver is called Firebead Elvenhair. Firebead Elvenhair is a mage.
+The quest-giver gives a quest to the player. The player's objective is to bring Firebead Elvenhair's identify scroll to him.
+The player should first get Firebead Elvenhair's identify scroll from Tethtoril to complete their objective. This task can be completed in the following location: the inner grounds.
+The player will receive the following rewards for completing the quest objective: a protection spell cast by Firebead Elvenhair.
+The following characters are related to this quest: Tethtoril (a male sage).
+The following items are related to this quest: identify scroll (a special scroll).
+There are some important facts concerning this quest. Firebead Elvenhair left his identify scroll to Tethtoril.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I, Firebead Elvenhair, have a small errand for you.
+I left an identify scroll with Tethtoril, in the inner grounds. He should be done examining it by now, so if you could fetch it for me, I'd be grateful. I have a great use for those types of scrolls.
+Allow me to cast a little spell on you as a reward. It will protect you from any evil you might meet tonight."
+<|endoftext|>
+
+This is an RPG quest from Baldur's Gate.
+The quest-giver is called Brielbara. Brielbara is a female mage of minor power.
+The quest-giver gives a quest to the player. The player's objective is to bring Yago's spellbook to Brielbara.
+The player should first steal Yago's spellbook to complete their objective. This task can be completed in the following location: Low Lantern, a ship filled with prostitutes.
+The player will receive the following rewards for completing the quest objective: 200 gold.
+The following characters are related to this quest: Yago (an evil male mage, located at Low Lantern), Namara (a baby and Brielbara's only daughter).
+There are some important facts concerning this quest. Yago has cursed Namara: Brielbara can undo the curse with Yago's spellbook.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Travelers! I am Brielbara, a mage of minor power.
+I'll pay you 200 gold, not much for heroic adventurers, but all that I have.
+An evil mage has laid a curse upon my only child, Namara. She is slowly wasting away and, without help, she'll die. The mage who did this is named Yago, and I'm sure that he possesses the remedy to the curse. Would you track him down for me, please? He's been staying at a place called the Low Lantern. It's the playground for the wicked and depraved, a ship where prostitutes ply their trade. All I want you to do is find him and take his spellbook. I have enough magical skill to reverse the curse if I had the formula for his spell."
+<|endoftext|>
+
+This is an RPG quest from Baldur's Gate.
+The quest-giver is called Officer Vai. Officer Vai is an officer of the Flaming Fist, who is located at Sword Coast.
+The quest-giver gives a quest to the player. The player's objective is to find out why the bandit raids have been getting worse.
+The player should first kill all bandits to complete their objective. This task can be completed in the following location: Sword Coast, a region.
+The player will receive the following rewards for completing the quest objective: 50 gold pieces per bandit scalp.
+The following groups are related to this quest: Flaming Fist (a mercenary organization promoting order and law).
+There are some important facts concerning this quest. The bandits are working for someone.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I am Officer Vai of the Flaming Fist and, to be honest, I could use your help.
+The bandit raids have been getting worse. I used to think that they were just your usual brigands out to make a quick buck in troubled times, but not anymore. They're working for someone... Damn it, this is a fine mess, isn't it?
+I'll pay 50 gold pieces for every bandit scalp you can bring me — and spread the news. I want this whole region cleared, and I want to know what in the Nine Hells is going on here."
+<|endoftext|>
+
+This is an RPG quest from Baldur's Gate II.
+The quest-giver is called Sir Ryan Trawl. Sir Ryan Trawl is from the Most Noble Order of the Radiant Heart.
+The quest-giver gives a quest to the player. The player's objective is to investigate the Fallen Paladins.
+The player should first join the Fallen Paladins to complete their objective. This task can be completed in the following location: Bridge District, a city district.
+The player will receive the following rewards for completing the quest objective: Gloves of Healing.
+The following characters are related to this quest: Anarg (a charismatic man who used to be one of the highest-ranking officers in the Most Noble Order of the Radiant Heart).
+The following groups are related to this quest: Fallen Paladins (a group of former paladins turned to the path of crime, masquerading as paladins), Most Noble Order of the Radiant Heart (an order of noble paladins).
+There are some important facts concerning this quest. Sir Ryan Trawl has heard of the player. Anarg was implicated in smuggling slaves: he was expelled from the Most Noble Order of the Radiant Heart. Anarg took some young knights of the Most Noble Order of the Radiant Heart with him. If the player considers the Fallen Paladins a threat, they are free to do what they consider necessary.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Greetings, traveler. I am Sir Ryan Trawl. I have heard of you. I would like to offer you the opportunity to help the Most Noble Order of the Radiant Heart.
+The task of being a paladin is not easy. Many break under the demands of our path and leave to pursue avenues of life more appropriate to their talents. Sometimes they bend instead of break, twisting their paladinhood to serve their own purpose. These are hard to detect, but when found, they are quickly cast out.
+Recently, one of our highest-ranking officers was implicated in smuggling slaves. His name is Anarg, and though he was once a friend, he was expelled from the Order. We thought that the end of it, but Anarg took others when he left. He is a charismatic man, and some of the younger knights were swayed by his words. We could tolerate their loss, but they masquerade as paladins, abusing our good name. They extort, smuggle slaves, and spit on all that we honor. The Fallen Paladins, as they're known, would recognize any of our Order, and some also fear conflict with former friends, so we need outside help in this matter.
+The Fallen Paladins always need warriors to aid their illegal activities. We want you to ally with them, especially Anarg. He's the key to them all. If you consider these men a threat, then do what you think is necessary. Gloves of Healing would be a suitable reward for the task, I think.
+Anarg has kept their activities localized in the Bridge District. I suggest you search there. May Torm be with you."
+<|endoftext|>
+
+This is an RPG quest from Baldur's Gate II.
+The quest-giver is called Aerie. Aerie is a scared winged elf.
+The quest-giver gives a quest to the player. The player's objective is to free Aerie.
+The player should first get the key to Aerie's chains from commoners to complete their objective. This task can be completed in the following location: in the north side of this chamber.
+The player will receive the following rewards for completing the quest objective: Aerie might be able to help the player.
+The following characters are related to this quest: Quayle (Aerie's uncle).
+The following groups are related to this quest: commoners, who are actually monsters.
+There are some important facts concerning this quest. Aerie works in the circus with Quayle. There's an illusion that makes Aerie look like a monster. Aerie has been chained: the key to her chains looks like a sword. The commoners have the key. Aerie regains her normal form after becoming free.
+This is the quest description, the quest-giver explaining the quest to the player:
+"M-my name is Aerie. I... work in the circus with my uncle, Quayle... I... I'm not a monster! I'm an elf, a winged elf... or at least I was... This... this covering you see is some kind of illusion, but if you believe in it, then it becomes real! P-please believe me! Now go before something happens to you, I beg of you!
+If... if you're not going to flee, then maybe you can help free me from the chains that keep me bound in this form — and then maybe I can help you!
+You... you need the key to these chains. But... but it won't look like a key! There are a couple of... commoners... in the north side of this chamber...
+Don't be fooled by the illusion, though... they are monsters! They have a sword which is actually my key... if you get it from them, I can remove the chain and regain my normal form!
+But please be careful! You... you can't trust anything you see here!"
+<|endoftext|>
+
+This is an RPG quest from Baldur's Gate II.
+The quest-giver is the refugees, elves, who is located at the streets of this town.
+The quest-giver gives a quest to the player. The player's objective is to help the refugees find a safe place to be.
+The player should first find someone who could take the refugees in to complete their objective.
+The player will receive the following rewards for completing the quest objective: the refugees' thankfulness.
+There are some important facts concerning this quest. The refugees have no money. The innkeeper turned the refugees away.
+This is the quest description, the quest-giver explaining the quest to the player:
+"We are elven refugees in dire need of help!
+We have nowhere to stay... we have no choice but to wander the streets. I fear we will soon run into trouble with the soldiers of this town.
+We have no money, and the innkeeper turned us away because he feared our wives would draw unwanted attention from the soldiers. Who else would have the heart and the room to take us all in?
+Perhaps you can find someone willing to take us in? We would be truly thankful for your help."
+<|endoftext|>
+
+This is an RPG quest from Baldur's Gate II.
+The quest-giver is called Wellyn. Wellyn is a ghost of a young boy.
+The quest-giver gives a quest to the player. The player's objective is to return Littleman to Wellyn.
+The player should first find Llynis to complete their objective. This task can be completed in the following location: inn in the slums, The Copper something, one of the bedrooms in the back.
+The following characters are related to this quest: Llynis (a craven thief, located at inn in the slums).
+The following items are related to this quest: Littleman (Wellyn's stuffed bear).
+There are some important facts concerning this quest. Llynis killed Wellyn and stole Littleman.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I... my name is Wellyn. I just want... I just want my stuffed bear back...
+It's my favorite bear, Littleman... The bad man who came into our house... he—he hurt me, and he took Littleman with everything else... *sob* I can never go to sleep without Littleman! The bad man has it at that inn in the slums. The Copper something. *sniff* He's in one of those bedrooms in the back! I think his name is "Llynis"...
+I've... I've gone to him... *sob*... I've tried to tell him that I just want my bear, please, but he just gets too frightened of me. *sob* Oh, please get it from him!"
+<|endoftext|>
+
+This is an RPG quest from Baldur's Gate II.
+The quest-giver is the spirit of the grove.
+The quest-giver gives a quest to the player. The player's objective is to serve the grove as a leader bringing balance.
+The player should first kill Nilthiri to complete their objective. This task can be completed in the following location: along the path to the east of the troll mound.
+The following characters are related to this quest: Nilthiri (a shamaness, and the leader of the trolls of the troll mound, located at along the path to the east of the troll mound).
+The following locations are related to this quest: grove.
+There are some important facts concerning this quest. The player is a druid. Nilthiri will overrun the grove if not stopped.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I am the spirit of the grove, child. I am the water, the earth, the trees, and the sun. I am life and death: the eternal cycle.
+A druid who serves the cause of balance is needed. The grove requires leadership, a gentle hand. Will you serve the grove as such? There is much work to be done. Listen and learn the path of balance, the path of the Eternal Cycle.
+Long have the trolls of the mound lived beneath the protection of the grove. But a new leader has arisen. Nilthiri the shamaness leads the trolls to chaos. She urges them to expand their territory, and she brings more trolls to the mound without thought to the consequences. If this continues, the trolls will overrun the grove, and nature will suffer. A servant of nature must bring the life cycle of Nilthiri to a close for the good of all.
+You will find Nilthiri along the path to the east of the troll mound."
+<|endoftext|>
+
+This is an RPG quest from Minecraft.
+The quest-giver is called Mister Meek. Mister Meek is a weak man.
+The quest-giver gives a quest to the player. The player's objective is to give a Potion of Strength to Mister Meek.
+The player should first obtain a Potion of Strength to complete their objective.
+The player will receive the following rewards for completing the quest objective: diamond.
+The following items are related to this quest: Potion of Strength (a strength potion).
+There are some important facts concerning this quest. Mister Meek has heard that the player help people.
+This is the quest description, the quest-giver explaining the quest to the player:
+"You're the one who's been helping people, right? Well, now you could help me too.
+You see, I need to get my hands on a Potion of Strength. I'm not the strongest person around: for once, I'd like to carry things around as if they were mere feathers.
+Give me the potion, and receive a precious diamond in return."
+<|endoftext|>
+
+This is an RPG quest from Minecraft.
+The quest-giver is called Narcissos. Narcissos is a narcissistic man, who is located at a village.
+The quest-giver gives a quest to the player. The player's objective is to give a leather tunic to Narcissos.
+The player should first obtain a leather tunic to complete their objective.
+The player will receive the following rewards for completing the quest objective: a diamond chestplate.
+There are some important facts concerning this quest. The player is not wearing any kind of armor.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Aren't I just the handsomest man in this village? I'd like to become even flashier than I am now.
+Even you, traveler, lack any kind of flashy armor. I could give you my old, crummy diamond chestplate so that you'd look a bit less embarrassing.
+However, I want you to give me a brand new leather tunic in return."
+<|endoftext|>
+
+This is an RPG quest from Minecraft.
+The quest-giver is called Larry. Larry is a librarian.
+The quest-giver gives a quest to the player. The player's objective is to give a book and quill to Larry.
+The player should first obtain a book and quill to complete their objective.
+The player will receive the following rewards for completing the quest objective: an enchanted book.
+There are some important facts concerning this quest. The player is an enemy of Larry: the player hit Larry.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Don't you dare to scratch my books with your breath! I have not forgotten your vile deeds. Why did you even hit me?
+You can make up for your violent nature, though. Bring me a book and quill, it should help with a little project of mine. I'd love to catalog my books in a more orderly fashion.
+Help me out, and I'll forgive you for hitting me. I'd even give you an enchanted book."
+<|endoftext|>
+
+This is an RPG quest from Minecraft.
+The quest-giver is called Olivia. Olivia is a responsible child, who is located at a village.
+The quest-giver gives a quest to the player. The player's objective is to bring a tamed parrot to Olivia.
+The player should first tame a parrot to complete their objective. This task can be completed in the following location: jungles.
+The player will receive the following rewards for completing the quest objective: a diamond.
+There are some important facts concerning this quest. Olivia gives the player seeds that can be used to tame a parrot.
+This is the quest description, the quest-giver explaining the quest to the player:
+"My mommy and daddy say that I can't go outside the village. I don't! But I really wanna have a parrot. The other kids would certainly like me better if I had a cool pet like a parrot!
+You a big enough to travel to places on your own without your parents. Traveler, please tame a parrot and bring it to me. I even have some seeds for you: tame the parrot with them. Parrots live in jungles.
+I will give you this diamond I once found on the ground. Even a kid like me knows that those are valuable."
+<|endoftext|>
+
+This is an RPG quest from Minecraft.
+The quest-giver is called Alex. Alex is an Elytra lover, who is located at a village.
+The quest-giver gives a quest to the player. The player's objective is to complete Alex's Elytra obstacle course.
+The player should first talk to Alex when you are ready to complete their objective.
+The player will receive the following rewards for completing the quest objective: cool prizes for good performances.
+The following items are related to this quest: Elytra (wings that let the player fly).
+There are some important facts concerning this quest. The player has an Elytra.
+This is the quest description, the quest-giver explaining the quest to the player:
+"You've got a nice pair of wings on you. Would you care to try my Elytra obstacle course? Villagers might enjoy to see you fly. Perhaps they'd even want to try my course after seeing you go through it. Just talk to me when you are ready.
+Good performances are awarded with cool prizes!"
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Lucien Lachance. Lucien Lachance is the player's superior in the Dark Brotherhood, giving quest via "Dead Drop Orders #1".
+The quest-giver gives a quest to the player. The player's objective is to assassinate Celedaen.
+The player should first search for Celedaen's written records that may contain evidence of some kind of weakness of his to complete their objective. This task can be completed in the following location: Leafrot Cave, a cave.
+The player will receive the following rewards for completing the quest objective: the player should go to Chorrol for their next dead drop: at the foot of the Great Oak, hidden in the bushes, is an old sack containing the player's reward and their next contract.
+The following characters are related to this quest: Celedaen (an ancient necromancer, who is in the process of turning himself into a lich, located at Leafrot Cave).
+The following items are related to this quest: "Dead Drop Orders #1" (the player's first dead drop note, on Hero Hill).
+The following groups are related to this quest: Dark Brotherhood (a guild of assassins).
+The following locations are related to this quest: Chorrol (a city), Hero Hill (a hill).
+There are some important facts concerning this quest. "Dead Drop Orders #1" is addressed to the player: the player is a Silencer of the Dark Brotherhood.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Dead Drop Orders #1
+by Lucien Lachance
+
+Silencer,
+You are now reading your first dead drop note, here on Hero Hill, which proves to me you were well-appointed to the tasks that lie ahead.
+Journey now to Leafrot Cave. There you will encounter an ancient necromancer who is attempting to escape death by transforming himself into a lich. This necromancer, Celedaen, has not yet completed his metamorphosis, but is still immensely powerful, possibly too powerful to destroy if confronted directly. Search Leafrot Cave. Necromancers are wizards after all, and wizards are prolific by nature. Celedaen surely has written records, and these records may contain evidence of some kind of weakness. Perhaps there is some other way to destroy Celedaen besides a direct confrontation. But destroy him you must!
+When the necromancer lies dead, journey to the city of Chorrol for your next dead drop. At the foot of the Great Oak, hidden in the bushes, is an old sack. Inside you will find your reward for killing the necromancer, as well as information regarding your next contract.
+Serve me well, Silencer, and there's no telling just how far you might advance."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Slythe Seringi. Slythe Seringi is a worried man, giving quest via "Slythe's Journal".
+The quest-giver gives a quest to the player. The player's objective is to investigate the Sunken One.
+The player should first find Slythe Seringi to complete their objective. This task can be completed in the following location: Sandstone Cavern, the offering place of the Sunken One.
+The following characters are related to this quest: Sunken One, He Who Shakes The Ground (an old, forgotten god).
+The following items are related to this quest: "Slythe's Journal".
+The following locations are related to this quest: Kvatch (a great city), Anvil (a city), Chorrol (a city), Imperial City (the capital city).
+There are some important facts concerning this quest. Kvatch was destroyed because they did not heed Slythe Seringi's warning about the Sunken One. Slythe Seringi has gone to give an offering to the Sunken One so that he does not sack any other cities: Anvil, Chorrol, the Imperial City.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Slythe's Journal
+by Slythe Seringi
+
+As midnight approaches, I still watch the fires burn. The great city of man, Kvatch, lay in ruins. They didn't heed my words. They didn't listen to my voice. Now, they are all paying the cost of ignorance. The Sunken One strikes swift and hard. He swats those who oppose Him as if they did not exist at all. The excuses of man fall upon deaf ears. The Sunken One has no pity; He has no mercy, He only sits below and passes sentence. And now, with a mighty stroke, He's toppled one of man's pitiful blights on His land. And yet, He still hungers. His appetite is voracious. Kvatch will not be the last city to fall by His hand. The world of man grows more and more corrupt, and it angers Him. Man's lies and deceit will be his undoing as The Sunken One grows impatient and no longer waits for or accepts the proper offering.
+The burden is mine to shoulder. I am the last who knows of He Who Shakes The Ground. If I do not bring him the Offering, who knows what city may fall prey to his whim? Anvil? Chorrol? Or perhaps He will turn his eyes on the greatest boil of all, the great Imperial City itself. No, I must not let that happen. I must get the Offering to him like my father did before me. Man may be fallen in His eyes, but they must have time to learn The Sunken One's teachings. Destroying man now would be a waste, when I am certain that given the chance, they will come to see His ways. Yes, I will do this thing. I will brave the depths of Sandstone Cavern to see Him. My weapons will be my will and my word. The Sunken One will watch over me and guide me. I must depart soon, before it is too late. If anyone finds this journal, let them know that I, Slythe Seringi, do this for the good of all man."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Sir Juncan. Sir Juncan is a ghost of a knight.
+The quest-giver gives a quest to the player. The player's objective is to retrieve the Boots of the Crusader for yourself.
+The player should first talk to the priests of Kynareth to complete their objective. This task can be completed in the following location: Shrine of Kynareth, west of the Imperial City, on the edge of the Great Forest.
+The player will receive the following rewards for completing the quest objective: Boots of the Crusader (holy boots).
+The following characters are related to this quest: Kynareth (the goddess of nature).
+The following locations are related to this quest: Imperial City (a major city).
+There are some important facts concerning this quest. Sir Juncan died while seeking out the Boots of the Crusader.
+This is the quest description, the quest-giver explaining the quest to the player:
+"My name was Sir Juncan.
+I wish to see you succeed where I failed. I was on the path to the Boots of the Crusader, but died before I reached them.
+I cannot tell you exactly how to find the Boots, for that will be up to Kynareth. I can tell you to seek out her Priests, though. West of the Imperial City, on the edge of the Great Forest, is a shrine. You will find them there, and they will tell you what you need to know."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Jauffre. Jauffre is a military leader, who is located at Cloud Ruler.
+The quest-giver gives a quest to the player. The player's objective is to track down the spies, kill them and find out what they know.
+The player should first 1) talk to Steffan, 2) talk to Captain Burd to complete their objective. These tasks can be completed in the following locations: 1) Cloud Ruler(a military fort), 2) Bruma(a city near Cloud Ruler).
+The following characters are related to this quest: Steffan (a male gate guard who has seen the spies, located at Cloud Ruler), Captain Burd (a male captain of the guard, located at Bruma).
+There are some important facts concerning this quest. The gate guards have reported seeing strangers on the road for the past several nights: Jauffre cannot leave Cloud Ruler undefended while his men search the whole mountainside. Jauffre has asked the Countess of Bruma to have the guard keep an eye out for strangers.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I hope you can help. The gate guards have reported seeing strangers on the road for the past several nights.
+I cannot leave Cloud Ruler undefended while my men search the whole mountainside, but these spies must be eliminated. Talk to Steffan. He can tell you where he has seen them. Captain Burd in Bruma may also be able to help. I've asked the authorities of Bruma to have the guard keep an eye out for strangers.
+Track down the spies and kill them. Find out what they know, and what they're planning, if possible."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Shum gro-Yarug. Shum gro-Yarug is the Count's butler, who is located at Skingrad.
+The quest-giver gives a quest to the player. The player's objective is to purchase Rosethorn Hall.
+The player should first give 25,000 septims to Shum gro-Yarug to complete their objective. This task can be completed in the following location: Skingrad, a city.
+The player will receive the following rewards for completing the quest objective: Rosethorn Hall (a large manor house in Skingrad, just inside the main gate, near the bridge to the chapel).
+The following characters are related to this quest: Vandorallen Trebatius (a man, located at Rosethorn Hall).
+There are some important facts concerning this quest. The player told Shum gro-Yarug that they want to buy a house. Rosethorn Hall is currently occupied by Vandorallen Trebatius. Shum gro-Yarug will have Vandorallen Trebatius evicted from Rosethorn Hall.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I'm Shum gro-Yarug, the Count's butler.
+So you want to buy a house? I can speak for the Count. Rosethorn Hall is a stately manor currently occupied by Vandorallen Trebatius. You won't find a better property for sale in Skingrad. It's just inside the main gate, near the bridge to the chapel.
+The house costs 25,000 septims. Give me the septims, and I will order the deed to the house drawn up.
+Don't worry about Vandorallen Trebatius. I'll have him evicted. I'm sure he'll find another home easily."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Regulus Terentius. Regulus Terentius is Count of Bravil, who is located at Bravil.
+The quest-giver gives a quest to the player. The player's objective is to purchase the house in Bravil.
+The player should first pay 4,000 gold to Regulus Terentius to complete their objective. This task can be completed in the following location: Bravil, a city.
+The player will receive the following rewards for completing the quest objective: house in Bravil, an ugly, modest, fairly bare shack overlooking the canal.
+The following characters are related to this quest: Nilawen (a female trader, located at The Fair Deal).
+The following locations are related to this quest: The Fair Deal (Nilawen's store).
+There are some important facts concerning this quest. The player told Regulus Terentius that they are looking to buy a house in Bravil. Nilawen sells furnishings.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Regulus Terentius, Count of Bravil. So you're looking for a house to buy here in Bravil? Really?
+It just so happens there is a modest shack overlooking the canal. It's not much to look at, but the smell will soon make you forget how ugly it is. Pay me 4,000 gold, and it's all yours.
+I'll have my steward register the deed of ownership. It's squalid little shack, I'm sorry to say. Oh, and the place is fairly bare. If I were you, I'd head on over to Nilawen at The Fair Deal and get some furnishings. Or you could always eat off the floor... doesn't matter to me."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Mephala, 'Webspinner'. Mephala, 'Webspinner' is the queen of lies, one of the Daedric Princes.
+The quest-giver gives a quest to the player. The player's objective is to Start a feud between two prominent families.
+The player should first kill the leaders of the two families and plant evidence to implicate the other family as the killer to complete their objective. This task can be completed in the following location: Bleaker's Way, a village.
+The player will receive the following rewards for completing the quest objective: Ebony Blade (a sword).
+The following groups are related to this quest: Daedric Princes (immortal, fickle, infamous divine beings).
+There are some important facts concerning this quest. In Bleaker's Way, two families, Nord and Dunmer, live in perfect harmony. Don't get caught or killed while starting the feud.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I'm Mephala. Call me 'Webspinner'. Pluck but a single thread, and the weave unravels.
+In Bleaker's Way, two families, Nord and Dunmer, live in perfect harmony. But beneath the surface lurks the secret seed of strife. Kill the leaders of the two families. Plant evidence to implicate the other family as the killer. And don't get caught. Be cunning. Don't spoil my scheme. And don't die... that would spoil everything. Ha-ha-ha-hah!
+And there'll be a little needle to help you stitch your own tangled tapestries: the Ebony Blade."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Unknown. Unknown is a paranoid resident of Crucible, giving quest via "Faded Note", who is located at a roof.
+The quest-giver gives a quest to the player. The player's objective is to find the hidden stash of Unknown.
+The player should first find the sunken urn to complete their objective. This task can be completed in the following location: the sewage near the back of Bernice's inn, in Crucible.
+The player will receive the following rewards for completing the quest objective: the favorite things of Unknown.
+The following characters are related to this quest: Bernice (a female innkeeper, located at Crucible), Caldana (a woman, located at Crucible), Earil (a man, located at Crucible), Cutter (a woman, located at Crucible), Brithaur (a male thief, located at Crucible).
+The following items are related to this quest: "Faded Note" (a note).
+The following locations are related to this quest: Crucible (a district of a great city).
+There are some important facts concerning this quest. Unknown is dying. Unknown is a drunk. The house of Unknown was stolen by Brithaur. Unknown thinks that Bernice, Caldana, Earil, and Cutter are plotting against him.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Faded Note
+The last thoughts of one of Crucible's residents
+
+I don't think I'll live much longer. My wine supply is thinning, only one bottle left. Bernice's wine is worthless! I would have lasted longer on bark. I'd go back home to resupply, but Brithaur, that maggot, has stolen my house. It's not just him, though, it's also the others. I can't leave the safety of the roof. They have a plan for me, I see it in their eyes. Caldana, Earil, Cutter, ALL OF THEM!
+They don't know I'm up here, watching. Not much longer, though. At least they won't find me or my stash. I've put all my favorite things in an urn, and sunken it in the sewage near the back of Bernice's dive.
+I think I'll drink that last bottle to celebrate."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Carahil. Carahil is the leader of one of the guild halls of Mages Guild.
+The quest-giver gives a quest to the player. The player's objective is to investigate a number of merchants' deaths along the Gold Road.
+The player should first speak with Arielle Jurard about further instructions to complete their objective. This task can be completed in the following location: Brina Cross Inn, an inn north of here.
+The player will receive the following rewards for completing the quest objective: recommendation from Carahil.
+The following characters are related to this quest: Arielle Jurard (a female mage, located at Brina Cross Inn).
+The following groups are related to this quest: Mages Guild (a guild of mages), Council of Mages (the ruling body of Mages Guild).
+There are some important facts concerning this quest. The player asked a recommendation from Carahil: the player is new to the Mages Guild. The Council of Mages has entrusted Carahil to take care of an issue of merchant killings along the Gold Road. A rogue mage is suspected of the merchant killings: the only link between the victims is the Brina Cross Inn. Battlemages have been sent to the Brina Cross Inn. The player can learn Restoration while facing a life and death situation.
+This is the quest description, the quest-giver explaining the quest to the player:
+"So you are here for your recommendation? Unlike some frivolous tasks you may be given at other guild halls, this is a serious matter, and has consequences. Are you prepared?
+Allow me to explain the task. The Council of Mages has entrusted me with resolving a situation along the Gold Road. Several traveling merchants have been found dead along the Gold Road recently, with even more missing. The Council has asked that I put a stop to it. You are going to help me do so.
+As you are new to the guild, you are less likely to be recognized as a member. This may give you an advantage in getting to the root of the problem. We believe the killings are the actions of a rogue mage. Battlemages have been sent to the Brina Cross Inn, the only common link between the victims.
+You are to travel north to the Brina Cross Inn, and speak with Arielle Jurard. She will give you further instructions.
+This is a harsh, dangerous task for you, I realize. Your unfamiliar face makes you most useful, however. And, what better way to learn the many uses of Restoration? Practical application is often the best educator. Even in life and death situations."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called Kud-Ei. Kud-Ei is a mage, who is located at Leyawiin.
+The quest-giver gives a quest to the player. The player's objective is to help Kud-Ei save her friend Henantier.
+The player should first follow Kud-Ei to Henantier to complete their objective. This task can be completed in the following location: Leyawiin, a town.
+The player will receive the following rewards for completing the quest objective: a sizable reward.
+The following characters are related to this quest: Henantier (a careless male mage, located at Leyawiin).
+The following locations are related to this quest: Arcane University (a school for mages).
+There are some important facts concerning this quest. Henantier and Kud-Ei were study-mates at the Arcane University. Henantier gets into trouble because of his careless experiments: Kud-Ei fears that Henantier has done this again. Henantier is trapped and there is no way Kud-Ei can free him.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Kud-Ei. I don't suppose you could help me locate my friend Henantier could you? If you find him, I'll be glad to offer you a sizable reward.
+I miss Henantier so. We were study-mates at the Arcane University and we've come to grow fond of each other over the years. He's always getting himself into jams with the careless ways he performs his experiments, and well, I'm afraid he's done it again.
+I'm going to level with you, as you seem like you wish to help. Henantier isn't missing. On the contrary, I know exactly where he is. The problem is he's trapped and there's no way I can free him.
+Follow me. We aren't going far, so no need to prepare for a long journey. In fact, Henantier's still in town. More I can't say aloud without risk of others hearing."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls IV: Oblivion.
+The quest-giver is called S'jirra. S'jirra is a devastated woman.
+The quest-giver gives a quest to the player. The player's objective is to return the Jumbo Potatoes to S'jirra.
+The player should first find the person who stole S'jirra's Jumbo Potatoes to complete their objective. This task can be completed in the following location: the woods to the west.
+The player will receive the following rewards for completing the quest objective: S'jirra's famous potato bread.
+The following items are related to this quest: Jumbo Potatoes (large potatoes cultivated by S'jirra).
+This is the quest description, the quest-giver explaining the quest to the player:
+"Ohhhh... what am I, S'jirra, to do? They're gone... all gone.
+Can you help me find my lost Jumbo Potatoes? Please, you must help me find them! If I don't have them for the next batch of my famous potato bread, I don't know what I'll do! My potatoes are like my children. I care for and nurture each one individually. That way, they grow up to be big and strong. How stupid I was to leave them outside all alone like that! All I wanted to do was give them some sun. Next thing I knew, they were gone!
+I saw someone running off to the west, but I'm too frightened to journey into the woods alone. Please... can you help me? I'll give you my famous potato bread. I swear!"
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Isran. Isran is the player's leader in the Dawnguard.
+The quest-giver gives a quest to the player. The player's objective is to find out what vampires are looking for at Dimhollow Crypt.
+The player should first meet Tolan, who will try to assist you to complete their objective. This task can be completed in the following location: Dimhollow Crypt, an ancient crypt.
+The following characters are related to this quest: Tolan (a male member of the Vigilants of Stendarr, located at Dimhollow Crypt).
+The following groups are related to this quest: Dawnguard (an organization of vampire hunters), Vigilants of Stendarr (an order of holy warriors).
+There are some important facts concerning this quest. The Dawnguard are getting the Dawnguard Fortress back into shape. Isran gives the player a crossbow: crossbows are good for hunting vampires before they get too close.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I need someone out in the field, taking the fight to the damn vampires, while we're getting the fort back into shape...
+Go see what the vampires were looking for in Dimhollow Crypt. With any luck, they'll still be there. Here, you should take a crossbow. Good for hunting out those fiends before they get too close.
+Tolan'll meet you at Dimhollow. He will try to assist you. Watch out. Vigilants of Stendarr were never trained for vampire hunting..."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Lucan Valerius. Lucan Valerius is a shopkeeper, who is located at Lucan Valerius's shop in the town.
+The quest-giver gives a quest to the player. The player's objective is to retrieve a golden dragon claw for Lucan Valerius.
+The player should first find the golden dragon claw to complete their objective. This task can be completed in the following location: Bleak Falls Barrow, a tomb northeast of town.
+The player will receive the following rewards for completing the quest objective: some coin.
+There are some important facts concerning this quest. The golden dragon claw was stolen from Lucan Valerius' shop.
+This is the quest description, the quest-giver explaining the quest to the player:
+"We did have a bit of a... break-in. But we still have plenty to sell. Robbers were only after one thing. An ornament, solid gold. In the shape of a dragon's claw.
+I've got some coin coming in from my last shipment. It's yours if you bring my claw back. If you're going after those thieves, you should head to Bleak Falls Barrow, northeast of town."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Alessandra. Alessandra is a priest of Arkay.
+The quest-giver gives a quest to the player. The player's objective is to help Alessandra make peace with her dead father.
+The player should first bring Alessandra's ceremonial dagger to Andurs so it can be interred with Alessandra's father's remains to complete their objective. This task can be completed in the following location: Hall of the Dead, a hall where bodies are interred and cared for, in Whiterun.
+The following characters are related to this quest: Arkay (the god of burials and funeral rites), Andurs (a male caretaker, located at Hall of the Dead).
+The following locations are related to this quest: Whiterun (a city).
+There are some important facts concerning this quest. Alessandra did not want to become a Priest of Arkay like her father. Alessandra gives the player her ceremonial dagger.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I am Alessandra, a priest of Arkay.
+My father was a Priest of Arkay, as well. All my life was spent around the dead, being forced to learn the proper burial rituals and prayers. I never had any friends; who'd want to spend time with 'the little weird girl who hangs around dead people?' So I grew up with a miserable trade. This is all I know how to do... prepare and inter the deceased.
+I'd like to make the journey to the Hall of the Dead in Whiterun and give my ceremonial dagger to Andurs, the caretaker. I believe once it's interred with my father's remains I'll be at peace with his memory.
+A Priest of Arkay is entrusted with a ceremonial dagger once they've completed their training. It's usually given by the head priest who sanctified the ritual. In my case, the head priest happened to be my father. The thing is, I never wanted to follow in his footsteps... In some ways I still don't.
+I'm entrusting you with the dagger. Bring it to Andurs and he'll take care of the rest."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Legate Rikke. Legate Rikke is the player's commanding officer in the Imperial Legion.
+The quest-giver gives a quest to the player. The player's objective is to protect Whiterun from the Stormcloak invasion.
+The player should first go with Legate Rikke to complete their objective. This task can be completed in the following location: Whiterun, a city in Skyrim.
+The following characters are related to this quest: Ulfric (the man who leads the Stormcloaks).
+The following groups are related to this quest: Stormcloaks (rebel forces opposing the Empire in Skyrim).
+The following locations are related to this quest: Skyrim (a province of the Empire).
+There are some important facts concerning this quest. Legate Rikke is addressing the player and the player's fellow legionnaires: the Imperial legion will send a message to Ulfric and the rebel Jarls who support him.
+This is the quest description, the quest-giver explaining the quest to the player:
+"This is it men! This is an important day for the Empire and for the Legion. And for all of Skyrim.
+This is the day we send a message to Ulfric and the rebel Jarls who support him. We will protect Whiterun from Stormcloaks. But make no mistake. What we do here today, we do for Skyrim and her people. By cutting out the disease of this rebellion, we will make this country whole again!
+Ready now! Everyone, with me! For the Empire! For the Legion!"
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Aeri. Aeri is the owner of Anga's Mill, who is located at Anga's Mill.
+The quest-giver gives a quest to the player. The player's objective is to deliver a note to Skald the Elder.
+The player should first tell Skald the Elder that he will get his lumber to complete their objective. This task can be completed in the following location: Dawnstar, a city.
+The following characters are related to this quest: Skald the Elder (the impatient Jarl of Dawnstar, located at Dawnstar).
+The following locations are related to this quest: Anga's Mill (a sawmill).
+This is the quest description, the quest-giver explaining the quest to the player:
+"If you're one of the Jarl's men, you'll get your lumber. Anga's Mill pays its debts.
+Sorry, I thought Skald the Elder sent you. We've got an order to fill, and he's not known for patience.
+Look, if you're heading towards Dawnstar anytime soon, can you give the Jarl this note? Let him know he'll get his lumber."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Beirand. Beirand is an army blacksmith.
+The quest-giver gives a quest to the player. The player's objective is to get a free set of armor.
+The player should first select light, medium, or heavy armor to complete their objective.
+The player will receive the following rewards for completing the quest objective: armor.
+There are some important facts concerning this quest. The player came for their free armor. The player only gets one free outfit.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I have just one question for you. Light, medium, or heavy?
+Light armor for scouting detail, heavy armor for full on combat, or something in between?
+Now, that'll be it. One free outfit per soldier. You lose that, or get it banged up, you'll need to pay like everyone else."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Karliah. Karliah is a fellow member of the Thieves Guild, and a Nightingale.
+The quest-giver gives a quest to the player. The player's objective is to transact the oath with Nocturnal and become one of the Nightingales.
+The player should first undergo the ceremony to become a Nightingale to complete their objective.
+The player will receive the following rewards for completing the quest objective: all of the power and knowledge befitting a Nightingale.
+The following characters are related to this quest: Nocturnal (the goddess of thieves).
+The following groups are related to this quest: Thieves Guild (a guild of thieves), Nightingales (a trio of highly skilled thieves dedicated to the service of Nocturnal).
+The following locations are related to this quest: Twilight Sepulcher (temple of Nocturnal).
+There are some important facts concerning this quest. The binding terms of the oath with Nocturnal: the player will be required to defend the Twilight Sepulcher and everything within when the need arises, and upon the player's death, the player's spirit will be bound to the Twilight Sepulcher as one of its guardians.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Are you ready to transact the Oath with Nocturnal?
+By transacting the Oath with Nocturnal, you're entering into a business deal. You'll be provided all of the power and knowledge befitting a Nightingale. You're free to use those powers as you see fit to further your own goals or the goals of the Thieves Guild.
+In return, you'll be required to defend the Twilight Sepulcher and everything within when the need arises. More importantly, upon your death, your spirit will be bound to the Twilight Sepulcher as one of its guardians.
+Once the Oath has been struck, the terms are binding. Knowing this, are you ready to undergo the ceremony?"
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Astrid. Astrid is the player's guildmaster in the Dark Brotherhood.
+The quest-giver gives a quest to the player. The player's objective is to begin your new life as a member of the Dark Brotherhood, and see Astrid.
+The player should first find the entrance to the Dark Brotherhood Sanctuary, and answer "Silence, my brother." when questioned by the black door to complete their objective. This task can be completed in the following location: in the southwest reaches of the realm, in the pine forest.
+The following items are related to this quest: "Silence, my brother." (the passphrase to the Dark Brotherhood Sanctuary).
+The following groups are related to this quest: Dark Brotherhood (a guild of assassins).
+The following locations are related to this quest: Dark Brotherhood Sanctuary (the headquarters of the Dark Brotherhood).
+There are some important facts concerning this quest. Astrid officially welcomes the player to the Dark Brotherhood.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I would like to officially extend to you an invitation to join my Family: the Dark Brotherhood.
+In the southwest reaches of the realm, in the Pine Forest, you'll find the entrance to our Sanctuary. It's just beneath the road, hidden from view. When questioned by the Black Door, answer with the correct passphrase: "Silence, my brother." Then you're in. And your new life begins.
+I'll see you at home."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Malborn. Malborn is a nervous man, who is located at Windhelm.
+The quest-giver gives a quest to the player. The player's objective is to kill the Khajiit who wants to assassinate Malborn.
+The player should first find the Khajiit to complete their objective. This task can be completed in the following location: around the main gate of Windhelm.
+The following characters are related to this quest: Khajiit (a suspected male Thalmor assassin, located at around the main gate of Windhelm).
+The following groups are related to this quest: Thalmor (an organization that kills anyone who oppose them), Dunmer (a race of people who do not like the Thalmor).
+The following locations are related to this quest: Windhelm (a city), Morrowind (a land inhabited by the Dunmer).
+There are some important facts concerning this quest. The player saved Malborn from the Thalmor in the past. Malborn could not leave Windhelm for Morrowind because of the Khajiit.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Oh, it's you. I didn't expect to see you again.
+I'm trying to stay alive. I think time's running out though. I'm pretty sure the Thalmor know where I am. Maybe you can help me.
+I was trying to get to Morrowind. The Dunmer don't care much for the Thalmor and I figured I'd be safe there. As safe as anywhere, that is. But there's a Khajiit hanging around the main gate. I didn't like the way he was looking at me. I'm sure he's Thalmor. Just waiting for me to leave Windhelm so he can follow me and kill me in a lonely place.
+You'd be saving my life. Again. I know I probably seemed ungrateful... I've just been so scared. Expecting a knife at my throat any minute."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Igmund. Igmund is an honorable nobleman who rules over Markarth.
+The quest-giver gives a quest to the player. The player's objective is to kill a Forsworn leader.
+The player should first find the Forsworn leader to complete their objective. This task can be completed in the following location: Serpent's Bluff Redoubt, a Forsworn camp.
+The following groups are related to this quest: Forsworn (savages practicing banditry).
+The following locations are related to this quest: Markarth (a city).
+This is the quest description, the quest-giver explaining the quest to the player:
+"Are you a sellsword? I don't like your kind. No honor. No loyalty. Unreliable. But I can't turn away a potential ally in these times. Let's see if you're better than a common mercenary.
+My scouts have tracked down one of the Forsworn leaders, hiding out in their blood-soaked camps at Serpent's Bluff Redoubt. Deal with that Forsworn leader."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Neloth. Neloth is a mage.
+The quest-giver gives a quest to the player. The player's objective is to find the Black Book.
+The player should first go to Nchardak with Neloth to complete their objective. This task can be completed in the following location: Nchardak, a Dwemer ruin.
+The player will receive the following rewards for completing the quest objective: Black Book (a book that is connected with Miraak).
+The following characters are related to this quest: Miraak (the player's male enemy).
+The following groups are related to this quest: Dwemer (an ancient, extinct race of people who were specialized in forbidden knowledge).
+There are some important facts concerning this quest. The Dwemer discovered the Black Book that is connected with Miraak. Neloth found the Dwemer's "reading room" in Nchardak: Neloth was not able to open the protective case where the Black Book is sealed.
+This is the quest description, the quest-giver explaining the quest to the player:
+"I know where to find the Black Book connected with Miraak. I haven't been able to get it, though. But maybe together we can unlock the secrets the Dwemer left behind.
+Forbidden knowledge was somewhat a specialty of the ancient Dwemer. It seems they discovered this book and took it to study. I have found their "reading room" in the ruins of Nchardak. The book is there, but it's sealed in a protective case which I wasn't able to open.
+But perhaps the two of us together will be able to get the book. To Nchardak, then. Follow me."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Klimmek. Klimmek is an old man.
+The quest-giver gives a quest to the player. The player's objective is to deliver a bag of food supplies to the Greybeards for Klimmek.
+The player should first climb the 7,000 steps to High Hrothgar, and put the bag of food supplies in the offering chest at the top of the steps to complete their objective.
+The following groups are related to this quest: Greybeards (an order of wise old men).
+The following locations are related to this quest: High Hrothgar (the secluded home of the Greybeards).
+This is the quest description, the quest-giver explaining the quest to the player:
+"Passing through on your way to High Hrothgar? About to make a delivery up there myself.
+I mostly deliver food supplies like dried fish and salted meats; you know, things that keep fresh for a long time. The Greybeards tend not to get out much, if you catch my meaning.
+It's kind of an understanding between us. I mean, it just wouldn't feel right to charge them for a bit of preserved food. Trouble is, my legs aren't what they used to be and climbing the 7,000 Steps takes its toll.
+You'd like to make the delivery for me? Really? That would be kind of you. Here, take this bag of supplies. At the top of the steps you'll see the offering chest. Just leave the bag inside and you're done."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Fethis Alor. Fethis Alor is a merchant who used to sell East Empire Pendants.
+The quest-giver gives a quest to the player. The player's objective is to bring East Empire Pendants to Fethis Alor.
+The player should first find East Empire Pendants to complete their objective. This task can be completed in the following location: Solstheim, an island with old East Empire Company mines.
+The player will receive the following rewards for completing the quest objective: Fethis Alor pays the player.
+The following items are related to this quest: East Empire Pendants (popular amulets that were made exclusively for the East Empire Company, a popular collectible).
+The following groups are related to this quest: East Empire Company (a merchant organization).
+There are some important facts concerning this quest. The player asked Fethis Alor whether he sells special mining gear: he does not.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Mining gear? No. However, I used to sell East Empire Pendants until I ran out of them. Popular little item.
+It's an amulet that was made exclusively for the East Empire Company. They gave them to their workers as an incentive at one point... a kind of reward for extra effort. They're no longer being made, so they've become collectible. I'd love to get my hands on a few of them.
+They could be anywhere on the island. The mines might be a good place to start. If you find any while you're exploring Solstheim, bring them here and I'll pay you for them."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Froki. Froki is a worshiper of Kyne.
+The quest-giver gives a quest to the player. The player's objective is to participate in Kyne's Sacred Trials by hunting the guardian beasts blessed by Kyne.
+The player should first defeat the guardian wolf, crab and skeever and return to Froki to complete their objective.
+The player will receive the following rewards for completing the quest objective: Kyne's blessing.
+The following characters are related to this quest: Kyne (the ancient goddess of humankind and beasts, who teaches us to respect the beasts).
+The following items are related to this quest: Kyne's Sacred Trials (an ancient tradition, and a test to prove yourself to Kyne).
+The following groups are related to this quest: Divines (a pantheon of gods who replaced the ancient gods).
+There are some important facts concerning this quest. Froki thinks that the Divines are impostor gods. Froki gives the player the symbol of the wolf, the crab and the skeever: this will compel the guardian to appear when the player reaches the guardian's lair.
+This is the quest description, the quest-giver explaining the quest to the player:
+"The Divines are stolen idols! Impostor gods, sold by silver tongues. No thank you. Froki will not forget Kyne, or her Sacred Trials.
+Kyne's Sacred Trials is an old tradition, a test to prove your worth in the eyes of Kyne. Show that you're a hunter and no simple butcher. Kyne teaches us to respect the beasts and blesses the hunter who will face their champions. True hunters are those who survive the Trials.
+Do you think you're strong enough for Kyne's blessing? I would be glad to pass this tradition down. You must defeat guardian beasts, blessed by Kyne. I'll anoint you with the symbol of the wolf, the crab and the skeever. This will compel the guardian to appear when you reach his lair.
+Return when you've defeated the guardian wolf, crab and skeever."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Thadgeir. Thadgeir is an old warrior, who is located at Falkreath.
+The quest-giver gives a quest to the player. The player's objective is to deliver Berit's ashes to Runil, the priest of Arkay.
+The player should first find Runil to complete their objective. This task can be completed in the following location: Falkreath, a town known for its graveyard.
+The following characters are related to this quest: Runil (a male priest of Arkay, located at Falkreath), Berit (Thadgeir's old, dead male war companion, located at Falkreath), Arkay (the god of funeral rites).
+This is the quest description, the quest-giver explaining the quest to the player:
+"Falkreath is known for its graveyard, traveler. We've buried more dead than you can imagine.
+I just finished giving my old war companion, Berit, a proper burial by fire. Old hard head hated the idea of being lost cold in the ground.
+Could you deliver the ashes to Runil, the priest of Arkay? He'll know the right blessings to make for Berit's soul."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Sam Guevenne. Sam Guevenne is a friendly man.
+The quest-giver gives a quest to the player. The player's objective is to win the drinking contest against Sam Guevenne.
+The player should first start drinking with Sam Guevenne to complete their objective.
+The player will receive the following rewards for completing the quest objective: a staff.
+This is the quest description, the quest-giver explaining the quest to the player:
+"You look like someone who can hold their liquor. How about a friendly contest to win a staff?
+Ha! So you think that I don't have a chance against you. We'll see about that. This is a special brew, very strong stuff. Let's get started."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Garan Marethi. Garan Marethi is a fellow vampire, who speaks elegantly.
+The quest-giver gives a quest to the player. The player's objective is to remind the Dawnguard that they are the prey.
+The player should first track down a Dawnguard member, and kill him discreetly to complete their objective.
+The following groups are related to this quest: Dawnguard (an organization of vampire hunters).
+This is the quest description, the quest-giver explaining the quest to the player:
+"I've learned the whereabouts of a troublesome Dawnguard member. You will track him down and dispose of him.
+But please, do be discreet. Don't. Get. Caught. Our aim isn't to stir the nest, just to skin a rat, reminding them that they are the prey."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Mogrul. Mogrul is a money-lender.
+The quest-giver gives a quest to the player. The player's objective is to help Drovas Relvi with his debt to Mogrul.
+The player should first pay Drovas Relvi's debt to complete their objective.
+The player will receive the following rewards for completing the quest objective: Mogrul will stop sending his debt collectors after the player.
+The following characters are related to this quest: Drovas Relvi (a man the player recruited for Neloth, and thus became untouchable), Neloth (a powerful male wizard).
+The following items are related to this quest: 1,000 septims (a currency).
+There are some important facts concerning this quest. Drovas Relvi owes Mogrul 1,000 septims: Mogrul thinks that the player should pay Drovas Relvi's debt.
+This is the quest description, the quest-giver explaining the quest to the player:
+"It seems you've inherited a problem. Drovas Relvi owes me 1,000 septims. At least he did until you set him up with that powerful wizard. Now he's untouchable. The way I figure it, it's your fault he can't pay me. So I guess I'm going to have to collect it from you.
+And if you don't pay me? Nothing for now. But watch your back. I'll be sending collectors to find you. They won't ask so nicely. One way or the other, I'll get my money.
+When you are tired of looking over your shoulder, you'll pay me."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is a soul, who is located at Soul Cairn.
+The quest-giver gives a quest to the player. The player's objective is to save Arvak from Soul Cairn.
+The player should first find Arvak to complete their objective. This task can be completed in the following location: Soul Cairn, a terrible dimension where souls are trapped for an eternity.
+The player will receive the following rewards for completing the quest objective: the player will learn how to call Arvak to them.
+The following characters are related to this quest: Arvak (a male horse, belongs to the soul, located at Soul Cairn).
+This is the quest description, the quest-giver explaining the quest to the player:
+"You must help me find my Arvak. He doesn't deserve to be in a place like this!
+Arvak is my horse. We came to this horrible place together. We were attacked by monsters, so I told him to run.
+Please, he's such a loyal creature, and he's been running for so long. You have to save him! A place like this will change you...
+If you find him, I'll teach you how to call him to you. I'm sure he'd be much happier someplace sunnier."
+<|endoftext|>
+
+This is an RPG quest from The Elder Scrolls V: Skyrim.
+The quest-giver is called Vex. Vex is a fellow thief, and Vald's ex-lover.
+The quest-giver gives a quest to the player. The player's objective is to ask Vald to betray Mercer Frey.
+The player should first talk to Maven Black-Briar about erasing Vald's debts to complete their objective.
+The following characters are related to this quest: Vald (a male thug who only understands gold), Mercer Frey (the player's enemy), Maven Black-Briar (a powerful woman with criminal connections).
+There are some important facts concerning this quest. The player asked Vex information about Vald.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Vald? That pig? Oh, I have info on him. More than you care to know. Vald does not have a good side. The only thing he understands is gold. A man after my own heart.
+You can try to buy him off, but he'll ask for a whole lot. I mean, you are asking him to betray Mercer Frey. Your best bet would be to erase his debt with Maven Black-Briar. If you talk to her, she might be able to give you the details.
+Of course, you could just run him through and take what you need off of his corpse... I could care less."
+<|endoftext|>
+
+This is an RPG quest from Torchlight II.
+The quest-giver is called Umahd. Umahd is a disembodied male Zeraphi warrior.
+The quest-giver gives a quest to the player. The player's objective is to restore Umahd's physical form.
+The player should first find the Ezrohir marauder who wears Umahd's wrappings to complete their objective.
+The player will receive the following rewards for completing the quest objective: Umahd shall reward the player.
+The following groups are related to this quest: Ezrohir (a race of spirits, enemies of the Zeraphi), Zeraphi (a race of spirits).
+This is the quest description, the quest-giver explaining the quest to the player:
+"I am no ghost, only disembodied spirit: a Zeraphi warrior, torn from his wrappings, but unable to tear himself away from this world. Umahd is my name. I was defeated in battle, and my physical form taken from me, and made to serve the Ezrohir. But the Ezrohir Marauder who wears my wrappings has returned, no doubt thinking me long gone.
+Find that Ezrohir Marauder! Restore my physical form, and I shall reward you!"
+<|endoftext|>
+
+This is an RPG quest from Torchlight II.
+The quest-giver is the player's ally.
+The quest-giver gives a quest to the player. The player's objective is to free the Guardian of Mana.
+The player should first fight your way past the Ezrohir to the Guardian of Mana to complete their objective. This task can be completed in the following location: Riftkeep, a nearby fortress that was designated as a neutral ground, where the Zeraphi and the Ezrohir could meet and talk over their differences, now occupied by the Ezrohir.
+The following characters are related to this quest: Guardian of Mana (a powerful spirit, located at Riftkeep).
+The following groups are related to this quest: Ezrohir (a hostile race of people, originally a faction of the Zeraphi), Zeraphi (a race of people, the player's allies).
+This is the quest description, the quest-giver explaining the quest to the player:
+"When the Zeraphi and Ezrohir "parted ways," they designated the nearby fortress of Riftkeep as a neutral ground, where they could meet and talk over their differences. But it has remained unused for centuries... until a few weeks ago, when the Ezrohir army seized the fortress. They have occupied it ever since, and that is surely where they are holding the Guardian of Mana while they marshal their forces.
+The Ezrohir will be expecting the Zeraphi to attack them at Riftkeep, to attempt to rescue the Guardian. But they know it will take time for the Zeraphi to arrive. You can get there much more quickly, and fight your way inside before they are prepared to repel you.
+Go. Fight past the Ezrohir and free the Guardian!"
+<|endoftext|>
+
+This is an RPG quest from Torchlight II.
+The quest-giver is called Faceless King. Faceless King is the former king of the Zeraphi and Ezrohir, an immortal man.
+The quest-giver gives a quest to the player. The player's objective is to help the Faceless King reunite the Zeraphi and Ezrohir.
+The player should first find the Royal Masks, and bring them to the Faceless King to complete their objective.
+The following items are related to this quest: Royal Masks (the masks of the royal line, keys to the Vault of Souls).
+The following groups are related to this quest: Zeraphi, Ezrohir (two warring races of people who were once one race).
+The following locations are related to this quest: Vault of Souls (a place where the Faceless King can reunite the Zeraphi and Ezrohir).
+This is the quest description, the quest-giver explaining the quest to the player:
+"I am called the Faceless King, and I have resided here since the Zeraphi and Ezrohir were one race. I was their king. It has been my dream to reunite them by accessing the Vault of Souls, but the Vault will not open without the masks of the royal line, which were stolen from me ages ago.
+If you can locate the Royal Masks and return them to me, I can unlock the Vault of Souls, and reunite the Zeraphi and Ezrohir! Please, my mortal friend... help me end this war."
+<|endoftext|>
+
+This is an RPG quest from Torchlight II.
+The quest-giver is called Sprocket. Sprocket is a distraught Ponya.
+The quest-giver gives a quest to the player. The player's objective is to bring Blue Boletus flesh to Sprocket.
+The player should first get Blue Boletus flesh to complete their objective. This task can be completed in the following location: Fungal Caves, the only place where Blue Boletus grow.
+The player will receive the following rewards for completing the quest objective: Sprocket will be in the player's debt.
+The following items are related to this quest: Black Blindness (a disease peculiar to the Ponya, which dims the vision and makes speech impossible permanently after two weeks, can only be cured with Blue Boletus flesh).
+The following groups are related to this quest: Ponya (a race of people), Blue Boletus (fungus creatures).
+There are some important facts concerning this quest. Sprocket traveled here from his home village to find Blue Boletus for his cousins who are afflicted with the Black Blindness.
+This is the quest description, the quest-giver explaining the quest to the player:
+"Oh, please - perhaps you can help us! On the advice of our village's healer, I have traveled here seeking a cure. My cousins are afflicted with the Black Blindness, an ailment peculiar to our race.
+Black Blindness is an insidious disease - it dims the vision and makes speech impossible, and if not treated within a few weeks, can become permanent. The only known treatment is produced from the flesh of the Blue Boletus - a species of mushroom creatures that grows only in the Fungal Caves near here. I find that they are, ah, BIGGER than I had anticipated, however.
+Perhaps YOU could retrieve some Blue Boletus flesh for us? We would be forever in your debt!"
+<|endoftext|>
+

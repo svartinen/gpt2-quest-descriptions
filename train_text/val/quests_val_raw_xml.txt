@@ -1,0 +1,4868 @@
+<|begin_quest|>
+<|begin_objective|>
+return to Wenric after killing all zombies
+<|end_objective|>
+<|begin_tasks|>
+kill 20 zombies
+<|end_tasks|>
+<|begin_task_locations|>
+around the farms here
+<|end_task_locations|>
+<|begin_quest_giver|>
+Wenric: a farmer
+<|end_quest_giver|>
+<|begin_rewards|>
+150 gold pieces
+<|end_rewards|>
+<|begin_enemies|>
+20 zombies
+<|end_enemies|>
+<|begin_tools|>
+people around here have not been able to sleep for a week
+<|end_tools|>
+<|begin_description|>
+I be Wenric, a farmer by profession.
+There's been something killing peoples in and 'round the farms here. Zombies or something. I can understands if you can't stomach the task but, just between you an' me real personal-likes, I don't know who else is gonna do it... All of us haves been goin' for a week now without sleep.
+We've counted twenty zombies or so, so keep track as you kill 'em, if that's what you plans on doing.
+Once you got 'em all, come back here and I'll gives you the 150 gold pieces that some of us have pooled together.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+return Peladan to Maralee
+<|end_objective|>
+<|begin_tasks|>
+find Peladan
+<|end_tasks|>
+<|begin_task_locations|>
+northeast of the village, in the woods
+<|end_task_locations|>
+<|begin_quest_giver|>
+Maralee: a hopeful mother
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Peladan: Maralee's 3 months old son
+Maralee's husband, and Peladan's father
+<|end_characters|>
+<|begin_tools|>
+Maralee's husband took Peladan hunting: werewolves attacked Peladan and his father
+Peladan went missing, but Maralee's husband was killed
+Peladan and Maralee's husband have dark hair
+<|end_tools|>
+<|begin_description|>
+Hello, good people. I am Maralee. Two moons ago my husband took my son out hunting with him. They were attacked by those horrible wolf-creatures. They... they killed my husband and took my baby.
+Others say that they took the baby away to eat him, but I know he's still alive. He's a beautiful little boy with dark hair like his father. He is three moons old and his name is Peladan.
+They took him from my husband northeast of the village, in the woods.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+find Evan
+<|end_objective|>
+<|begin_tasks|>
+find the Blue Lady
+<|end_tasks|>
+<|begin_task_locations|>
+along the west coast of Balduran's Isle
+<|end_task_locations|>
+<|begin_quest_giver|>
+Evalt: fisherman of the clan, located at Balduran's Isle
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Evan: Evalt's brother
+Blue Lady: a witch, located at Balduran's Isle
+<|end_characters|>
+<|begin_locations|>
+Balduran's Isle: a small island
+<|end_locations|>
+<|begin_tools|>
+Evan sought out the Blue Lady and disappeared
+Evalt thinks that Evan is under the Blue Lady's spell
+<|end_tools|>
+<|begin_description|>
+I am Evalt, I fish for clan in these savage waters. Listen, outsider, may I ask you for help?
+There is a witch on this isle. My brother called her the Blue Lady and those of us who ply these waters have all heard her singing at one time or another. My brother, Evan, heard her more than most. I think that he went to find her. I think that he is under her spell. I must go and find him. This witch might kill him. He is strong but he is under her spell. I fear that she will kill him before he realizes what is happening. Can you find my brother?
+I don't know exactly where the Blue Lady is. I have the sense to avoid her, unlike Evan. But I have only heard her singing along the west coast of the island.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill the bear pursuing Jared
+<|end_objective|>
+<|begin_tasks|>
+find the bear
+<|end_tasks|>
+<|begin_task_locations|>
+on the other side of that bridge
+<|end_task_locations|>
+<|begin_quest_giver|>
+Jared: a man running away from a bear
+<|end_quest_giver|>
+<|begin_rewards|>
+anything
+<|end_rewards|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Oh, thank goodness someone came by.
+I'm Jared. There's a bear on the other side of that bridge, and it's coming this way! I can't run anymore!
+Please hold it off — I'll give you anything!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill a basilisk and return to Nadarin for your reward
+<|end_objective|>
+<|begin_tasks|>
+find the basilisk
+<|end_tasks|>
+<|begin_task_locations|>
+a warehouse at the harbor
+<|end_task_locations|>
+<|begin_quest_giver|>
+Nadarin: an annoyed warehouse overseer
+<|end_quest_giver|>
+<|begin_rewards|>
+500 gold pieces
+a pair of boots
+<|end_rewards|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Hey, you! Are you either bored or foolish? Either way, I, Nadarin, could use your services.
+Some wiseacre tried to send a basilisk by freight and now it's broken free and is making a mess of one of the warehouses at the harbor.
+There'll be 500 gold pieces for taking care of that on such short notice. Also, you might want these. They're an item I obtained from a fence I know in a far-away city. You never know, they might fit you.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+sell your ankheg shells
+<|end_objective|>
+<|begin_tasks|>
+give your ankheg shells to Taerom Fuiruim
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Taerom Fuiruim: a famous blacksmith
+<|end_quest_giver|>
+<|begin_rewards|>
+500 gold
+<|end_rewards|>
+<|begin_tools|>
+ankheg armor is comparable to full plate with half the weight
+there is an iron shortage
+<|end_tools|>
+<|begin_description|>
+Hello there, I'm Taerom Fuiruim, a blacksmith of some renown.
+An interesting piece o' material you got there. Ankheg, if I'm not mistaken. Been a while since I seen the like, but if I remember correctly, it makes a fine set of armor. If properly treated it's comparable to full plate with half the weight!
+If you're willing to part with your shells I'll give you 500 gold for the lot of them. No more can I offer with business as slow as it is.
+Iron shortage hurting us all.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+return Gurke's cloak to him
+<|end_objective|>
+<|begin_tasks|>
+find the tasloi holding Gurke's cloak
+<|end_tasks|>
+<|begin_task_locations|>
+Cloakwood: a forest
+<|end_task_locations|>
+<|begin_quest_giver|>
+Gurke: an old man who is tired of hearing jokes about losing his cloak in Cloakwood
+<|end_quest_giver|>
+<|begin_rewards|>
+280 gold pieces
+<|end_rewards|>
+<|begin_tools|>
+a tasloi stole Gurke's cloak in Cloakwood
+<|end_tools|>
+<|begin_description|>
+Old Gurke had his famous cloak stolen right off his back by a batch of paltry tasloi.
+Yeah, yeah, it's old news and if you make one crack about the Cloakwood being an appropriate place to lose it, at least, I'll put your liver on the menu. Now move on and let the next people in line have their laugh.
+However, if you happen to find my cloak, I'll give you 280 gold pieces for returning it.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+take Kereph's skull to Agnasia
+<|end_objective|>
+<|begin_tasks|>
+find Kereph's skull
+<|end_tasks|>
+<|begin_task_locations|>
+behind a painting at the Three Old Kegs
+<|end_task_locations|>
+<|begin_quest_giver|>
+Ghorak: a diseased man
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Agnasia: a female priestess, located at The Lady's Hall
+Kereph: Ghorak's dead brother
+<|end_characters|>
+<|begin_locations|>
+Three Old Kegs: a tavern
+The Lady's Hall: a temple
+<|end_locations|>
+<|begin_tools|>
+Ghorak was cursed with an illness for killing his brother
+Agnasia knows how to cure Ghorak
+<|end_tools|>
+<|begin_description|>
+For your own health and that of your children, come no closer.
+I, Ghorak, was cursed with this fell disease as punishment for my wickedness... No, your potions and magics are of little use. The only way to cure this sickness is to right the wrongs of the past. Behind a painting at the Three Old Kegs, you will find the skull of my brother, Kereph. Take it to Agnasia in The Lady's Hall. She will know what to do with it.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+save people from monsters
+<|end_objective|>
+<|begin_tasks|>
+help Palin kill monsters
+<|end_tasks|>
+<|begin_task_locations|>
+east of this place
+<|end_task_locations|>
+<|begin_quest_giver|>
+Palin: a fighter
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Good day to you, stranger. I'm called Palin. Excuse my, uhm, abruptness but I would ask your assistance.
+Just east of this place there are monsters. They are attacking a small group of people. Please, if you have hearts, come and help me fight.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+return Farthing's doll to her
+<|end_objective|>
+<|begin_tasks|>
+find Farthing's doll
+<|end_tasks|>
+<|begin_task_locations|>
+the woods
+<|end_task_locations|>
+<|begin_quest_giver|>
+Farthing: a 5 year old girl, located at the village
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_items|>
+Farthing's doll
+<|end_items|>
+<|begin_tools|>
+the gatekeeper won't let Farthing go and get her doll
+<|end_tools|>
+<|begin_description|>
+My name's Farthing. I'm only five. In a few years my papa will let me hunt. Are you allowed to hunt?
+I've lost my dolly out in the woods. The gatekeeper won't let me go and get it. Can you get it for me?
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+give Euric a good luck talisman and return to Nadine
+<|end_objective|>
+<|begin_tasks|>
+find Euric
+<|end_tasks|>
+<|begin_task_locations|>
+Baldur's Gate: a city
+<|end_task_locations|>
+<|begin_quest_giver|>
+Nadine: a worried mother, located at Baldur's Gate
+<|end_quest_giver|>
+<|begin_rewards|>
+a necklace
+<|end_rewards|>
+<|begin_characters|>
+Euric: Nadine's youngest son, who knows how to take care of himself, located at Baldur's Gate
+<|end_characters|>
+<|begin_items|>
+a good luck talisman: a talisman
+<|end_items|>
+<|begin_tools|>
+Euric ran away from home
+Nadine gives the player a good luck talisman
+<|end_tools|>
+<|begin_description|>
+I, Nadine, desperately need someone's help.
+Euric, my youngest son, has run away again... He's always had a touch of the wanderer in him and he knows how to take care of himself, but... Oh, I'm just worried sick. This city gets more dangerous every day... If you find him, could you give him this good luck talisman? I'm sure we'd all sleep a little better.
+Let me give you this necklace as a token of my thanks upon your return. I don't know if it's worth anything but it has been in the family for years.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring the cloak that draped the village center back to Durlyle
+<|end_objective|>
+<|begin_tasks|>
+find the cloak
+<|end_tasks|>
+<|begin_task_locations|>
+beyond the village wall
+<|end_task_locations|>
+<|begin_quest_giver|>
+Durlyle: a man, located at the village
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_items|>
+the cloak
+<|end_items|>
+<|begin_tools|>
+a storm sank the player's ship
+there are beasts outside the village wall
+<|end_tools|>
+<|begin_description|>
+I am Durlyle, and I am glad to be meeting. I have but a mundane task to ask of you, if you hear me out?
+The storm you felt that took your ship? It was fierce here too, and a cloak that draped the village center was cast to the wind. I think it is beyond the wall, and will not risk the beasts to get it. Will you?
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+win duel against Shar-Teel Dosan
+<|end_objective|>
+<|begin_tasks|>
+select the male party member who shall duel Shar-Teel Dosan
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Shar-Teel Dosan: a man-hating warrior woman
+<|end_quest_giver|>
+<|begin_rewards|>
+Shar-Teel Dosan joins the player's party
+<|end_rewards|>
+<|begin_items|>
+20 gold
+<|end_items|>
+<|begin_tools|>
+the player is the leader of a party of adventurers that has both men and women: Shar-Teel Dosan only duels men
+if Shar-Teel Dosan wins the duel the player has to give 20 gold to her
+Shar-Teel Dosan will kill anyone who tries to interfere the duel
+<|end_tools|>
+<|begin_description|>
+Hold, traveler! I, Shar-Teel Dosan, challenge your best warrior to a duel. I don't fight women, so only men should step forward.
+I win, and you give me 20 gold. In the unlikely event that one of you bests me, I'll pledge my sword to your cause, however stupid it may be..
+Will your champion step forward? I only fight men, so your women will have to be satisfied with just watching. Don't entertain any thoughts about cheating. If any of the rest of you try to interfere in this fight, I'll kill them outright.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+protect Aldeth Sashenstar and his friends from a group of savages
+<|end_objective|>
+<|begin_tasks|>
+prepare for the savages' attack on Aldeth Sashenstar's cottage
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Aldeth Sashenstar: a nobleman, located at a cabin
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Elban: one of Aldeth Sashenstar's friends
+<|end_characters|>
+<|begin_groups|>
+a group of savages
+<|end_groups|>
+<|begin_tools|>
+Aldeth Sashenstar has been holed up in a cabin for several days
+the savages threatened Aldeth Sashenstar and his friends to stop hunting
+the savages killed Elban
+<|end_tools|>
+<|begin_description|>
+I am Aldeth Sashenstar. You must understand that at the moment, I'm under a terrible amount of stress.
+You see, my dear friend, there is a group of uncouth savages that has declared their intention of killing my friends and me. I've been holed up in this cabin for several days and have lacked the wherewithal to try to make an escape.
+My friends and I come here every year to do some sport hunting. This year however, a group of woodland savages threatened us with bodily harm if we did not stop our hunting trip. Being civilized men, we realized that it's well within our rights to hunt where we damn well please. After a few more days of hunting, the crass woodmen lost all pretense of humanity and murdered Elban, one of my oldest friends.
+I'm sure that they plan to attack our cottage here, so we had best be prepared.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+get the ward token that opens the way to the labyrinths beneath Durlag's Tower from Galken
+<|end_objective|>
+<|begin_tasks|>
+settle Galken's bar tab
+<|end_tasks|>
+<|begin_task_locations|>
+a bar
+<|end_task_locations|>
+<|begin_quest_giver|>
+Galken: a suspicious man, located at a bar
+<|end_quest_giver|>
+<|begin_rewards|>
+ward token
+<|end_rewards|>
+<|begin_locations|>
+Durlag's Tower: a tower atop untouched dungeons filled with riches
+<|end_locations|>
+<|begin_tools|>
+Galken gives the player the ward token if the player settles his bar tab
+<|end_tools|>
+<|begin_description|>
+I'm Galken. Hey, how'd you like to be supping on fine venison and tippin' back the good stuff?
+I've the key to wealth legendary if you're up for it. No doubt you've heard of the labyrinth at Durlag's Tower, eh? And how she's been pillaged so often that fat nobles go there for picnics? Well, the TOWER has, but BELOW are dungeons untouched! I've a token, a ward token to be sure, that gives entry to them.
+'Tis yours if you'll but settle my tab so I can leave this fine place... with all my limbs intact.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+get the Dawn Ring from Travin and bring it to Talon Yarryl
+<|end_objective|>
+<|begin_tasks|>
+find Travin
+<|end_tasks|>
+<|begin_task_locations|>
+the slums at night
+<|end_task_locations|>
+<|begin_quest_giver|>
+Talon Yarryl: priest of Talos
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Talos: the evil god of thunder and destruction
+Travin: a male thief, located at the slums at night
+Stormherald Nallabir: a male priest of Talos, located at the Government District
+<|end_characters|>
+<|begin_items|>
+Dawn Ring: a ring
+<|end_items|>
+<|begin_groups|>
+Lathanderian temple, Lathanderian church: a church that does not respect Talos
+<|end_groups|>
+<|begin_tools|>
+Stormherald Nallabir lost this past tenday's theological debate to a a representative of the Lathanderian temple in the Government District
+the temple of Talos hired Travin to steal a Dawn Ring from the Lathanderian temple
+<|end_tools|>
+<|begin_description|>
+It's Talon Yarryl, priest of Talos.
+I have a chore for you that may prove interesting.
+This is not a matter of negotiation or exploration. No, now you are to face true enemies of Talos.
+Slanderous words have been said. Things did not go well for Stormherald Nallabir at this past tenday's theological debate in the Government District. The growing arrogance of the Lathanderian church is distasteful. Talos should be feared; their irreverence is insulting.
+We have hired a thief, and he has stolen a Dawn Ring from the Lathanderian temple.
+Find Travin in the slums at night, collect the ring, and return it here.
+Remember that the honor of Talos rests upon your shoulders.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+find the 3 men who buried Tirdir alive
+<|end_objective|>
+<|begin_tasks|>
+talk to the gravekeeper about the man dressed in red
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Tirdir: a distressed man, located at the graveyard
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+man dressed in red, the youngest of the 3 men
+the gravekeeper, a man
+<|end_characters|>
+<|begin_groups|>
+3 men: a group of three men who kidnapped Tirdir
+<|end_groups|>
+<|begin_tools|>
+the player saved Tirdir from a grave
+Tirdir was kidnapped: the 3 men who kidnapped Tirdir buried him alive in the grave
+Tirdir tore off something from the shirt of the youngest man dressed in red
+the gravekeeper might have spoken to the man dressed in red
+<|end_tools|>
+<|begin_description|>
+Thank you for saving me! I'm Tirdir. I was buried by the men who kidnapped me!
+*cough* They held me for ransom from my family, and after my family had paid, they knocked me out. I remember being carried here and thrown into that grave next to another body! And then they buried me alive! *cough*
+I don't know their names. There were three of them. The youngest carried me here. He dressed all in red... strange and bright as you please.
+I woke up with this in my hand. I think I must have torn it off his shirt when he threw me in the grave. Perhaps it will help you find him.
+You must stop them! I beg of you! There was someone who spoke to this man. Perhaps the gravekeeper. You should talk to him at least... he must have seen something!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+speak to the believers of Talos
+<|end_objective|>
+<|begin_tasks|>
+give guidance to the believers of Talos who seek the guidance of Talos
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Acolyte Vilon: a priest of Talos, who hands the player the player's duties to Talos
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Talos, the Storm Lord: an evil god of thunder and destruction
+<|end_characters|>
+<|begin_tools|>
+the player is a favored of Talos
+Acolyte Vilon sends the player a few believers who need the guidance of Talos
+<|end_tools|>
+<|begin_description|>
+Chosen of Talos! Over here! I, Acolyte Vilon, have words for you about your duties within the church!
+As a favored of Talos, you will hear questions from the mewling dogs that seek the guidance of the Storm Lord. These weaklings seek guidance, and you are to give it. These worms are barely worthy of stepping upon the floor of the house of the Storm Lord! Nevertheless, you will hear them!
+We all take our turn guiding the foolish. I shall send a few your way, and if you do well, perhaps you will not need to speak to any more. We shall see.
+For now, guide them in the way of Talos. You must do what is best for the church, and that is all. Anything less and you will have your honors stripped.
+Clear?
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+investigate the murder of Anomen's sister
+<|end_objective|>
+<|begin_tasks|>
+go to Lord Cor's home with Anomen
+<|end_tasks|>
+<|begin_task_locations|>
+Government District: a district of Athkatla
+<|end_task_locations|>
+<|begin_quest_giver|>
+Anomen: a warrior priest
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Lord Cor: a nobleman, and Anomen's father, located at Lord Cor's home
+<|end_characters|>
+<|begin_locations|>
+Athkatla: a city
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I am Anomen, a warrior priest.
+I must discover the truth about my sister's murder. We must head for my father's home in the Government District of Athkatla!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+play the imps' game
+<|end_objective|>
+<|begin_tasks|>
+place the gifts, and talk to the imps
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+imps: two mischievous, small demons
+<|end_quest_giver|>
+<|begin_rewards|>
+all of the drow's treasure from the sixth chest
+<|end_rewards|>
+<|begin_tools|>
+there are five empty chests
+a famous person will appear in front of each empty chest: each famous person will give the player a gift that belongs to another famous person and will give a hint about the gift's owner
+the player must place each gift to the correct chest behind each famous person
+<|end_tools|>
+<|begin_description|>
+We are two imps, little demonic people. We want to play a game.
+Okay, big peoples... this is how our game will go! There is five chests here with nothings in them! In front of each empty chest, a famous big people will appear! Famous big people! Oh, yes, powerful famous big people! Each famous big people will give you a gift that belongs to another famous big people... and they will hints to you what gifts belong to them! If you thinks you knows which famous big people a gift belongs to, you puts it in the empty chest behind them, yes? Very simple!
+Once you places all five, you comes and asks us! If you wrong, we laugh at you! If you right, we open the sixth chest! The sixth chest has all of the drow's treasure! All of it!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+defeat the attackers at the de'Arnise Keep
+<|end_objective|>
+<|begin_tasks|>
+find Daleson
+<|end_tasks|>
+<|begin_task_locations|>
+de'Arnise Keep: the home of Nalia de'Arnise, a castle under siege
+<|end_task_locations|>
+<|begin_quest_giver|>
+Nalia de'Arnise: a noblewoman
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Daleson: a man, located at de'Arnise Keep
+<|end_characters|>
+<|begin_tools|>
+if the attackers have breached the inner courtyard of the de'Arnise Keep, they will be hard to rout
+Nalia de'Arnise's father would not leave the de'Arnise Keep
+<|end_tools|>
+<|begin_description|>
+I, Nalia de'Arnise, need a strong hand to help me. My land is under siege, and none of this rabble will aid me! And after all I've done for their kind, too! Please, can you assist me?
+There is no time! I only hope that the attackers have not made it inside. If they have... if they have breached the inner courtyard, they will be hard to rout.
+I will tell you what secrets I can. Perhaps you will be able to sneak in and attack from a more vulnerable spot. I hope Father is all right. He... would not leave.
+Please, hurry to the de'Arnise Keep and find Daleson.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+guard Aran Linvail's shipments, and report to him if anything happens
+<|end_objective|>
+<|begin_tasks|>
+find Mook
+<|end_tasks|>
+<|begin_task_locations|>
+the docks
+<|end_task_locations|>
+<|begin_quest_giver|>
+Aran Linvail: a man leading a guild of thieves, located at thieves' guild hall
+<|end_quest_giver|>
+<|begin_rewards|>
+some useful magical items
+<|end_rewards|>
+<|begin_characters|>
+Mook: Aran Linvail's female guard captain, located at the docks
+<|end_characters|>
+<|begin_tools|>
+the player is meeting Aran Linvail for the first time
+Aran Linvail's shipments and employees are disappearing on the docks
+<|end_tools|>
+<|begin_description|>
+Welcome to this place. I've looked forward to seeing you. I am, as you know, Aran Linvail.
+Strange things are afoot on the docks. Shipments are disappearing, as are my employees with them. We are significantly weakened by this. I think it unlikely you would be captured or wooed to the enemy. If you go to the docks and bolster the guard on the shipments, it will strengthen our position.
+Go at night, and you will find my present guard captain there already, a woman by the name of Mook. Take note of anything odd that happens.
+Good hunting. Report to me if anything happens. Oh, and the reward I have set aside for you... I'll let you have some magical items. You will find them useful, I am sure.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring Jermien the blood of a mimic so that he can complete his magical stone golem
+<|end_objective|>
+<|begin_tasks|>
+find the blood of a mimic
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Jermien: a Cowled Wizard
+<|end_quest_giver|>
+<|begin_rewards|>
+a handsome reward: a magical sword
+<|end_rewards|>
+<|begin_items|>
+the blood of a mimic
+<|end_items|>
+<|begin_tools|>
+magical stone golems are known to be powerful and dangerous
+<|end_tools|>
+<|begin_description|>
+I am none other than Jermien... licensed Cowled Wizard for this region.
+I am working on a golem of stone! A fine piece of magical craftsmanship, if I do say so myself! Few other mages have made the attempt, you see. This type of golem is quite powerful and dangerous... but I am more than skilled enough to control it. Once it's complete, I'll have an excellent servant.
+Trouble is, I'm missing one of the crucial ingredients... the blood of a mimic. I'd pay handsomely for some, in fact. Hmmm... you look like the adventurous type... care to find me some?
+Hmm. I seem to recall that I've got a magical sword around here that I won in a bet from a certain fool. I've no use for it, but it's valuable. Find me some mimic's blood and it's yours.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill Aran Linvail
+<|end_objective|>
+<|begin_tasks|>
+find a way to access Aran Linvail's sanctum
+<|end_tasks|>
+<|begin_task_locations|>
+the basement of the Shadow Thief guild house
+<|end_task_locations|>
+<|begin_quest_giver|>
+Bodhi: a well-spoken woman, and an enemy to the Shadow Thieves
+<|end_quest_giver|>
+<|begin_rewards|>
+Bodhi and the player's arrangement will be fulfilled
+<|end_rewards|>
+<|begin_characters|>
+Aran Linvail, the Shadowmaster: the male leader of the Shadow Thieves, located at Aran Linvail's sanctum
+Tizzak: Bodhi's male employee
+<|end_characters|>
+<|begin_groups|>
+Shadow Thief, Shadow Thieves: a guild of thieves
+<|end_groups|>
+<|begin_tools|>
+the player has worked for Bodhi before
+Aran Linvail is in the basement of the Shadow Thief guild house: the player needs a key to the basement
+Tizzak is missing, and the Shadow Thieves may have him: he may know how to access Aran Linvail's sanctum
+<|end_tools|>
+<|begin_description|>
+Again, I require your talents. Now to the task at hand.
+It is time to take down the leadership of the Shadow Thieves and throw them into a more permanent disarray from which they may not recover. You must invade their lair one last time. You must kill Aran Linvail, the Shadowmaster. Do this for me, and our arrangement will be fulfilled.
+Aran is in the basement of the Shadow Thief guild house, so you need a key. The lock is likely unpickable. What good is a lock in a thieves' guild if any thief can pick it?
+One more thing: Tizzak, an employee of mine, is missing, and the Thieves may have him. Find him, and he may tell you how to access Aran's sanctum. Go now!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+free Vithal
+<|end_objective|>
+<|begin_tasks|>
+find Vithal
+<|end_tasks|>
+<|begin_task_locations|>
+in the cavern north of here
+<|end_task_locations|>
+<|begin_quest_giver|>
+Uder Mordin: a man who witnessed a battle between Vithal and a powerful opponent, located at a dangerous cave system
+<|end_quest_giver|>
+<|begin_rewards|>
+Vithal was trying to uncover an artifact of old
+<|end_rewards|>
+<|begin_characters|>
+Vithal: a powerful male mage, who was magically confined, located at the cavern north of here
+<|end_characters|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I would be careful in this place, if I were you. Many dangers around many corners. You will be lucky to live. No real secrets for those that travel here frequently.
+A trespasser got his due from someone he crossed. Well, I suppose it did not end in death, but it was a mighty battle regardless. I do not know who the aggressor was, but I know who lost.
+That person was a mage of power, I am sure, though not powerful enough in the end. A pity too. He seemed intent on unearthing an artifact of old or some such.
+And his reward for his effort? Worse than death, even though he seemed willing to share. Imprisoned, magically confined in the cavern north of here. Pity.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill the sea troll
+<|end_objective|>
+<|begin_tasks|>
+find the sea troll
+<|end_tasks|>
+<|begin_task_locations|>
+the sewers
+<|end_task_locations|>
+<|begin_quest_giver|>
+Roger: a shady merchant, located at the sewers
+<|end_quest_giver|>
+<|begin_rewards|>
+500 gold pieces
+<|end_rewards|>
+<|begin_enemies|>
+sea troll
+<|end_enemies|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Hmmn. I don't remember seeing you down here before. Me name be Roger.
+Oh, the sewers aren't so terrible. The guards don't be comin' down here, and my customers like to be somewhere... out of sight. 'Tis the beasties that are the biggest problem, especially of late. There's this sea troll. People have 'em as pets, and when they grow too large, they huck 'em down here to torment me.
+I suppose I could part with a few coins for the deed. I tell you what... dispose of the sea troll beastie for me, an' I'll be pleased to pay you 500 gold pieces, aye?
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+take the three dryads' acorns to the Fairy Queen in the south end of the Windspear Hills
+<|end_objective|>
+<|begin_tasks|>
+get the three dryads' acorns from Ilyich
+<|end_tasks|>
+<|begin_task_locations|>
+Irenicus' dungeon
+<|end_task_locations|>
+<|begin_quest_giver|>
+the three dryads, located at Irenicus' dungeon
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Irenicus: an evil male wizard
+Ilyich: the clan leader of Irenicus's duergar slaves, located at Irenicus' dungeon
+Fairy Queen: the queen of fairies, located at the south end of the Windspear Hills
+<|end_characters|>
+<|begin_locations|>
+Windspear Hills: windy hills
+<|end_locations|>
+<|begin_tools|>
+Irenicus has enslaved the three dryads
+<|end_tools|>
+<|begin_description|>
+We are the three dryads. You must help us get free of this... creature Irenicus! We are Irenicus's possessions, servants, and concubines.
+You must get our acorns back from Ilyich, the clan leader of Irenicus's duergar slaves. He is somewhere within this dungeon. Please take the acorns to the Fairy Queen who lives in the south end of the Windspear Hills.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+escort Tyrianna to the building beside the temple in the docks and wait for Hurgis Baltezan to arrive
+<|end_objective|>
+<|begin_tasks|>
+protect Tyrianna
+<|end_tasks|>
+<|begin_task_locations|>
+safe house
+<|end_task_locations|>
+<|begin_quest_giver|>
+William Reirrac: of the Most Noble Order of the Radiant Heart
+<|end_quest_giver|>
+<|begin_rewards|>
+a suit of powerful armor
+<|end_rewards|>
+<|begin_characters|>
+Tyrianna: a noblewoman, one of the Morningales, located at safe house
+Hurgis Baltezan, "Hand of Torm": Tyrianna's godparent, an upstanding man serving the god of duty, comes from Baldur's Gate
+<|end_characters|>
+<|begin_groups|>
+Most Noble Order of the Radiant Heart: an order of holy knights
+Morningales: a noble family known for their work in opposing the slave trade
+<|end_groups|>
+<|begin_locations|>
+Baldur's Gate: a big city
+<|end_locations|>
+<|begin_tools|>
+the Morningales have been murdered: Tyrianna survived her family
+<|end_tools|>
+<|begin_description|>
+I have a vital mission for you that must take precedence over all else.
+We have received word of a great atrocity, one that must not be completed. There has been... murder is too weak a word. An entire family has been decimated. The Morningales have been a model of decency in this city, and their work in opposing the slave trade has earned them renown across the land. It also earned them many enemies. This past tenday has seen the family murdered in their homes, almost to the last. It would seem they were made examples of.
+The time for justice will come, but what is important now is that someone survived, praise Helm. Tyrianna — she hid in a cellar while all others were executed. She must be protected until escorted from the city. Her survival will be a symbol to persevere in the fight against slavery, despite the ferocity of the enemy. You will go to a safe house we have set up, and you will make sure she remains secure. It is as secret as we could make it, though nothing is ever absolute.
+In the morning, her godparent will arrive. He is from Baldur's Gate and will accept no other guards besides his own. You will see that she reaches his care. Go to the building beside the temple in the docks and await him. She should be safe in his care. Hurgis Baltezan is his name, and a more upright citizen you will not find. He earned the title "Hand of Torm" in his service to the god of duty.
+The Order shall reward you with a suit of powerful armor for your good works.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+find evidence about Mae'Var's planned betrayal
+<|end_objective|>
+<|begin_tasks|>
+show the papers to Gorch to gain access to Mae'Var's guild house
+<|end_tasks|>
+<|begin_task_locations|>
+the storefront in the central docks
+<|end_task_locations|>
+<|begin_quest_giver|>
+Renal: one of the leaders of the Shadow Thieves, nicknamed "Bloodscalp"
+<|end_quest_giver|>
+<|begin_rewards|>
+10,000 gold
+a sword
+<|end_rewards|>
+<|begin_characters|>
+Mae'Var: a good, ambitious male thief, the leader of Mae'Var's guild house
+Shadowmaster: the guildleader of the Shadow Thieves
+Gorch: a male storekeeper, located at the storefront in the central docks
+<|end_characters|>
+<|begin_groups|>
+Shadow Thieves: a guild of thieves
+<|end_groups|>
+<|begin_locations|>
+Mae'Var's guild house, one of Renal's guild houses to the south
+<|end_locations|>
+<|begin_tools|>
+Renal will give the player papers which say that the player was being transferred by the Shadowmaster
+the player is supposed to spy on Mae'Var from the inside
+the player will need to reassure Mae'Var
+<|end_tools|>
+<|begin_description|>
+My name is Renal, as I'm sure you've been told. Renal "Bloodscalp"... a little nickname I've earned over time. Rather grisly, but it keeps the fearful in line.
+One of my guild houses to the south is run by a rather ambitious fellow named Mae'Var. Good thief, but I never liked him. Now I know why. I've had some hints that he is getting too big for himself. Thinking of taking my place, I suspect, but I've had no real evidence to say that this is so.
+I will give you papers saying you were being transferred by the Shadowmaster. You will spy on Mae'Var from the inside and find me the evidence that I need. You'll need to reassure Mae'Var, naturally. He won't know who you are, but I am confident that you are more than capable of this.
+Just head to the storefront in the central docks area and speak to the storekeeper, Gorch. Show the papers to him, and he'll let you in the guild house proper.
+I think you will find the reward adequate. 10,000 gold is no small fortune, though I think you deserve a little more. From my personal armory, a sword.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Thomas gather fish for his village
+<|end_objective|>
+<|begin_tasks|>
+catch 16 fish
+<|end_tasks|>
+<|begin_task_locations|>
+Salmon Steps: a nearby river rich in salmon
+<|end_task_locations|>
+<|begin_quest_giver|>
+Thomas: a concerned village fisherman, located at a village
+<|end_quest_giver|>
+<|begin_rewards|>
+32 emeralds
+<|end_rewards|>
+<|begin_items|>
+16 fish
+<|end_items|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Traveler, I'm worried about my fellow villagers here in the village. I don't think that they eat enough nutritious, tasty fish.
+Could you help me gather more? I simply can't catch enough fish for everyone, even if I'm a pro fisherman.
+There is a river, Salmon Steps, bountiful in salmon near here. You could try your luck there, and catch 16 fish for me. I could pay you 32 shiny, green emeralds for the fish.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring gold ore to Nila
+<|end_objective|>
+<|begin_tasks|>
+find some gold ore
+<|end_tasks|>
+<|begin_task_locations|>
+ore veins deep in the ground
+<|end_task_locations|>
+<|begin_quest_giver|>
+Nila: a greedy villager, located at a village
+<|end_quest_giver|>
+<|begin_rewards|>
+melon seeds
+<|end_rewards|>
+<|begin_tools|>
+the player is an enemy of Nila
+<|end_tools|>
+<|begin_description|>
+What are YOU doing here! If it was up to me, I'd never let you in the village.
+Perhaps you'd like to mend our relations? Bring me some gold ore, the more the better. You can never have enough of it; it's so beautiful. My gold. I wish to have it all to myself. Too bad it's mainly found in the ore veins deep in the ground.
+I guess you could have these melon seeds as a reward. I have no use for them; melons have nothing on gold.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+recover writings of a lost culture for Jane
+<|end_objective|>
+<|begin_tasks|>
+find the writings of a lost culture
+<|end_tasks|>
+<|begin_task_locations|>
+an ocean ruin far west of here
+<|end_task_locations|>
+<|begin_quest_giver|>
+Jane: a librarian
+<|end_quest_giver|>
+<|begin_rewards|>
+some bookshelves
+<|end_rewards|>
+<|begin_tools|>
+the player is a famous hero
+<|end_tools|>
+<|begin_description|>
+There are ruins scattered on both land and the bottom of the sea, hero. These ruins tell us many things about the people who inhabited them: their hardships and hopes.
+I'm not a hero like you, just your everyday librarian. I know of a submerged ruin in an ocean far west of here that you could explore. I implore you: find writings of a lost culture that lived in the ruin. The writings will be reduced to a lump of watery paper, if we don't recover them in time.
+I have some unused bookshelves that I could give you in return. Even heroes need to civilize themselves with quality literature sometimes.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+slay the Ender Dragon, and report back to Weak Will
+<|end_objective|>
+<|begin_tasks|>
+enter The End
+<|end_tasks|>
+<|begin_task_locations|>
+The End: a mysterious place at the end of space and time
+<|end_task_locations|>
+<|begin_quest_giver|>
+Weak Will: a suicidal nitwit, located at a village
+<|end_quest_giver|>
+<|begin_rewards|>
+something cool
+<|end_rewards|>
+<|begin_characters|>
+Ender Dragon: an evil dragon
+<|end_characters|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Me useless moron, say many people of this village. Me want to seem like a hero instead. Would make I happier, less thinking of dying.
+Me know!!! Go to The End. That strange place at the end. Kill that big meanie Ender Dragon. Tell I how you did it, and me can tell everyone me did it!
+Me give you something cool for me white lie.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring some ice to Caleb
+<|end_objective|>
+<|begin_tasks|>
+find some ice
+<|end_tasks|>
+<|begin_task_locations|>
+snowy tundras, in frosted rivers
+<|end_task_locations|>
+<|begin_quest_giver|>
+Caleb: a calm man, located at a desert village
+<|end_quest_giver|>
+<|begin_rewards|>
+42 cacti
+<|end_rewards|>
+<|begin_tools|>
+the player is a known villain
+<|end_tools|>
+<|begin_description|>
+I know of your dark deeds. I do not want any trouble from you.
+However... if you have had a change of heart, I could use a little help. The hot desert air of this village is making me rather uncomfortable. I could stave off the heat, if I had some ice.
+Tell you what, bring me ice, and you may still redeem yourself, villain, and net yourself 42 cacti. Ice is commonplace in snowy tundras, in frosted rivers.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+give a lead to Bruce
+<|end_objective|>
+<|begin_tasks|>
+obtain a lead
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Bruce: a happy man who owns a cat, located at a village
+<|end_quest_giver|>
+<|begin_rewards|>
+5 emeralds
+<|end_rewards|>
+<|begin_tools|>
+the player tamed the cat for Bruce
+the player can craft a lead by combining some string with a slimeball
+<|end_tools|>
+<|begin_description|>
+Hello again! I'd like the thank you again for taming a cat for me. I'm really happy about my cat.
+There is a small issue, though. I hate to trouble you further, but could you get me a lead? I just don't want my cat to wander off to dangerous places all alone. Did you know that you can craft a lead by combining some string with a slimeball?
+I'll even pay you five emeralds for the lead.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring Spook's new book to Kant
+<|end_objective|>
+<|begin_tasks|>
+find Spook
+<|end_tasks|>
+<|begin_task_locations|>
+an igloo to the north
+<|end_task_locations|>
+<|begin_quest_giver|>
+Kant: a fearless bookworm, located at village
+<|end_quest_giver|>
+<|begin_rewards|>
+an enchanted book
+<|end_rewards|>
+<|begin_characters|>
+Spook: a madman who writes novels, located at an igloo to the north
+<|end_characters|>
+<|begin_tools|>
+the player is a known villain
+<|end_tools|>
+<|begin_description|>
+Oh... You're that dark villain. This is just like one of my adventure novels! So exciting!
+Perhaps you happen to know Spook. He's a kooky novelist who lives in an igloo to the north. You should get along with him splendidly! And whole you are there, you could even get his new book for me. I need to know what events unfold in that one!
+Evil machinations need funding, don't they? Well, do my little book-fetching mission, and gain an enchanted book. I love books, but that one flew over my head... literally!.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring a painting to Sandy
+<|end_objective|>
+<|begin_tasks|>
+obtain a painting
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Sandy: a scared woman
+<|end_quest_giver|>
+<|begin_rewards|>
+16 TNT: explosives
+<|end_rewards|>
+<|begin_tools|>
+the player is a known villain
+<|end_tools|>
+<|begin_description|>
+*scream of terror* I.. I.. I don't want any trouble. Please, I just want to live my live in peace.
+You're not going to kill me? Sinister master, may this mere woman ask a tribute from you? Please, I'd like to have a painting.
+In return, you will receive 16 TNT, perfect for ramping up explosions (Preferably elsewhere).
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring 5 zombie heads to Elena
+<|end_objective|>
+<|begin_tasks|>
+obtain 5 zombie heads
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Elena: a monster hater, located at a village
+<|end_quest_giver|>
+<|begin_rewards|>
+Elytra: wings that let the player fly
+<|end_rewards|>
+<|begin_tools|>
+Elena has heard that the player helps people
+powerful creepers are somehow related to obtaining the zombie heads
+<|end_tools|>
+<|begin_description|>
+I want all monsters in this world know how much I hate them. Perhaps I could get some of their heads to show my disdain toward them. Zombie heads should show all zombies that I am not to be trifled with.
+You will certainly help me; many people in this village have told me that you are a resourceful and eager to work. Bring me five zombie heads. Powerful creepers are somehow related to getting the heads, but I don't know how exactly.
+Get me the heads, and I'll give you wings that let you soar the skies: an Elytra.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+give an Ender Chest to Loki
+<|end_objective|>
+<|begin_tasks|>
+obtain an Ender Chest
+<|end_tasks|>
+<|begin_task_locations|>
+End Cities: storied cities at the end of time and space
+<|end_task_locations|>
+<|begin_quest_giver|>
+Loki: a mischievous man, located at a village
+<|end_quest_giver|>
+<|begin_rewards|>
+some powered rails
+<|end_rewards|>
+<|begin_items|>
+Ender Chests: chests whose contents are stored separately for all people
+<|end_items|>
+<|begin_tools|>
+the player can craft Ender Chests somehow
+<|end_tools|>
+<|begin_description|>
+I'm planning all sorts of new pranks that would make me a famous man here in the village. There's one integral item that I haven't been able to obtain: an Ender Chest. You know, the chests whose contents are stored separately for everyone?
+I heard you can find Ender Chests in End Cities at the end of time and space. It should also be possible to craft them somehow. Can you obtain an Ender Chest? I would pay you well for one: you could have some powered rails that I used in one of my pranks.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring a wolf to Miles the Moron
+<|end_objective|>
+<|begin_tasks|>
+tame a wolf
+<|end_tasks|>
+<|begin_task_locations|>
+Wide Woodland: a large forest
+<|end_task_locations|>
+<|begin_quest_giver|>
+Miles the Moron: a nitwit
+<|end_quest_giver|>
+<|begin_rewards|>
+a lot of pumpkins
+<|end_rewards|>
+<|begin_tools|>
+the player is a friend of Miles the Moron
+<|end_tools|>
+<|begin_description|>
+Me happy. See a friend. Hello friend!
+Me would like me own wolfie. Could help me do things... Wolfies like Wide Woodland. A biggy forest. Tame a wolfie. Bring it to me. Me give you pumpkins. A load of pumpkins.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+give a turtle shell to Pete
+<|end_objective|>
+<|begin_tasks|>
+obtain a turtle shell
+<|end_tasks|>
+<|begin_task_locations|>
+sandy beaches
+<|end_task_locations|>
+<|begin_quest_giver|>
+Pete: a nitwit, located at a village
+<|end_quest_giver|>
+<|begin_rewards|>
+a diamond sword
+<|end_rewards|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Me hurt me often. Other village-people suggest me get a helmet to protect me head.
+Me seen turtles on sandy beaches. They never get hurt, because they hide in thick shells.
+You give me a turtle shell? Make me safe? Me give you this sharp stick in return. It a diamond sword. It pretty, but me hurt plenty after touching it.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Greta redecorate her home
+<|end_objective|>
+<|begin_tasks|>
+place the decorations Greta gives you in her home
+<|end_tasks|>
+<|begin_task_locations|>
+Hamlet-By-The-Grass: a village
+<|end_task_locations|>
+<|begin_quest_giver|>
+Greta: a female villager, located at Hamlet-By-The-Grass
+<|end_quest_giver|>
+<|begin_rewards|>
+gold ingot
+<|end_rewards|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+My home is starting to look a bit drab. Could you help me redecorate my home here in Hamlet-By-The-Grass?
+I don't know you that well; you definitely should come up with something fresh and interesting. Here. Take these decorations and place them in my home.
+Afterwards, you can have this gold ingot.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring 24 note blocks to Zana
+<|end_objective|>
+<|begin_tasks|>
+obtain 24 note blocks
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Zana: a musician, located at a village
+<|end_quest_giver|>
+<|begin_rewards|>
+a music disc
+<|end_rewards|>
+<|begin_items|>
+24 note blocks, used to play musical notes
+<|end_items|>
+<|begin_tools|>
+the player is an enemy of Zana
+the player can craft note blocks from wooden planks and redstone dust
+<|end_tools|>
+<|begin_description|>
+I am most certainly not going to sing your praises, you nasty cretin.
+On the contrary, it would be music to my ears if you helped me reach my musical ambitions. No one in this village seems to care for music, or any of the arts for that matter. For starters, obtain 24 note blocks. It has to be exactly 24, because there are that many different notes to play. It's possible to craft note blocks from wooden planks and redstone dust.
+Bring the 24 note blocks to me. I'll let you have an old music disc of mine.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring 6 tropical fish to Mickey
+<|end_objective|>
+<|begin_tasks|>
+catch 6 tropical fish
+<|end_tasks|>
+<|begin_task_locations|>
+oceans
+<|end_task_locations|>
+<|begin_quest_giver|>
+Mickey: a fisherman
+<|end_quest_giver|>
+<|begin_rewards|>
+an enchanted fishing rod
+<|end_rewards|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I've caught a mountain of salmon and cod. Yet, there are still some more exotic fish that have eluded my fishing rod.
+Traveler, do you like fishing? May I ask you to catch 6 tropical fish for me? These sort of fish are common in vast oceans of our world. I yearn to take a look at new kinds of fish. I could even try to breed them.
+If you happen to give me 6 exotic fish, I'll be glad to reward you with an enchanted fishing rod of mine. A best kind of tool for a passionate fisher.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+clear Bradon's name
+<|end_objective|>
+<|begin_tasks|>
+find Raynil Dralas, and make him tell you the truth about Bradon's supposed vampirism
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Erline: a shocked wife, located at Bruma
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Bradon: Erline's husband, who was killed by Raynil Dralas
+Raynil Dralas: a male Dunmer vampire hunter
+Carius: a male criminal investigator, located at Bruma
+<|end_characters|>
+<|begin_locations|>
+Bruma: a city
+<|end_locations|>
+<|begin_tools|>
+Raynil Dralas killed Bradon in Bradon and Erline's home: the Bruma city watch found the body of a dead beggar in Bradon and Erline's's home afterwards
+Raynil Dralas convinced Carius that Bradon was a vampire
+no one has seen Bradon out in the daylight: Erline explains that Bradon works at night and sleeps on days
+Erline has seen Raynil Dralas before
+<|end_tools|>
+<|begin_description|>
+I can't believe this is happening. Please... please. I need your help. My husband was no vampire! It's ridiculous! No one will listen to me! Forgive me. I loved my husband dearly, and to lose him this way makes no sense. Anything you can do to help would be wonderful. This is all happening so fast.
+I came home only just a few hours ago. I found the door open, and my Bradon dead. Standing over him was a Dunmer. I screamed and ran out into the street. Some city watch were nearby and heard me I suppose, as they arrived quickly. I heard the Dunmer identify himself as Raynil Dralas. He said he was a vampire hunter and that Bradon was his mark. The guards seemed to know about Raynil, and after a search of the house, the body of some beggar was found stashed in our basement. The guards sent for Carius, who is an investigator for crimes here in Bruma. In minutes, Raynil convinced Carius that Bradon was a vampire.
+Why would he stash a body in his own house? That's ridiculous! And another thing. The guards are making a big deal out of no one seeing Bradon out in the daylight. Well of course that's the case! He works at night, and has to sleep during the day. Why does that make him a vampire? It's all that Raynil character. I don't trust him. The thing that bothers me the most is that I swear I've seen him before. Of course he says he's never been here. Look, there isn't much more to say. Please... help me clear my husband's name.
+Just find Raynil Dralas, and make him tell you the truth. I swear, he's a liar!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+resolve the trouble of doubles
+<|end_objective|>
+<|begin_tasks|>
+kill the demented citizens of Split
+<|end_tasks|>
+<|begin_task_locations|>
+Split: a village
+<|end_task_locations|>
+<|begin_quest_giver|>
+Horkvir Bear-Arm: a manic, workaholic man, located at Split
+<|end_quest_giver|>
+<|begin_rewards|>
+Horkvir Bear-Arm will make it worth the player's while
+<|end_rewards|>
+<|begin_locations|>
+Hill of Suicides: a nasty place where people who have committed suicide end up
+<|end_locations|>
+<|begin_tools|>
+a wizard split all citizens of Split into two people: one demented and other manic
+Horkvir Bear-Arm cannot resolve the issue himself: there are rules and he does not want to end up on the Hill of Suicides
+<|end_tools|>
+<|begin_description|>
+Yes, I, Horkvir Bear-Arm, can take a moment to talk with you.
+I'd get more work done if it weren't for my layabout double living in town. Terrible drain on productivity. Never know who's who. It's been a problem for too long.
+A wizard did it. Stupid layabout mage. Had a theory about each of us having a Manic and Demented side. He decided to test the theory. Cast a spell. Split us all in two. Do we get twice the work done? No! Ridiculous. We're not allowed to take care of it either. There are rules. And I don't want to end up on the Hill of Suicides. You, on the other hand....
+Get rid of that Demented bunch. Useless, anyway. Don't get a lick of work done around Split. If you get rid of them, I'll make it worth your while.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+liberate Ranarr-Jo and others from mind control
+<|end_objective|>
+<|begin_tasks|>
+gain Kishashi's trust
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Ranarr-Jo: a paranoid man
+<|end_quest_giver|>
+<|begin_rewards|>
+Ranarr-Jo's trust
+<|end_rewards|>
+<|begin_characters|>
+Cindanwe: a woman
+Kishashi: Ranarr-Jo's beloved woman
+<|end_characters|>
+<|begin_tools|>
+Ranarr-Jo thinks that Cindanwe can control minds
+<|end_tools|>
+<|begin_description|>
+I'm Ranarr-Jo.
+Perhaps you could help us? But why should I trust you? You might be, you know... one of Them.
+Our situation is desperate, she controls our minds... but wait, I've said too much.
+Talk to my Kishashi. If she will trust you, I will trust you.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+get Maelona's family heirloom back from an all-female gang of thieves that prey on the married men of Anvil
+<|end_objective|>
+<|begin_tasks|>
+find leads about the all-female gang
+<|end_tasks|>
+<|begin_task_locations|>
+Flowing Bowl: a seedy tavern in Anvil, located outside the city walls near the waterfront
+<|end_task_locations|>
+<|begin_quest_giver|>
+Maelona: an angry wife, located at Anvil
+<|end_quest_giver|>
+<|begin_rewards|>
+100 gold
+<|end_rewards|>
+<|begin_characters|>
+Gogan: Maelona's husband, located at Anvil
+<|end_characters|>
+<|begin_items|>
+Maelona's family heirloom: a small ring
+<|end_items|>
+<|begin_locations|>
+Anvil: a city
+<|end_locations|>
+<|begin_tools|>
+Gogan was robbed by the all-female gang: Maelona's family heirloom was among the things that the gang took from him
+the city guard have not done much about the all-female gang: the men they rob are too embarrassed to report the gang
+<|end_tools|>
+<|begin_description|>
+I'm Maelona. How would you like to get my husband, Gogan, out of hot water?
+Believe me, he'll need all the help he can get to worm his way out of this one. To think he'd fall for the gang's scheme... agh! I could kill him! I'm sorry... I'm rambling and got you confused. Let me explain.
+The women in the gang use their wiles to lure men out to some remote location and rob them blind. It's been going on for some time now. The city guard hasn't done very much about it, because frankly, the men who are robbed are so embarrassed, they don't want to report it. Take for example that good-for-nothing husband of mine, Gogan. He cared more about their charms than my own.
+When Gogan was, uh... with the women, they took something quite valuable from him. No... it's not what you're thinking. He was carrying a precious family heirloom with him when he was lured out to their lair. It was a small ring given to him on our wedding day. The ring belonged to my mother, and has been in the family for generations. I'm willing to give you all the money I have to get it back. 100 gold. Can you help us?
+All I can tell you is that the best place to start is at The Flowing Bowl. It's a tavern located outside the city walls near the waterfront. The Flowing Bowl attracts the worst Anvil has to offer. Always be on your guard.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+find out where Springheel Jak is buried, and retrieve his boots for the Gray Fox
+<|end_objective|>
+<|begin_tasks|>
+search for clues in the Earl of Imbel's house
+<|end_tasks|>
+<|begin_task_locations|>
+Imperial City: a large city
+<|end_task_locations|>
+<|begin_quest_giver|>
+Gray Fox: the player's guildleader in the Thieves Guild
+<|end_quest_giver|>
+<|begin_rewards|>
+this quest pays well
+<|end_rewards|>
+<|begin_characters|>
+Springheel Jak: a famous long-dead thief
+Earl of Imbel, Jakben: a man , and the last known descendant of Springheel Jak, located at Imperial City
+<|end_characters|>
+<|begin_items|>
+Savilla's Stone: a stone that reveals secrets to its fielder
+<|end_items|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves
+<|end_groups|>
+<|begin_tools|>
+the Gray Fox has used Savilla's Stone, again, to find out that he needs another special item, the boots of Springheel Jak, to move forward with his plans
+the Earl of Imbel is the last known descendant of Springheel Jak
+<|end_tools|>
+<|begin_description|>
+Further use of Savilla's Stone has revealed that I need another special item to move forward with my plans. I need the boots of Springheel Jak. He is a famous thief that died some 300 years ago. Legend has it that he was buried with his boots on.
+Find out where Springheel Jak is buried and bring me back those boots. Will you do this for me? It pays well.
+The Earl of Imbel is the only descendant of Springheel Jak's line that I have been able to locate. His name is Jakben, and he lives somewhere in the Imperial City. There might be a clue in the Earl's house.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+infiltrate the Blackwood Company, and find the secret of their success
+<|end_objective|>
+<|begin_tasks|>
+join the Blackwood Company
+<|end_tasks|>
+<|begin_task_locations|>
+Leyawiin: a city
+<|end_task_locations|>
+<|begin_quest_giver|>
+Modryn Oreyn: the player's superior in the Fighters Guild
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Argonian: a member of the Blackwood Company who was interrogated by Modryn Oreyn
+<|end_characters|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild
+Blackwood Company: a shady mercenary organization
+<|end_groups|>
+<|begin_tools|>
+the information Modryn Oreyn got from the Argonian was valuable
+the player will be on their own: they should steer clear of their fellow Fighters Guild members
+<|end_tools|>
+<|begin_description|>
+While the information we got from the Argonian was valuable, we need more. I want you to infiltrate them. See how they work from the inside.
+I want you to get to Leyawiin and join the Blackwood Company. Find the secret of their success. You'll be on your own. Steer clear of me and all of your Fighters Guild brothers. It'll be rough going, but you can do it.
+Good luck.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+wipe out a band of necromancers
+<|end_objective|>
+<|begin_tasks|>
+find the necromancers
+<|end_tasks|>
+<|begin_task_locations|>
+Howling Cave: a den of necromancers
+<|end_task_locations|>
+<|begin_quest_giver|>
+Meridia: the lady of light, one of the Daedric Princes
+<|end_quest_giver|>
+<|begin_rewards|>
+Ring of Khajiiti: a ring
+<|end_rewards|>
+<|begin_groups|>
+Daedric Princes: immortal, fickle, infamous divine beings
+<|end_groups|>
+<|begin_tools|>
+the player has summoned Meridia by the detritus of the profane
+Meridia hates the undead and necromancers
+<|end_tools|>
+<|begin_description|>
+By the detritus of the profane, I am brought forth. And by your offering, you have made the profane your interest, mortal.
+The undead are foul, unnatural things. Some of my rivals take pleasure in these abominations. Not Meridia. I wish these creatures destroyed. Hidden behind a door, deep in Howling Cave, are necromancers. They rob graves for the materials to raise their undead armies.
+Find these necromancers. Destroy them and their abominations. Do this, and earn the gratitude of Meridia. You shall have the Ring of Khajiiti and go with my blessing.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+find Dar-Ma
+<|end_objective|>
+<|begin_tasks|>
+find clues about Dar-Ma's whereabouts from Etira Moslin
+<|end_tasks|>
+<|begin_task_locations|>
+Hackdirt: an isolated village, south of Chorrol
+<|end_task_locations|>
+<|begin_quest_giver|>
+Seed-Neeus: a worried mother, and a trader, located at Chorrol
+<|end_quest_giver|>
+<|begin_rewards|>
+Seed-Neeus' friendship and gratitude to the end of her days
+<|end_rewards|>
+<|begin_characters|>
+Dar-Ma: Seed-Neeus' daughter
+Etira Moslin: a female trader, located at Hackdirt
+Blossom: Dar-Ma's beloved female horse, whom Dar-Ma would never abandon
+<|end_characters|>
+<|begin_locations|>
+Chorrol: a city
+<|end_locations|>
+<|begin_tools|>
+Dar-Ma was supposed to make a delivery to Etira Moslin, because Seed-Neeus was not feeling well
+Dar-Ma went with Blossom
+<|end_tools|>
+<|begin_description|>
+I'm Seed-Neeus. I don't mean to impose, but I'm hoping you can help me. My daughter, Dar-Ma is missing and I don't know what to do.
+Dar-Ma never came back from Hackdirt. I'm dreadfully worried something may have happened to her. Can you help?
+Dar-Ma was supposed to make a delivery to Etira Moslin in Hackdirt, so I would start there. Hackdirt is a rather isolated village, south of Chorrol. We do some business with the trader there. Small volume, but she pays well. Normally I make the deliveries, but I wasn't feeling well so Dar-Ma insisted on going this time. In case it may be useful, she was with Blossom -- her horse, I mean. Dar-Ma loves that animal, and would never willingly abandon her.
+If you find my daughter, you have my friendship and gratitude to the end of my days!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring the fangs of the 6 West Weald Bears as proof to Thorley Aethelred
+<|end_objective|>
+<|begin_tasks|>
+kill 6 West Weald Bears to protect Thorley Aethelred's flock of sheep
+<|end_tasks|>
+<|begin_task_locations|>
+Shardrock: Thorley Aethelred's farm
+<|end_task_locations|>
+<|begin_quest_giver|>
+Thorley Aethelred: a farmer, located at Shardrock
+<|end_quest_giver|>
+<|begin_rewards|>
+Thorley Aethelred will reward the player well
+<|end_rewards|>
+<|begin_enemies|>
+6 West Weald Bears: bears
+<|end_enemies|>
+<|begin_tools|>
+Thorley Aethelred built a fence around his sheep: it did not help with his bear problem
+<|end_tools|>
+<|begin_description|>
+It seems I'm having a bear problem and I just don't know what to do.
+I've had attacks on my small flock of sheep lately. I was hoping that building a fence would solve the problem, but it hasn't helped at all. Then, one day when I was just about to step outside, I saw the culprits. A group of West Weald Bears was dragging away a sheep carcass. There's no way I can fight those ferocious beasts off on my own.
+If you could thin the population a bit, they would probably leave the area. Kill six of the things, bring me their fangs as proof, and I'll reward you well.
+Please, you're my only hope.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring a bottle of each of the best wines from Skingrad to Sinderion
+<|end_objective|>
+<|begin_tasks|>
+find a bottle of Tamika's, and Surilie Brothers vintages of year 399
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Sinderion: a wine enthusiast, and a master alchemist
+<|end_quest_giver|>
+<|begin_rewards|>
+alchemy training from Sinderion
+<|end_rewards|>
+<|begin_items|>
+399: a great vintage
+<|end_items|>
+<|begin_locations|>
+Tamika's: a vineyard in Skingrad
+Surilie Brothers: a vineyard in Skingrad
+Skingrad: a city
+<|end_locations|>
+<|begin_tools|>
+the player asked Sinderion to train them
+<|end_tools|>
+<|begin_description|>
+Training? Oh, I'm afraid that's not my area of expertise. I'm very focused on wines right now, you see.
+Wonderful thing, wine. It's all about the balance. The flavor, the bouquet, the consistency... just wonderful. I'm sorry, what? Training... right. I'll make you a deal: you fetch me a bottle of each of the best wines from Skingrad, and I'll think about it.
+Both vineyards, Tamika's and Surilie Brothers. Vintage 399. Oh, what a good year that was...
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+recover a painting, and bring the culprit to justice
+<|end_objective|>
+<|begin_tasks|>
+gather clues about the identity of the culprit
+<|end_tasks|>
+<|begin_task_locations|>
+Castle Chorrol: a castle in Chorrol
+<|end_task_locations|>
+<|begin_quest_giver|>
+Countess Arriana Valga: the noblewoman who leads Chorrol, located at Castle Chorrol
+<|end_quest_giver|>
+<|begin_rewards|>
+a just reward
+<|end_rewards|>
+<|begin_characters|>
+Count Valga: Countess Arriana Valga's lost husband
+<|end_characters|>
+<|begin_items|>
+a painting: a stolen painting depicting Count Valga
+<|end_items|>
+<|begin_locations|>
+Chorrol: a city
+<|end_locations|>
+<|begin_tools|>
+someone stole a painting from Countess Arriana Valga's bedchamber: do not accuse the wrong person
+Countess Arriana Valga gives the player some keys that allow the player access to many of the restricted areas in Castle Chorrol
+<|end_tools|>
+<|begin_description|>
+I am Countess Arriana Valga of Chorrol. I wish I had time to chat, but I'm afraid I am in the middle of an investigation.
+You seem the trusting type. Perhaps you can assist me? It seems someone has taken away an heirloom that is quite dear to me. I want you to help me recover a stolen painting. The painting was of my lost love, the Count Valga, and it has been stolen from my bedchamber. If you find the painting, and bring the culprit to justice, you shall be justly rewarded.
+I suggest you begin to gather clues. And I warn you: do not accuse the wrong person, or I shall be quite cross with you. Here are some keys. They should allow you access to many of the restricted areas in Castle Chorrol.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+find a way to get rid of Earana
+<|end_objective|>
+<|begin_tasks|>
+determine what Earana is after
+<|end_tasks|>
+<|begin_task_locations|>
+Chorrol: a city
+<|end_task_locations|>
+<|begin_quest_giver|>
+Teekeeus: one of the leader of the Mages Guild, located at Chorrol
+<|end_quest_giver|>
+<|begin_rewards|>
+Teekeeus' recommendation
+<|end_rewards|>
+<|begin_characters|>
+Earana: a female mage who has been kicked out of the Mages Guild, located at Chorrol
+<|end_characters|>
+<|begin_groups|>
+Mages Guild: a guild of mages
+<|end_groups|>
+<|begin_tools|>
+the player asked a recommendation from Teekeeus
+Earana and Teekeeus have an unpleasant history: Earana does not care for Mages Guild regulations, and believes Teekeus is mis-using his powers
+<|end_tools|>
+<|begin_description|>
+I'm afraid I can't just write one out of hand. That would be against protocols, you see. If perhaps you can clear up a small matter involving Earana, you can prove your loyalty to the guild and earn my recommendation.
+Earana and I have an unpleasant history. She does not care for Guild regulations, and errantly believes I am mis-using my powers. I have seen that she is in town. Though she has not approached me, I know she wants something.
+I would like you to find out what it is. Determine what Earana's after, and how we may be rid of her. I do not want her here, spreading her lies.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+return the Chalice of Reversal to Thadon
+<|end_objective|>
+<|begin_tasks|>
+find the Chalice of Reversal
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Thadon: Duke of Mania, a Felldew addict
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_items|>
+Chalice of Reversal: a chalice that makes the world a much brighter and happier place after eating Felldew
+Felldew: an addictive drug
+<|end_items|>
+<|begin_tools|>
+Thadon is inebriated from withdrawal effects of Felldew
+<|end_tools|>
+<|begin_description|>
+Ahh yes, THERE you are! You couldn't imagine how long I, Thadon, the Duke of Mania, have been waiting for you. So little to do, and so much time. Hmm, could you, in fact, imagine just how long I've been waiting? I don't think you could, but I might be wrong.
+It felt like rather a long time, but then long times get longer when you're standing around thinking about them. A curious thing, that. Long roads get longer too, if you're thinking about them, but what about long words? They don't change nearly as much. Long, short -- it all ends up the same. Dust and tears. Usually tears first, then the dust. Dust can't cry, you see. That would be... well, amusing. You know what's NOT amusing? I don't have my Chalice of Reversal. It makes me sad. When I get sad, I don't care to do much of anything. I certainly don't care to help people who show up on my doorstep wanting something. Are we getting the picture here?
+The Chalice of Reversal is one of my favorite toys. Does wonders for creativity. Well, not by itself, but it helps. Is this making sense? Look, you eat the Felldew, then use the chalice, and find the world a much brighter and happier place. Honest. But I don't have it. So I can't eat Felldew, because that would just be bad. I mean, really bad. Find my chalice!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+assassinate Faelian without attraction the attention of Adamus Phillida
+<|end_objective|>
+<|begin_tasks|>
+find Faelian
+<|end_tasks|>
+<|begin_task_locations|>
+Imperial City: a large city with many districts
+<|end_task_locations|>
+<|begin_quest_giver|>
+Ocheeva: the player's superior in the Dark Brotherhood
+<|end_quest_giver|>
+<|begin_rewards|>
+a bonus if the player kills Faelian indoors with no other people around
+<|end_rewards|>
+<|begin_characters|>
+Faelian: a male high Elf, who fancies long walks, living somewhere in the Imperial City, located at Imperial City
+Adamus Phillida: a male Imperial Legion captain, who has dedicated his life to eradicating the Dark Brotherhood, located at Imperial City
+<|end_characters|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins
+<|end_groups|>
+<|begin_tools|>
+finding Faelian will be challenging: the player should speak to their fellow Dark Brotherhood members for advice
+Adamus Phillida does not tolerate Dark Brotherhood operations within the Imperial City
+<|end_tools|>
+<|begin_description|>
+In the Imperial City there lives a High Elf who must be removed from existence. Finding this person may prove... challenging. Are you interested?
+Your target is a High Elf named Faelian. He lives somewhere in the Imperial City, and fancies long walks. Unfortunately, that's all we know. We don't know which district he calls home, which establishments he frequents, or anything about his schedule.
+This contract will require a bit of detective work. I suggest you to speak to your fellow Brothers and Sisters and see if they can offer any advice. Ah yes, there is one more thing. The Imperial City is also home to an Imperial Legion captain named Adamus Phillida. Phillida has dedicated his life to eradicating the Dark Brotherhood. He will not tolerate our operations within the Imperial City.
+When that happens, he tends to make our lives uncomfortable. Let's not give the good captain any reason to go poking around in our affairs, hmm? If possible, do away with Faelian someplace out of the way. Definitely indoors, with no other people around. A secure location, with no witnesses. This will make it look like a simple murder. Phillida will be none the wiser, and you'll receive a nice bonus.
+Now go, and may the Reaper of Souls go with you.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+recover the blood of a Divine for Martin
+<|end_objective|>
+<|begin_tasks|>
+talk to Jauffre about obtaining the blood of Tiber Septim
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Martin: the player's friend
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Jauffre: the male Grandmaster of the Blades
+Tiber Septim: the legendary male Emperor who ascended to divinity
+<|end_characters|>
+<|begin_groups|>
+Blades: the intelligence service working under the Imperial Emperor
+Divines: the gods of the Empire who do not manifest themselves in the mortal world
+Daedra: immortal, fickle, infamous beings who have artifacts in the mortal world
+<|end_groups|>
+<|begin_tools|>
+Martin needs the blood of a Divine for the ritual to open the portal to Camoran's Paradise in addition to the first item, the blood of a Daedra
+<|end_tools|>
+<|begin_description|>
+I've figured out another item needed for the ritual to open the portal to Camoran's Paradise. The second item is the counterpart to the first: the blood of a Divine.
+This was a terrible puzzle to me. Unlike the Daedra, the gods have no artifacts, and do not physically manifest themselves in our world.
+How then to obtain the blood of a god? But Jauffre solved it. The blood of Tiber Septim himself, who became one of the Divines. This is a secret remembered only by the Blades, passed down from one Grandmaster to the next.
+Jauffre should tell it to you himself.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+return the crystal ball to Varulae
+<|end_objective|>
+<|begin_tasks|>
+get Varulae's crystal ball from a chest in the Serpent's Wake's hold
+<|end_tasks|>
+<|begin_task_locations|>
+Serpent's Wake: a haunted ship right beside the player in Anvil
+<|end_task_locations|>
+<|begin_quest_giver|>
+Varulae: a frustrated woman, and the owner of the Serpent's Wake, located at Anvil
+<|end_quest_giver|>
+<|begin_rewards|>
+an enchanted cutlass
+<|end_rewards|>
+<|begin_locations|>
+Anvil: a city
+Summerset Isle: an island
+<|end_locations|>
+<|begin_tools|>
+Varulae sent the crew of Serpent's Wake to the Summerset Isle to retrieve Varulae's crystal ball: someone murdered the crew when they came back to Anvil
+Varulae gives the player a key
+<|end_tools|>
+<|begin_description|>
+This is a travesty. A complete and utter travesty. The crystal ball is just sitting there in the hold, but I'll be damned if I'm going back onboard. And nobody will help me. Nobody! Not with those spirits roaming the decks. I don't suppose you'll help me? No, of course you won't...
+Wait... Did you actually say you'd help me? I've been going out of my mind ever since my crew was murdered! This is my ship, you see. The Serpent's Wake. I hired the crew to sail to Summerset Isle to retrieve a family heirloom, my mother's crystal ball. They made the journey, and arrived back all right, but then... Someone murdered them! All of them! Now their spirits are haunting the ship!
+The crystal ball is in a chest in the ship's hold, but I can't get to it. I made it as far as the captain's cabin, but the spirits nearly killed me! Get the crystal ball and return it to me here, and I'll make it worth your trouble. Here, you'll need this key. Thank you so much!
+There will be a reward waiting for you! It's the captain's enchanted cutlass. I managed to grab it when I was in his cabin, before his spirit chased me out!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring an unicorn horn to Hircine
+<|end_objective|>
+<|begin_tasks|>
+hunt the unicorn
+<|end_tasks|>
+<|begin_task_locations|>
+Harcane Grove: a forest grove
+<|end_task_locations|>
+<|begin_quest_giver|>
+Hircine: the lord of the hunt, one of the Daedric Princes
+<|end_quest_giver|>
+<|begin_rewards|>
+Saviour's Hide: Hircine's token
+<|end_rewards|>
+<|begin_groups|>
+Daedric Princes: immortal, fickle, infamous divine beings
+<|end_groups|>
+<|begin_tools|>
+the player summoned Hircine
+<|end_tools|>
+<|begin_description|>
+Summoned by prey. The hare crouches before the fox's muzzle. Perhaps I, Hircine, shall task you, mortal. Set you to hunt for my amusement.
+In Harcane Grove is a quarry worthy of the chase. First named, last tamed, the unicorn runs wild there. Bring me this creature's horn, mortal. If you dare. Do taste its flesh and drink its blood. Never waste the spoils of a kill.
+Please me, hunter, and you shall have my token, Saviour's Hide, and wear it well. Hereafter, take your prey, and whisper my name.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill Mankar Camoran to unmake his Paradise, and retrieve the Amulet of Kings
+<|end_objective|>
+<|begin_tasks|>
+travel through Martin's portal to Mankar Camoran's Paradise
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Martin: the player's friend
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Mankar Camoran: a dangerous man, and the player's enemy, located at Mankar Camoran's Paradise
+<|end_characters|>
+<|begin_items|>
+Mysterium Xarxes: a ritual
+Amulet of Kings: a powerful artifact
+<|end_items|>
+<|begin_tools|>
+Martin has everything in place for the Mysterium Xarxes: Martin will open the portal whenever the player is ready
+the portal Martin creates through the Mysterium Xarxes will close behind the player: the player will have to find another way back
+Mankar Camoran acts as the "anchor" for Paradise, just as a sigil stone anchors an Oblivion Gate in place
+<|end_tools|>
+<|begin_description|>
+I have everything in place for the ritual. I'll open the portal whenever you're ready. I don't know what you'll find in Camoran's Paradise. I do know the portal I create through the Mysterium Xarxes ritual will close behind you. You'll have to find another way back.
+I believe that Mankar Camoran acts as the "anchor" for Paradise, just as a sigil stone anchors an Oblivion Gate in place. Kill Mankar Camoran, and you will unmake his Paradise.
+Farewell, my friend. Our fate is in your hands. Bring back the Amulet of Kings. Brace yourself.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+reclaim the Odiil Farm from the creatures of the Great Forest with Rallus and Antus
+<|end_objective|>
+<|begin_tasks|>
+meet up with Rallus and Antus
+<|end_tasks|>
+<|begin_task_locations|>
+Weynon Priory: a monastery
+<|end_task_locations|>
+<|begin_quest_giver|>
+Valus Odiil: an old warrior turned farmer, and a worried father, located at Chorrol
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Rallus, Antus: Valus Odiil's two sons, located at Weynon Priory
+<|end_characters|>
+<|begin_locations|>
+Odiil Farm: Valus Odiil, Rallus and Antus' farm, not far from Chorrol
+Chorrol: a town
+<|end_locations|>
+<|begin_tools|>
+Rallus may know more about the creatures that attacked the Odiil Farm
+<|end_tools|>
+<|begin_description|>
+My sons! Have you seen my sons Rallus and Antus? They're going to fight off the creatures at our farm, but I fear for their safety.
+For the last few days, we've suffered attacks from these creatures at our farm not far from Chorrol. They're coming from someplace in the Great Forest. I don't know where, but Rallus may know more by now. My boys will take up the fight even if the guards won't. Doesn't matter if it's outside the town walls - it still affects us all. They expect me to go with them, but... I fear in my old age, I'm not the warrior I once was. Would you... would you go in my place?
+I'm supposed to meet them at Weynon Priory. You'd best get whatever supplies you need now, so you can get there in time.
+I... I need a drink to calm my nerves. Please, excuse me.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+return to the Blackwood Company hall to destroy the Hist Tree and anyone that stands in your way
+<|end_objective|>
+<|begin_tasks|>
+find Ri'Zakar's key that opens the door to the Hist tree
+<|end_tasks|>
+<|begin_task_locations|>
+Blackwood Company hall: the headquarters of the Blackwood Company
+<|end_task_locations|>
+<|begin_quest_giver|>
+Modryn Oreyn: the player's superior in the Fighters Guild
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Ri'Zakar: the leader of the Blackwood Company, and a battle-hardened mercenary who's spent time all over Tamriel, located at Blackwood Company hall
+<|end_characters|>
+<|begin_items|>
+Hist Tree: an abominable tree, and the source of the Fighters Guild's problems
+<|end_items|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild
+Blackwood Company: a shady mercenary organization
+<|end_groups|>
+<|begin_locations|>
+Tamriel: a continent
+<|end_locations|>
+<|begin_tools|>
+Modryn Oreyn has one final duty for the player to perform
+everyone is in danger, as long as the Blackwood Company has access to the sap from the Hist Tree
+Ri'Zakar will have the Hist Tree well guarded
+<|end_tools|>
+<|begin_description|>
+It is time for decisive action. I have one more duty for you to perform. It is clear to me what must be done. The Hist Tree must be destroyed. This tree is the source of our problems. It is an abomination of nature, and it must be destroyed. As long as the Blackwood Company has access to the sap, we are all in danger. I fear they no longer know what they do.
+You must find a way to destroy the Hist, though I can imagine Ri'Zakar will have it well guarded. He's a warrior, a battle-hardened mercenary who's spent time all over Tamriel. He'll keep his prize tree locked away. You'll need to find his key.
+Expect an unfriendly welcome at their hall. Finish it.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help to bring Emfrid and Bittneld the Curse-Bringer together
+<|end_objective|>
+<|begin_tasks|>
+talk to Emfrid about Bittneld the Curse-Bringer, and talk to Bittneld the Curse-Bringer about Emfrid
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Casta Scribonia: a female writer, and the author of 'Woman Gone Wild'
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Emfrid: the female proprietor of the Grey Mare
+Bittneld the Curse-Bringer: a male guard captain
+<|end_characters|>
+<|begin_items|>
+'Woman Gone Wild': a book
+<|end_items|>
+<|begin_locations|>
+Grey Mare: a tavern
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Hello. I'm Casta Scribonia. The writer. Author of 'Woman Gone Wild'.
+Who is the fairest of them all? Other than myself? Emfrid, the proprietor of the Grey Mare is lovely. She and Bittneld the Curse-Bringer, the guard captain would be a nice couple....
+Perhaps you could bring them together somehow... try talking to them both about each other?
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+advance in the Mages Guild
+<|end_objective|>
+<|begin_tasks|>
+receive a recommendation
+<|end_tasks|>
+<|begin_task_locations|>
+each local guild hall in Cyrodiil
+<|end_task_locations|>
+<|begin_quest_giver|>
+Carahil: one of the guild hall leaders of the Mages Guild
+<|end_quest_giver|>
+<|begin_rewards|>
+access to the Arcane University
+<|end_rewards|>
+<|begin_locations|>
+Cyrodiil: a realm
+Arcane University: a university for mages
+<|end_locations|>
+<|begin_tools|>
+the player wants to join the Mages Guild: Carahil makes the player an Associate of the Mages Guild
+all recommendations must be sent to the Council of Mages before the player can enter the Arcane University
+<|end_tools|>
+<|begin_description|>
+Hello there. Is there something with which I can assist you? Perhaps you're curious about joining the Mages Guild?
+All right, then. You're now an Associate of the Mages Guild. Congratulations! You'll need to receive a recommendation from each local guild hall in Cyrodiil to advance in the guild, and be given any sort of responsibility. They can be done in any order, but they all must be sent in to the Council before you can enter the Arcane University.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+recover the complete set of 10 ancient statues for Umbacano
+<|end_objective|>
+<|begin_tasks|>
+find the 10 ancient statues
+<|end_tasks|>
+<|begin_task_locations|>
+Ayleid Ruins: ancient ruins
+<|end_task_locations|>
+<|begin_quest_giver|>
+Umbacano: a collector of Ayleid artifacts, located at Umbacano's house
+<|end_quest_giver|>
+<|begin_rewards|>
+a double pay for each ancient statue
+<|end_rewards|>
+<|begin_items|>
+10 ancient statues
+<|end_items|>
+<|begin_groups|>
+Ayleid: an extinct, ancient race of people
+<|end_groups|>
+<|begin_tools|>
+Umbacano has invited the player here to his house: the ancient Ayleid statue that the player recently sold cheap to an anonymous merchant is placed on a table
+<|end_tools|>
+<|begin_description|>
+Thank you for coming.
+You may recognize that statue over there on the table. The very one that you recently sold -- for less than its true worth.
+As you may know, I am somewhat of an enthusiast for Ayleid antiquities. In my own modest way, I have amassed a rather considerable collection.
+I have recently become interested in obtaining the complete set of these ancient statues. I believe that ten still exist within the various ancient Ayleid Ruins. No mere shopkeeper knows their true worth.
+If you bring them to me when you find them, I will pay you double for each one.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+collect more Nirnroot
+<|end_objective|>
+<|begin_tasks|>
+collect 10 samples of Nirnroot for Sinderion
+<|end_tasks|>
+<|begin_task_locations|>
+Shadeleaf Copse: a part of the Great Forest northeast of here
+<|end_task_locations|>
+<|begin_quest_giver|>
+Sinderion: an alchemist
+<|end_quest_giver|>
+<|begin_rewards|>
+a free bottle of the Elixir of Exploration
+a discount for buying more Elixir of Exploration from Sinderion
+<|end_rewards|>
+<|begin_items|>
+10 Nirnroot: a rare root plant
+Elixir of Exploration: a multi-purpose potion for dungeon explorers
+Imperial Alchemy Symposium: a convention for alchemists
+<|end_items|>
+<|begin_tools|>
+the player has brought Sinderion a sample of Nirnroot for examination
+the Elixir of Exploration requires Nirnroot
+the formula for the Elixir of Exploration describes many magnitudes of the brew: Sinderion wrote a short missive about it for the Imperial Alchemy Symposium
+<|end_tools|>
+<|begin_description|>
+So, you've brought something for me to examine?
+Yes, this is a genuine Nirnroot sample. Very nice quality in fact. Hmmm... that gives me an idea. Since you already know what they look like, do you feel up to a bit of a collecting expedition?
+A few years ago, an adventurer not unlike yourself sold me a musty old tome containing alchemical formulas. Most of them were worthless. But one of the moldy pages contained the recipe for a potion known as an Elixir of Exploration, a sort of "ultimate dungeon delver's" brew. The formula looked sound, except it required an extremely rare ingredient. Yes, you guessed it, the Nirnroot. I put the book aside, because frankly, I had so many other delicate experiments going on that I just didn't have the time to go plant hunting. Now that you're here, that changes things.
+The Elixir of Exploration is a multi-purpose potion that was obviously created with the dungeon explorer in mind. The formula describes many magnitudes of the brew. If you're interested, I wrote a short missive about it for the Imperial Alchemy Symposium. You bring me 10 samples of Nirnroot, and I'll make the Elixir of Exploration available to you at a huge discount as well as give you one for free.
+The best place for you to start would be Shadeleaf Copse, which is a part of the Great Forest northeast of here. Good luck, and hurry back with more of the Nirnroot!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Malene deal with Raelynn the Gravefinder
+<|end_objective|>
+<|begin_tasks|>
+kill Raelynn the Gravefinder
+<|end_tasks|>
+<|begin_task_locations|>
+Moss Rock Cavern: a cave just north of Malene's inn
+<|end_task_locations|>
+<|begin_quest_giver|>
+Malene: an innkeeper, located at Malene's inn
+<|end_quest_giver|>
+<|begin_rewards|>
+a handsome bounty
+<|end_rewards|>
+<|begin_characters|>
+Raelynn the Gravefinder: a female necromancer
+<|end_characters|>
+<|begin_tools|>
+Malene has seen undead of all types walking in the dark woods near the entrance to Moss Rock Cavern
+<|end_tools|>
+<|begin_description|>
+Thank goodness someone that can help is here! I don't know how to make this request any simpler, but to put it bluntly, Raelynn the Gravefinder must die.
+A few months ago, that witch of a Necromancer decided to inhabit Moss Rock Cavern just north of my inn. I don't know what she does in there; frankly, I don't want to know. However, I do know that after she arrived, the woods at night became unsafe.
+I've seen undead of all types walking in the dark woods near the cave entrance. Now, this area's getting a bad reputation and my business has waned. Every day, it seems the number of undead increase.
+If someone can get into the cave and kill Raelynn, maybe we can stem the tide. Her death pays a handsome bounty. I hope you'll take advantage of the opportunity. Raelynn will finally get what's coming to her.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+retrieve a decorative carving from the High Fane for Umbacano
+<|end_objective|>
+<|begin_tasks|>
+locate the ruins of the High Fane
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Umbacano: a collector of Ayleid artifacts
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_groups|>
+Ayleids: an ancient, extinct race of people
+<|end_groups|>
+<|begin_locations|>
+High Fane: an ancient Ayleid settlement known by a different name today
+<|end_locations|>
+<|begin_tools|>
+the player has obtained artifacts for Umbacano before
+Umbacano gives the player a sketch depicting the High Fane: the High Fane dates from the Late Ayleid Period, following the fall of White Gold Tower
+the drawing on the bottom of the page Umbacano gave the player depicts a carved panel from the central chamber of the High Fane
+Umbacano gives the player the key to the inner chamber of the High Fane
+<|end_tools|>
+<|begin_description|>
+You have proven yourself more than a simple grave robber. I believe you can handle a more complicated assignment. Are you interested?
+Here, take a look at this sketch. The ancient texts refer to this site only as the "High Fane." Do you know it? Your first task is to locate the ruins of the High Fane. I believe it must now be known by a different name.
+The High Fane dates from the Late Ayleid Period, following the fall of White Gold Tower, a very troubled time for that ancient people. A time I find most fascinating. The drawing on the bottom of the page I gave you depicts a carved panel from the central chamber of the High Fane. I believe this carving will shed new light on Ayleid history, if I am able to examine it closely. I would like you to retrieve it for me.
+You will need this as well. It is the key to the inner chamber of the High Fane. I part with it reluctantly, so guard it well. It is what began my search for the High Fane, many years ago.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+crash a dinner party at Castle Leyawiin and play a prank on the guests
+<|end_objective|>
+<|begin_tasks|>
+find a way in to the dinner party
+<|end_tasks|>
+<|begin_task_locations|>
+Castle Leyawiin: a castle in Leyawiin
+<|end_task_locations|>
+<|begin_quest_giver|>
+Sanguine: the lord of revelry, one of the Daedric Princes
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Countess: the somber noblewoman who rules over Castle Leyawiin, located at Castle Leyawiin
+<|end_characters|>
+<|begin_groups|>
+Daedric Princes: immortal, fickle, infamous divine beings
+<|end_groups|>
+<|begin_tools|>
+the player has summoned Sanguine
+the Countess is hosting a dinner party
+Sanguine gives the player a spell: the player should use it on the Countess and her guests to liven up the dinner party
+the dinner party is invitation only
+<|end_tools|>
+<|begin_description|>
+Ah... another mortal come to beg Sanguine to add a bit of spice to an otherwise drab existence. I would have you perform a service for me.
+The Castle Leyawiin is a dull, dreary place. The mistress is an especially somber soul, and tomorrow she will hold another excruciating dinner party. I want you to liven it up. Use this spell on the Countess and her guests. I think it will make the party much more interesting. You should probably try to be inconspicuous. Or they might kill you. Oh, and the party is by invitation only. You'll have to find a way in.
+Have fun!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+take care of the rat problem, and return to Azzan
+<|end_objective|>
+<|begin_tasks|>
+talk to Arvena Thelas about the rat problem in her house
+<|end_tasks|>
+<|begin_task_locations|>
+Anvil: a city
+<|end_task_locations|>
+<|begin_quest_giver|>
+Azzan: the player's superior in the Fighters Guild, located at Anvil
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Arvena Thelas: a woman, located at Anvil
+<|end_characters|>
+<|begin_groups|>
+Fighters Guild: a mercenary guild
+<|end_groups|>
+<|begin_tools|>
+the player has requested their first contract from Azzan
+<|end_tools|>
+<|begin_description|>
+A contract for you? I, Azzan, think I've got something that suits your experience. Arvena Thelas has some problem with rats in her house.
+As I said, rats. I'm sure she can explain it to you better than I. She lives here in Anvil. Go and talk to her.
+Go take care of the rats. Then talk to me. Good luck!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+report to Marius Caro the reason Mazoga the Orc is in Leyawiin
+<|end_objective|>
+<|begin_tasks|>
+find out why Mazoga the Orc is in Leyawiin
+<|end_tasks|>
+<|begin_task_locations|>
+Leyawiin: a city
+<|end_task_locations|>
+<|begin_quest_giver|>
+Marius Caro: Count of Leyawiin, located at Leyawiin
+<|end_quest_giver|>
+<|begin_rewards|>
+a reward
+<|end_rewards|>
+<|begin_characters|>
+Mazoga: an Orc woman who claims to be a knight, located at Leyawiin
+<|end_characters|>
+<|begin_tools|>
+the player does not know Marius Caro
+<|end_tools|>
+<|begin_description|>
+Marius Caro, by grace of the Gods, Count of Leyawiin. You are a stranger to me, but well-met. Perhaps you would like to do a service for Leyawiin?
+I need your help. An Orc named Mazoga here claims to be a knight, but will not reveal her business. Find out why she is here, and report to me, and you will earn a reward suitable for those who serve Leyawiin.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+hire a housekeeper for Rosethorn Hall
+<|end_objective|>
+<|begin_tasks|>
+pay Eyja 150 gold to hire her as your housekeeper
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Eyja: a woman
+<|end_quest_giver|>
+<|begin_rewards|>
+Eyja as the player's housekeeper
+<|end_rewards|>
+<|begin_items|>
+150 gold
+<|end_items|>
+<|begin_locations|>
+Rosethorn Hall: the player's manor
+<|end_locations|>
+<|begin_tools|>
+the player purchased the Servants Quarters for Rosethorn Hall
+<|end_tools|>
+<|begin_description|>
+Hello, I heard you purchased the Servants Quarters for Rosethorn Hall, and I was wondering if you had anyone in mind to fill that position?
+For 150 gold and a roof over my head, I'm yours. Well, to help around the house I mean.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill Roland Jenseric
+<|end_objective|>
+<|begin_tasks|>
+search for clues about Roland Jenseric's whereabouts
+<|end_tasks|>
+<|begin_task_locations|>
+Roland Jenseric's house in the Temple District of the Imperial City
+<|end_task_locations|>
+<|begin_quest_giver|>
+Seridur: an elderly vampire hunter, and the leader of the Order of the Virtuous Blood, located at the sanctuary of the Order of the Virtuous Blood in the Imperial City
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Roland Jenseric: a male vampire
+<|end_characters|>
+<|begin_groups|>
+Order of the Virtuous Blood: an order of vampire hunters, who defend the Imperial City from vampires
+<|end_groups|>
+<|begin_locations|>
+Imperial City: a large city
+<|end_locations|>
+<|begin_tools|>
+the player is a famous hero: the player has not met Seridur before
+Seridur and his fellow vampire hunters are only 3 old men lacking the strength to defeat vampires in battle
+Roland killed his girlfriend in the back garden of his house by sucking her blood out of her neck
+the player should return to the sanctuary of the Order of the Virtuous Blood if they have questions: the Order of the Virtuous Blood meet at night
+<|end_tools|>
+<|begin_description|>
+It's an honor to finally meet you. When I heard you were in town, I just had to send for your help. Your reputation precedes you. Oh, allow me to introduce myself. I am Seridur.
+Welcome. You're now in the sanctuary of the Order of the Virtuous Blood. Few outside our circle have ever set foot in our hallowed hall. We are, for lack of a better word, defenders. We guard this city from an infestation that plagues it. We are vampire hunters. I'm sure you are familiar with those despicable beings. Feeding on the innocent as if they were cattle. Well, this group was formed to combat them. Alas, we are but 3 old men, not able to match the fighting prowess of the vampire. We lack the strength to defeat them in battle.
+Our goal is to root out the vampires that live in our fair city. So far, we've been unsuccessful finding one until now. It's come to the Order's attention that Temple District resident Roland Jenseric is a vampire, and has already claimed one victim. That's where you come in. We want you to slay this vampire and cleanse the city of his filth before he can feed or kill again.
+A few nights ago, I was roaming the city as I often do, looking for any signs of a vampire. As I headed past Roland's house I heard a cry. I rushed into the back garden to find Roland struggling with a woman he'd been courting. I tried to intervene, but he was too strong. He threw his lover to the ground and turned his attention on me. Luckily, I managed to run back into the street and escape his grasp. I hid for a while and then returned to the garden. Roland was gone and the woman was dead. She had two puncture marks on the nape of her neck. That's when I realized he was a vampire. The Order needs you to track him and destroy him.
+I would start by searching his home. He hasn't been there for days, so it should be safe. Return to us here if you have questions. We meet at night.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+prove to Palonirya that you have enough capital to receive her expertise
+<|end_objective|>
+<|begin_tasks|>
+collect 10,000 Septims
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Palonirya: a master merchant
+<|end_quest_giver|>
+<|begin_rewards|>
+mercantile training from Palonirya
+<|end_rewards|>
+<|begin_items|>
+10,000 Septims: a currency
+<|end_items|>
+<|begin_tools|>
+the player asked mercantile training from Palonirya
+<|end_tools|>
+<|begin_description|>
+Training? Well, my dear, good business sense is just something that comes naturally to me. You've got to have the know-how, or else I can't teach you anything at all.
+Do you have what it takes? Do you even know what it takes? Gold, that's what! Septims, and lots of them! Show me that you've got the starting capital, at least ten thousand in liquid assets.
+Afterwards, I'll help you learn how to put it to good use.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+deliver a message about medicines for miners to Quintus
+<|end_objective|>
+<|begin_tasks|>
+find Quintus
+<|end_tasks|>
+<|begin_task_locations|>
+White Phial: an apothecary store in Windhelm
+<|end_task_locations|>
+<|begin_quest_giver|>
+Sondas Drenim: an experienced elven miner, located at a mine whose tunnels are getting deep into the rock
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_locations|>
+Windhelm: a city
+<|end_locations|>
+<|begin_tools|>
+the miners need medicines to combat the ore dust
+<|end_tools|>
+<|begin_description|>
+This mine is only a few years old, but I've been digging up ore for over a century.
+We're getting to the point where the tunnels are getting deep into the rock. People complain of bad coughs and foul air. I've seen this before. We need some medicines to combat the ore dust. I was about to send a message to Windhelm for aid.
+Could you deliver that message on my behalf? Take it to Quintus, in the White Phial.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+prove yourself worthy of joining the Imperial Legion
+<|end_objective|>
+<|begin_tasks|>
+wipe out bandits
+<|end_tasks|>
+<|begin_task_locations|>
+Fort Hraggstad: a bandit fortress to be turned into an Imperial garrison
+<|end_task_locations|>
+<|begin_quest_giver|>
+Legate Rikke: a female leader in the Imperial Legion
+<|end_quest_giver|>
+<|begin_rewards|>
+induction into the Imperial Legion
+<|end_rewards|>
+<|begin_locations|>
+Skyrim: a province of the Empire
+<|end_locations|>
+<|begin_tools|>
+the ancients built many of the fortresses that dot the landscape of Skyrim: most have fallen into disrepair and overrun with bandits
+<|end_tools|>
+<|begin_description|>
+I've got a good feeling about you. And I don't often get good feelings about anything. A warrior knows to trust her gut... I'm not going to go through the normal process with you. I've got a little test lined up. Pass that, and we'll talk about you joining the Legion.
+The ancients built many of the fortresses that dot the landscape of Skyrim. Sadly, most have fallen into disrepair. And nearly all have been overrun with bandits or other vagabonds. Fort Hraggstad is one of the few that remains mostly intact. We're going to install a garrison there, but first, you're going to clean out the bandits that have moved in.
+Then, it's time for you to officially join the Legion.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+prove that you are worthy of joining the Companions
+<|end_objective|>
+<|begin_tasks|>
+go with Vilkas out to the yard, and let him see what you can do
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Kodlak Whitemane: the leader of the Companions
+<|end_quest_giver|>
+<|begin_rewards|>
+membership in the Companions
+<|end_rewards|>
+<|begin_characters|>
+Vilkas: a male member of the Companions, located at next to Kodlak Whitemane
+<|end_characters|>
+<|begin_groups|>
+Companions: a band of honorable warriors
+<|end_groups|>
+<|begin_tools|>
+the player told Kodlak Whitemane that they want to join the Companions
+<|end_tools|>
+<|begin_description|>
+You would like to join the Companions? Would you now? Here, let me have a look at you. Hm. Yes, perhaps. A certain strength of spirit.
+How are you in a battle, child? Don't feel like you need to show off for our sake. Vilkas, here, will be the one testing your mettle.
+Let Vilkas take you out to the yard and see what you can do.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+learn more about restoration magic from the Augur
+<|end_objective|>
+<|begin_tasks|>
+talk with the Augur, who's expecting you
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Colette Marence: a fellow member of the College of Winterhold
+<|end_quest_giver|>
+<|begin_rewards|>
+the player will learn more about restoration
+<|end_rewards|>
+<|begin_characters|>
+Augur: a powerful male mage gifted in restoration
+<|end_characters|>
+<|begin_groups|>
+College of Winterhold: a college for mages
+<|end_groups|>
+<|begin_tools|>
+the player is a devoted student of restoration: most mages of the College of Winterhold look down on restoration magic
+<|end_tools|>
+<|begin_description|>
+Look at you. Such a devoted student of Restoration. It's comforting to see that not everyone has dismissed it as entirely as most members of the College. Truly comforting.
+It looks like you're ready to speak with the Augur. He was a brilliant mage. Truly inspired. Mastered spells others could barely comprehend. He was especially gifted when it came to Restoration.
+The Augur's... Well, he's very particular about who shares the knowledge. So you'll need his approval first. Go on, go talk to him. I'm sure he's been paying attention, and will be expecting you.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+find Sam as you recover from a bad hangover
+<|end_objective|>
+<|begin_tasks|>
+clean up the mess that you made, and apologize to Senna
+<|end_tasks|>
+<|begin_task_locations|>
+Temple of Dibella: a temple to Dibella
+<|end_task_locations|>
+<|begin_quest_giver|>
+Senna: an angry priestess of Dibella, located at Temple of Dibella
+<|end_quest_giver|>
+<|begin_rewards|>
+Senna will aid the player
+<|end_rewards|>
+<|begin_characters|>
+Sam: the player's friend, a man
+Dibella: the goddess of love and compassion
+<|end_characters|>
+<|begin_tools|>
+Senna wakes the player up: the player does not remember anything about coming to the Temple of Dibella, blathering about marriage or a goat, and throwing trash all over the Temple of Dibella
+<|end_tools|>
+<|begin_description|>
+Wake up! That's right, it's time to wake up, you drunken blasphemer!
+Of course! You don't remember getting here. I'm guessing you also don't remember coming in here and blathering incoherently about marriage or a goat. Which means you don't remember losing your temper and throwing trash all over the temple.
+You want to know where your friend Sam has gone? Dibella teaches love and compassion, but that doesn't mean we're just going to tell you what you want to know and let you walk away from this. Pick up your mess, then apologize, and if we think you're sincere we'll consider lending you aid.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+obtain five samples of Netch jelly for Milore Ienth
+<|end_objective|>
+<|begin_tasks|>
+find Netch
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Milore Ienth: an alchemist, located at a walled city
+<|end_quest_giver|>
+<|begin_rewards|>
+something for the effort
+<|end_rewards|>
+<|begin_groups|>
+Netch: large and peaceful creatures
+<|end_groups|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I'm proud to say that I grow or harvest most of my exotic ingredients myself.
+I only wish I had a better source for Netch jelly. Those creatures are difficult to track down since it's so dangerous beyond the the town walls.
+Could you gather some Netch jelly for me? That would be splendid! Five samples should be enough. I'd be more than happy to give you something for the effort.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+rescue Derkeethus
+<|end_objective|>
+<|begin_tasks|>
+find Derkeethus
+<|end_tasks|>
+<|begin_task_locations|>
+Darkwater Pass: a dangerous cave filled with water pools and high falls, south of Darkwater Crossing
+<|end_task_locations|>
+<|begin_quest_giver|>
+Sondas Drenim: a man, located at Darkwater Crossing
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Derkeethus: a man, Sondas Drenim's friend, located at Darkwater Pass
+<|end_characters|>
+<|begin_locations|>
+Darkwater Crossing: a village
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+There's a cave known as the Darkwater Pass south of here. It has its share of water pools and high falls.
+Those falls... dangerous place. A friend of mine, Derkeethus, thought he could find some good fish in the pools. Haven't heard from him in a long while.
+Could you try to find him? He might need someone to rescue him.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+cleanse the Ancestral Tomb
+<|end_objective|>
+<|begin_tasks|>
+kill the ash spawn that defile the Ancestral Tomb
+<|end_tasks|>
+<|begin_task_locations|>
+an Ancestral Tomb beneath the Temple
+<|end_task_locations|>
+<|begin_quest_giver|>
+Elder Othreloth: a dark elf priest, located at Temple
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_locations|>
+Ancestral Tombs: tombs where dark elves inter their dead
+<|end_locations|>
+<|begin_tools|>
+Elder Othreloth gives the player a key that opens the door to the Ancestral Tomb
+<|end_tools|>
+<|begin_description|>
+The Ancestral Tombs are where we inter our dead. They are sacred places, meant to honor their passing. Sadly, we've been unable to use the Ancestral Tomb beneath the Temple as of late, and have resorted to other locations to scatter the remains.
+Those foul vermin... the abominations we call ash spawn have risen from the ashes of our own ancestors. They're befouling the memories of our forefathers by defiling their remains.
+Could you cleanse the tomb for us, wanderer? That would be most kind. Here, this key should open the door to the tomb.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill Orchendor, and return to Peryite
+<|end_objective|>
+<|begin_tasks|>
+find Orchendor
+<|end_tasks|>
+<|begin_task_locations|>
+Bthardamz: a ruin
+<|end_task_locations|>
+<|begin_quest_giver|>
+Peryite: the god of infection and pestilence
+<|end_quest_giver|>
+<|begin_rewards|>
+a powerful token: a dwarven-made escutcheon, capable of shielding the player from both the spell and sword
+<|end_rewards|>
+<|begin_characters|>
+Orchendor: Peryite's male elven monk, located at Bthardamz
+<|end_characters|>
+<|begin_groups|>
+Afflicted: people from Breton villages who were infected with Peryite's plague
+<|end_groups|>
+<|begin_tools|>
+Orchendor was sent to gather Afflicted to Bthardamz: Orchendor betrayed Peryite afterwards
+<|end_tools|>
+<|begin_description|>
+I have watched you for some time, you know. The decisions you've made intrigue me, and I wonder if you are the proper agent for a task of mine.
+I sent a blessing to the world, a wasting plague that infected a scattering of Breton villages. One of my monks, the elf Orchendor, was sent to gather these Afflicted. He shepherded them into Bthardamz for me, but has since lost his way.
+I will not stand for betrayal. I want you to go to Bthardamz and kill Orchendor, in my name. I can grant you a powerful token for this task. An escutcheon of dwarven make, capable of shielding you from both the spell and sword. Return when the elf lies dead and it will be yours.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+retrieve Dravin Llanith's stolen bow
+<|end_objective|>
+<|begin_tasks|>
+find the thieves who stole Dravin Llanith's bow
+<|end_tasks|>
+<|begin_task_locations|>
+Ratway: a sewer in Riften
+<|end_task_locations|>
+<|begin_quest_giver|>
+Dravin Llanith: a farmer, located at Dravin Llanith's farm
+<|end_quest_giver|>
+<|begin_rewards|>
+Dravin Llanith will pay the player what he can
+<|end_rewards|>
+<|begin_locations|>
+Riften: a city
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+A few days ago, some thieves from Riften broke in here and stole it! Can you imagine? Took the only thing of value we had. It was a family heirloom. I can't even put a price on how much that thing means to me.
+I'm sure that they are from Riften. I bumped into them when I was coming back to my farm after buying supplies. I know those lowlifes took it with them back to the Ratway. They left an unmistakable stench behind.
+If you have the guts to head into the Ratway and get my bow back, I'll pay you what I can. It would be nice to have it back... means a lot to me.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Brelyna Maryon by allowing her to practice her spells on you
+<|end_objective|>
+<|begin_tasks|>
+stand where you are
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Brelyna Maryon: a fellow mage student
+<|end_quest_giver|>
+<|begin_rewards|>
+a necklace
+<|end_rewards|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+We're all trying to become better mages, right?
+Well, I need someone I can practice a few spells on. Nothing dangerous, really.
+Would you be willing to assist me? I can't practice that kind of spell on myself. Believe me when I say I wouldn't be asking if it weren't necessary. You just have to stand there...
+You might wish to help out one of your fellow mages. If that is not enough, I have this amulet you could take.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+assassinate Narfi
+<|end_objective|>
+<|begin_tasks|>
+find Narfi
+<|end_tasks|>
+<|begin_task_locations|>
+ruins just outside of Ivarstead
+<|end_task_locations|>
+<|begin_quest_giver|>
+Nazir: a fellow assassin who does not like the player very much
+<|end_quest_giver|>
+<|begin_rewards|>
+payment
+<|end_rewards|>
+<|begin_characters|>
+Narfi: a hapless beggar, located at ruins just outside of Ivarstead
+<|end_characters|>
+<|begin_locations|>
+Ivarstead: a village
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Go assassinate Narfi. He's a hapless beggar living in some ruins just outside the village of Ivarstead. Easy even for you.
+You get to slaughter an emaciated beggar in cold blood. You are truly an opponent to be feared. I'll have your payment waiting for you.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+become Ralis Sedarys' business partner in his search for the Relics of Ahzidal in Kolbjorn Barrow
+<|end_objective|>
+<|begin_tasks|>
+give 1,000 gold to Ralis Sedarys so that he can hire some diggers from Raven Rock to dig up Kolbjorn Barrow
+<|end_tasks|>
+<|begin_task_locations|>
+outside Kolbjorn Barrow
+<|end_task_locations|>
+<|begin_quest_giver|>
+Ralis Sedarys: a treasure hunter from Mournhold, located at outside Kolbjorn Barrow
+<|end_quest_giver|>
+<|begin_rewards|>
+once there is something worth looking at, Ralis Sedarys sends word to the player
+<|end_rewards|>
+<|begin_items|>
+Relics of Ahzidal: rare antiquities
+1,000 gold
+<|end_items|>
+<|begin_locations|>
+Kolbjorn Barrow: an ancient tomb buried in ash in the northern ashlands of Solstheim
+Mournhold: a large city on the mainland
+Solstheim: an island covered in ash
+Raven Rock: a town on Solstheim
+<|end_locations|>
+<|begin_tools|>
+the ash storms fill up Kolbjorn Barrow faster than Ralis Sedarys can dig
+<|end_tools|>
+<|begin_description|>
+The name's Ralis. Ralis Sedarys, out of Mournhold.
+I've got a financier waiting for me back on the mainland. Sent me here in the interests of obtaining some rare antiquities. The 'Relics of Ahzidal.' But this whole thing became a disaster right quick, let me tell you.
+You come out to the northern ashlands, you don't expect things to go easy, you know? But this was something outside my particular expertise. When I first got to Kolbjorn, you couldn't even see it. Buried in the ash, like most other things on this blasted island. Dug out a pile of the stuff taller than me just to find the barrow. Who knows how much to reach the door. Excavating isn't exactly my specialty. Even if it was, the ash storms fill it in faster than you can dig.
+Could you become my business partner? We can sort out the details of our little arrangement later, but for now, I'll manage the dig if you can manage the coin.
+When you have 1,000 gold for me, I'll head back to Raven Rock and round up some diggers. Once we've got something worth looking at, I'll send word to you.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+squeeze Gulum-Ei for information
+<|end_objective|>
+<|begin_tasks|>
+find Gulum-Ei
+<|end_tasks|>
+<|begin_task_locations|>
+East Empire Company: a merchant house in Solitude
+<|end_task_locations|>
+<|begin_quest_giver|>
+Mercer Frey: the player's guildleader in the Thieves Guild
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Gulum-Ei: a male Thieves Guild informant within the East Empire Company, located at East Empire Company
+Brynjolf: a male member of the Thieves Guild
+<|end_characters|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves
+<|end_groups|>
+<|begin_locations|>
+Goldenglow Estate: an estate that used to send protection money to the Thieves Guild
+Solitude: a city
+<|end_locations|>
+<|begin_tools|>
+Gulum-Ei acted as a go-between for the sale of Goldenglow Estate: he can finger the buyer
+the player should talk to Brynjolf before they leave if they have any questions
+<|end_tools|>
+<|begin_description|>
+Ah, there you are. I have a job for you.
+Gulum-Ei is our inside man at the East Empire Company in Solitude. I'm betting he acted as a go-between for the sale of Goldenglow Estate and that he can finger our buyer.
+Get out there, shake him down and see what you come up with. Talk to Brynjolf before you leave if you have any questions.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill a vampire masquerading as a visiting advisor in Brunwulf Free-Winter's court
+<|end_objective|>
+<|begin_tasks|>
+convince Brunwulf Free-Winter that the visiting advisor is a threat to him
+<|end_tasks|>
+<|begin_task_locations|>
+Windhelm: a city
+<|end_task_locations|>
+<|begin_quest_giver|>
+Isran: the player's leader in the Dawnguard
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Brunwulf Free-Winter: a Jarl holding his court in Windhelm
+<|end_characters|>
+<|begin_groups|>
+Dawnguard: an organization of vampire hunters
+<|end_groups|>
+<|begin_tools|>
+Brunwulf Free-Winter's guards are unaware of the threat, and will treat violence against the visiting advisor as a crime
+<|end_tools|>
+<|begin_description|>
+Jarl Brunwulf Free-Winter is in danger. A vampire plays as a visiting "advisor" to the court of Windhelm. Destroy it before it's able to complete its foul business.
+But be warned. The Jarl's guards are unaware of the threat, and will treat violence against this "advisor" as a crime. Convince the Jarl of the threat and he'll let you destroy the creature. If not, then do your best not to get caught.
+Quickly now! The longer you delay, the more danger the Jarl is in.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Golldir save Agna, and stop Vals Veran from defiling Hillgrund's Tomb
+<|end_objective|>
+<|begin_tasks|>
+meet Golldir inside Hillgrund's Tomb, and go after Vals Veran with Golldir
+<|end_tasks|>
+<|begin_task_locations|>
+Hillgrund's Tomb: Golldir's family tomb
+<|end_task_locations|>
+<|begin_quest_giver|>
+Golldir: a man who is afraid of Hillgrund's Tomb
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Agna: Golldir's aunt who raised Golldir, located at Hillgrund's Tomb
+Vals Veran: a dark elf necromancer who has never seen eye to eye with Golldir's family, located at Hillgrund's Tomb
+<|end_characters|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Can you help me? There's a necromancer in the tomb; doing Gods know what with my dead relatives.
+The necromancer's called Vals Veran. My family has never really seen eye to eye with him and he has finally gone off the deep end. He's gone in to defile our family tomb by using our ancestors for his filthy dark elf necromancy.
+My aunt went in after him, but she hasn't come out yet and I'm afraid to go in by myself. I'm not proud of it. I'm terrified of that place and Aunt Agna knows it. My Da locked me in there in a drunken rage when he left us... three days in there eating the offerings left for our dead before Aunt Agna found me.
+I'll unlock the door and meet you inside, then you can lead the way. We should get after Vals Veran before he does more damage here.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Gorm to address his worries about Idgrod's leadership
+<|end_objective|>
+<|begin_tasks|>
+deliver Gorm's letter to Captain Aldis
+<|end_tasks|>
+<|begin_task_locations|>
+Solitude: a city
+<|end_task_locations|>
+<|begin_quest_giver|>
+Gorm: the worried housecarl of Idgrod, located at Morthal
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Idgrod: the noblewoman who rules over Morthal, and a seer, located at Morthal
+Captain Aldis: a male official, located at Solitude
+<|end_characters|>
+<|begin_locations|>
+Morthal: a town
+<|end_locations|>
+<|begin_tools|>
+Idgrod gets lost in her visions
+<|end_tools|>
+<|begin_description|>
+My mind weighs heavy enough. Idgrod's so lost in her visions, and it's only getting worse. I've looked after her safety for so long... If she can't tell what's real and what's not, how will she continue to lead Morthal?
+There is a letter, one I have had for some time now. I think it is time it gets delivered. I cannot leave Idgrod's side, so I must stay here. Could you see that it reaches Captain Aldis in Solitude?
+Please, do not open it. It is... private.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Tolfdir finish his research on the Dragonhide
+<|end_objective|>
+<|begin_tasks|>
+retrieve Kahvozein's Fang, and use it to carve a few heartscales off a dead dragon
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Tolfdir: a mage
+<|end_quest_giver|>
+<|begin_rewards|>
+the first copy of the Dragonhide tome
+<|end_rewards|>
+<|begin_items|>
+Dragonhide: a protection spell, an improvement on the Ebonyflesh spell
+Ebonyflesh: a powerful protection spell
+Kahvozein's Fang: a sharp dagger
+<|end_items|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I've been working on something. An improvement on the Ebonyflesh spell. I've made progress, but then hit a snag. I think perhaps you could help.
+I made some progress using the essence of dragon scales. But they're just not quite potent enough. My knowledge of history is far from complete, but I did some research and discovered two things.
+First, there are ancient references to dragon "heartscales". What little I could learn suggests they may be what I need. Second, there are stories of a dagger called Kahvozein's Fang, said to be sharp enough to carve heartscales off a dragon.
+First you'll need to retrieve the dagger, then use it to carve a few heartscales off a dragon. Presumably a deceased one.
+If my research succeeds, I certainly think you deserve the first copy of the Dragonhide spell tome.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+locate a Folio for Cindiri Arano
+<|end_objective|>
+<|begin_tasks|>
+find the Folio
+<|end_tasks|>
+<|begin_task_locations|>
+Strident Squall: a ship that sank off the coast of Solstheim, and turned into a reaver den
+<|end_task_locations|>
+<|begin_quest_giver|>
+Cindiri Arano: a noblewoman, located at Raven Rock
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_items|>
+Folio: a special book
+<|end_items|>
+<|begin_locations|>
+Raven Rock: a town on Solstheim
+Solstheim: an island
+First Edition: a famous bookshop far away from Solstheim
+<|end_locations|>
+<|begin_tools|>
+Cindiri Arano sent the Folio to the First Edition to be rebound: they sent it back on the Strident Squall
+<|end_tools|>
+<|begin_description|>
+A few months ago, I had sent an important Folio to the First Edition to be rebound. They sent it back to me recently, but it never arrived.
+The Folio was aboard the "Strident Squall" or something like that. The damn thing sunk right off the coast of Solstheim. Can you imagine? One of the sailors survived. Poor thing crawled all the way to Raven Rock on his hands and knees. Before he died, he told the guard about the wreck and warned us that it was going to be crawling with reavers.
+Could you find the Folio for me? You have no idea how much it hurts losing such a precious item!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+convince Torbjorn Shatter-Shield pay his Argonian dockhands fairly
+<|end_objective|>
+<|begin_tasks|>
+talk to Torbjorn Shatter-Shield
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Scouts-Many-Marshes: a frustrated Argonian dockhand
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Torbjorn Shatter-Shield: a cheapskate Nord male business owner
+<|end_characters|>
+<|begin_groups|>
+Argonian: a race of people
+Nord: a race of people
+<|end_groups|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Torbjorn Shatter-Shield is giving me trouble. I wish someone would beat the coin out of his fat fists. He clings to every coin.
+He says an Argonian's labor is only worth a tenth of a "proper Nord worker." My people are not slaves! You can try talking with him, but we've gotten nowhere talking to him ourselves.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring ancient Falmer tomes to Urag gro-Shub
+<|end_objective|>
+<|begin_tasks|>
+find more ancient Falmer tomes
+<|end_tasks|>
+<|begin_task_locations|>
+Skyrim: a province
+<|end_task_locations|>
+<|begin_quest_giver|>
+Urag gro-Shub: a tough librarian, located at Skyrim
+<|end_quest_giver|>
+<|begin_rewards|>
+1,000 per ancient Falmer tome
+a translated edition of each brought Falmer tome
+<|end_rewards|>
+<|begin_groups|>
+Falmer: an ancient race of people
+<|end_groups|>
+<|begin_tools|>
+the player is presenting an ancient Falmer tome to Urag gro-Shub and asking if Urag gro-Shub is interested in buying it
+<|end_tools|>
+<|begin_description|>
+Well, well. I haven't seen one of these beauties in a long time. A rare find in the original Falmer language. You're damn right I'm interested. Question is, are you selling?
+Well, considering no one else in Skyrim would buy something they couldn't possibly read, I'd say you don't have much of a choice. Tell you what, you bring me books like this, and I'll pay a thousand gold each. I'll even throw in a translated edition I have for free.
+If you're holding out for more gold, it's never going to happen.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring 10 bear pelts to Temba Wide-Arm
+<|end_objective|>
+<|begin_tasks|>
+get 10 bear pelts by killing bears
+<|end_tasks|>
+<|begin_task_locations|>
+Skyrim: a wooded province
+<|end_task_locations|>
+<|begin_quest_giver|>
+Temba Wide-Arm: a sawmill owner
+<|end_quest_giver|>
+<|begin_rewards|>
+Temba Wide-Arm will pay the player
+<|end_rewards|>
+<|begin_items|>
+10 bear pelts
+<|end_items|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Have you ever seen what a bear does to the trees? They jump up on their hind legs and scratch them to bits... marking their territory or something.
+It's getting to the point where I have to scour Skyrim for untouched trees at the right size. Costs me too much time and money.
+Tell you what. Bring me ten of bear pelts from anywhere in Skyrim I'll gladly pay you for thinning out the herd.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+deliver "Olaf and the Dragon" to Giruad Gemane
+<|end_objective|>
+<|begin_tasks|>
+find Giruad Gemane and ask for a tip
+<|end_tasks|>
+<|begin_task_locations|>
+Bards College: a college for bards
+<|end_task_locations|>
+<|begin_quest_giver|>
+Adonato Leotelli: a drama writer
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Giruad Gemane: a male bard, located at Bards College
+<|end_characters|>
+<|begin_items|>
+"Olaf and the Dragon": a new book written by Adonato Leotelli
+<|end_items|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I write drama, friend. The legends and history of the world made to excite and inspire.
+Poor Giruad Gemane at the Bards College has been waiting for my latest work, "Olaf and the Dragon," for weeks now. Roads are a mess.
+You'll deliver the book for me? You're sure? When you see Giruad, ask for a tip. I'm sure he'll be in a good mood after reading this.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill a dragon with the Blades
+<|end_objective|>
+<|begin_tasks|>
+ask Esbern to send the Blades to the dragon
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Esbern: a member of the Blades
+<|end_quest_giver|>
+<|begin_rewards|>
+the dragon's soul
+<|end_rewards|>
+<|begin_characters|>
+Dragonborn: the only person who can defeat dragons for good
+<|end_characters|>
+<|begin_groups|>
+Blades: an intelligence organization
+<|end_groups|>
+<|begin_tools|>
+the player is Dragonborn
+<|end_tools|>
+<|begin_description|>
+The Blades of the old hunted down many dragons in their day, and they have records of where the beasts lived.
+Only you can truly defeat these monsters, Dragonborn, but you do not have to do so alone. The Blades can help you.
+Just ask whenever you're ready to take on a dragon. We will send the Blades to help you fulfill your destiny. The dragon's soul should make you stronger.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+Help lift the curse placed on Yamarz
+<|end_objective|>
+<|begin_tasks|>
+bring Troll Fat and a Daedra Heart to Atub
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Atub: the wisewoman of the orc clan, located at walled orc camp
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Yamarz: the male chief of the orc clan, who was a strong and proud warrior, located at walled orc camp
+Malacath: the god of orcs
+<|end_characters|>
+<|begin_items|>
+Troll Fat: an alchemy ingredient
+Daedra Heart: an alchemy ingredient
+<|end_items|>
+<|begin_tools|>
+Yamarz became weak: the giants sense Yamarz's weakness, and intrude on the orc clan's territory
+Atub must petition Malacath for relief: the ritual must be done at the walled orc camp
+<|end_tools|>
+<|begin_description|>
+Please, our tribe suffers and we need help.
+Our Chief, Yamarz, was once a strong and proud warrior. Now he is stricken, cursed. He is weak, and so our tribe is weak. The giants sense this, and intrude on our territory. Now they assault our very home.
+Yamarz refuses help, but I sense that you may be just what we need. He has demanded we stay inside the walls. We cannot leave. I must petition Malacath for relief. This curse must be lifted. But I cannot travel to Malacath's shrine. The ritual must be done here, and I do not have the materials I need.
+I beg of you, can you bring me Troll Fat and a Daedra Heart? I have no wish to depend on a stranger, but I have no choice.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill thin-blooded vampires
+<|end_objective|>
+<|begin_tasks|>
+find the thin-blooded vampires
+<|end_tasks|>
+<|begin_task_locations|>
+Haemar's Shame: a cave
+<|end_task_locations|>
+<|begin_quest_giver|>
+Fura Bloodmouth: a fellow vampire
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+A bunch of feral vampires are running wild, upsetting the mortals. When the prey is riled, it makes things difficult for us.
+Go cull the brutish beasts in Haemar's Shame before the problem gets out of hand. At first you may pity the thin-bloods. But after disposing of a few, you realize they aren't worth the worry.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+destroy Miraak and lift his master's shadow from the land
+<|end_objective|>
+<|begin_tasks|>
+kill Miraak
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Frea: a woman whose father sacrificed himself for the player
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Miraak: the player's enemy
+<|end_characters|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Go. My father sacrificed himself so that you could destroy Miraak and lift his master's shadow from the land.
+Go, then. Kill Miraak. Do not fail.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+assassinate Deekus
+<|end_objective|>
+<|begin_tasks|>
+locate Deekus
+<|end_tasks|>
+<|begin_task_locations|>
+Hela's Folly: a small waterlogged shipwreck northeast of Dawnstar
+<|end_task_locations|>
+<|begin_quest_giver|>
+Nazir: a fellow assassin
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Deekus: a male Argonian layabout, and a shipwreck scavenger, located at Hela's Folly
+<|end_characters|>
+<|begin_groups|>
+Argonians: a race of people
+<|end_groups|>
+<|begin_locations|>
+Dawnstar: a town
+<|end_locations|>
+<|begin_tools|>
+Argonians are unpredictable opponents, especially near water
+<|end_tools|>
+<|begin_description|>
+There's an assassination contract for you. You are to kill Deekus.
+He is an Argonian layabout, likes to scavenge shipwrecks. My guess is he'll run if threatened. Or swim, if given the chance.
+Personally, I've always found Argonians to be incredibly unpredictable opponents. Especially near water. Unfortunately, Deekus is at Hela's Folly, a small waterlogged shipwreck northeast of Dawnstar. Making him stay out of water will be difficult.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+speak with some fellow members of the Thieves Guild and pick up your new armor
+<|end_objective|>
+<|begin_tasks|>
+talk with Delvin Mallory and Vex and Tonilia for your armor
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Brynjolf: the player's superior in the Thieves Guild
+<|end_quest_giver|>
+<|begin_rewards|>
+new armor
+<|end_rewards|>
+<|begin_characters|>
+Delvin Mallory, Vex: fellow members of the Thieves Guild who can give the player extra jobs, located at Whiterun
+Tonilia: a female member of the Thieves Guild, located at The Ragged Flagon
+<|end_characters|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves
+<|end_groups|>
+<|begin_locations|>
+The Ragged Flagon: a bar that is actually a front to the Thieves Guild
+<|end_locations|>
+<|begin_tools|>
+the player just joined the Thieves Guild: the player should do as they're told and keep their blade clean to get their share of the loot
+<|end_tools|>
+<|begin_description|>
+Welcome to the family, kid. I'm expecting you to make us a lot of coin, so don't disappoint me.
+This is how you get your cut of the spoils. Do as you're told and keep your blade clean. We can't turn a profit by killing.
+You should talk with Delvin Mallory and Vex. They know their way around this place and they'll be able to kick some extra jobs your way.
+Oh, and talk to Tonilia in the Flagon... she'll set you up with your new armor.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+assassinate Ennodius Papius
+<|end_objective|>
+<|begin_tasks|>
+find Ennodius Papius
+<|end_tasks|>
+<|begin_task_locations|>
+in the woods near Anga's Mill
+<|end_task_locations|>
+<|begin_quest_giver|>
+Nazir: a fellow assassin
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Ennodius Papius: a paranoid male hermit, located at in the woods near Anga's Mill
+<|end_characters|>
+<|begin_locations|>
+Anga's Mill: a mill
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Ennodius Papius lives just outside Anga's Mill, in the woods. He was once the miller. Now Papius is just a paranoid recluse who thinks someone is out to get him. And he's right.
+You will assassinate him and prove his paranoia legitimate.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Sibbi Black-Briar in his plans to kill Svidi
+<|end_objective|>
+<|begin_tasks|>
+find Svidi
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Sibbi Black-Briar: a pompous, womanizing nobleman, one of the Black-Briars, located at Riften jail
+<|end_quest_giver|>
+<|begin_rewards|>
+compensation
+<|end_rewards|>
+<|begin_characters|>
+Svidi: a buxom young woman with long flowing black hair and beautiful singing voice, Sibbi Black-Briar's former fiancée
+Wulfur: Svidi's brother
+<|end_characters|>
+<|begin_groups|>
+Black-Briars: the richest family in Riften
+<|end_groups|>
+<|begin_locations|>
+Riften: a city
+<|end_locations|>
+<|begin_tools|>
+Svidi found out that Sibbi Black-Briar had an affair and told Wulfur about it
+Wulfur attacked Sibbi Black-Briar: Sibbi Black-Briar killed Wulfur and was arrested for Wulfur's murder
+Sibbi Black-Briar has to stay in jail for 8 months
+<|end_tools|>
+<|begin_description|>
+Look, we all have our flaws; mine is that women can't get enough of me. So I had this little affair going on while I was betrothed to a beautiful girl named Svidi. Well, she finds out and she tells her brother, Wulfur. Then her brother attacks me with a knife... I mean, I had to defend myself!
+So I got arrested for his murder. And now I have to stare at these bars for eight months. Can you believe it? I was about to let that wench Svidi marry into the richest family in Riften, and this is how she repays me. I'd do anything to have that whore's head on a platter. All I need to know is where she is.
+Find her and I promise you'll be well compensated. Svidi was a young woman... buxom, with long flowing black hair. She used to sing the most lovely songs to me when we were courting. I've never heard a voice so beautiful.
+All that talent will go to waste when I'm finished with her.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+convince Braith to stop bullying Lars Battle-Born
+<|end_objective|>
+<|begin_tasks|>
+talk to Braith
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Lars Battle-Born: a young boy who can't fight
+<|end_quest_giver|>
+<|begin_rewards|>
+the player will be Lars Battle-Born' best friend forever
+2 septims
+<|end_rewards|>
+<|begin_characters|>
+Braith: a girl
+<|end_characters|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I'm having trouble. Braith bullies me all the time. All the elders think I'm a milk drinker 'cause I can't fight. Nobody understands.
+If you can get Braith to leave me alone, I'll be your best friend... forever! I'll pay you, too! My whole life's savings - two septims!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+become the guild master of the Thieves Guild
+<|end_objective|>
+<|begin_tasks|>
+meet the members of the Thieves Guild
+<|end_tasks|>
+<|begin_task_locations|>
+in the center of the cistern room
+<|end_task_locations|>
+<|begin_quest_giver|>
+Brynjolf: a fellow member of the Thieves Guild, and the player's friend
+<|end_quest_giver|>
+<|begin_rewards|>
+the player becomes the guild master of the Thieves Guild
+<|end_rewards|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves
+<|end_groups|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Well, my friend... the time's come to make it official. It's time to become our Guild Master.
+Don't worry, I promise this will be short and sweet. If you'll just meet us in the center of the cistern room, we can begin.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+remove pollution from the various points of focus for magic energies with specially enchanted gloves, and return the gloves to Drevis Neloren afterwards
+<|end_objective|>
+<|begin_tasks|>
+find the focus points for magical energy
+<|end_tasks|>
+<|begin_task_locations|>
+around the College of Winterhold
+<|end_task_locations|>
+<|begin_quest_giver|>
+Drevis Neloren: a mage, located at College of Winterhold
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_groups|>
+College of Winterhold: a famous college for mages
+<|end_groups|>
+<|begin_tools|>
+the College of Winterhold has gone to great lengths to purify and enhance the natural energies of the world
+<|end_tools|>
+<|begin_description|>
+There may be a matter in which your... skills... could be useful. The various points of focus for magic energies around the College have become polluted, and need cleansing.
+As you may be aware, the College has gone to great lengths to purify and enhance the natural energies of the world. This both enhances our connection to the realm of magic, and eliminates possible interference from outside sources. These energies, on occasion, become... polluted. Effort must be made to see that they are kept pure, clean.
+These specially enchanted gloves will allow you to delve directly into the focal points for these energies. Go to each focal point and remove whatever impurities you may find there. Return the gloves to me when you have finished. Please exercise caution. This is not a procedure without possible... consequences.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+purify a soul gem
+<|end_objective|>
+<|begin_tasks|>
+place the soul gem in 3 Dwarven Convectors and heat them for 3 seconds with Arniel Gane's spell
+<|end_tasks|>
+<|begin_task_locations|>
+Skyrim ruins
+<|end_task_locations|>
+<|begin_quest_giver|>
+Arniel Gane: a scholar fascinated by the Dwemer
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_items|>
+3 Dwarven Convectors, Convectors: Dwemer machines that were used to purify gems
+<|end_items|>
+<|begin_groups|>
+Dwemer: a lost race of people, masters of magic
+<|end_groups|>
+<|begin_locations|>
+Skyrim: a realm
+<|end_locations|>
+<|begin_tools|>
+the Dwemer's greatest achievement has also been their greatest mystery: their instant, unexplainable disappearance
+Arniel Gane tries to find out what happened to the Dwemer though experimentation
+the player brought Arniel Gane Dwemer parts and a soul gem before
+<|end_tools|>
+<|begin_description|>
+The Dwemer, they were uhh, masters of magic in a way we can't even begin to conceive of. Their greatest achievement, however, has also been their greatest, shall we say... mystery.
+This mystery is their disappearance, of course! Instant, unexplainable. The stories have fascinated me... Ever since I was young, I wanted to know what really happened. After years and years of work, I'm closing in on a way to investigate what happened through experimentation.
+Only now... Well, it's simply a disaster. Without boring you with the, ahh, details, I am attempting to re-create the circumstances of the event. I used the soul gem you brought me for this. The soul gem by itself isn't enough, you see. It needs to be altered, purified. The Dwemer had machines for this sort of thing. I attempted to build my own, based on designs and using parts you helped to provide. My very own Dwemer machine. It worked, but not fully. And the uhh... The device was destroyed in the process.
+The designs for my Convector were based on real Dwemer machines, so there may still be some in existence. I'd go looking myself, but uhh... Yes, there are calculations to double- and triple-check. Many calculations. Perhaps you could seek out these Convectors in Skyrim ruins? I can even teach you the spell to heat them.
+Just place the soul gem inside, and heat the Convector. At least three seconds. You'll almost certainly need to find multiple Convectors. I suspect it may be due to the nature of the soul gem versus the crystals this was intended for. Destroys the equipment in the process.
+But, ahh... It's effective. Three times, and the crystal should be ready for the next step. Isn't this exciting?
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+bring the secrets of the Skaal to Hermaeus Mora
+<|end_objective|>
+<|begin_tasks|>
+convince the Skaal to reveal their secrets
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Hermaeus Mora, Gardener of Men: knower of the unknown, master of fates, an immortal god, located at Hermaeus Mora's realm
+<|end_quest_giver|>
+<|begin_rewards|>
+Hermaeus Mora will give the player what the player seeks
+<|end_rewards|>
+<|begin_characters|>
+Miraak: the player's enemy, a man who sought out Hermaeus Mora's forbidden knowledge and received it
+<|end_characters|>
+<|begin_groups|>
+Skaal: a tribe of people who consider Hermaeus Mora a demon
+<|end_groups|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I am Hermaeus Mora, the Gardener of Men, knower of the unknown, master of fates. You stand in my realm, mortal.
+You have sought out the forbidden knowledge that only one other has obtained. You are a seeker of knowledge and power, like Miraak before you.
+The Skaal have withheld their secrets from me for many long years. The time has come for this knowledge to be added to my library. Convince them to give up their secrets. My word is as true as fate, as inevitable as destiny. Bring me what I want, and I will give you what you seek.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+take care of a magical disturbance
+<|end_objective|>
+<|begin_tasks|>
+contain the power from the Eye of Magnus with the Staff of Magnus
+<|end_tasks|>
+<|begin_task_locations|>
+Markarth: a part of Skyrim
+<|end_task_locations|>
+<|begin_quest_giver|>
+Tolfdir: a professor at the College of Winterhold
+<|end_quest_giver|>
+<|begin_rewards|>
+a large portion of the reward from the Jarl of Markarth
+<|end_rewards|>
+<|begin_characters|>
+Arch-Mage: the leader of the College of Winterhold
+Jarl: the nobleman who rules over Markarth, located at Markarth
+<|end_characters|>
+<|begin_items|>
+Eye of Magnus: a powerful artifact that was held at the College of Winterhold
+Staff of Magnus: a powerful staff that can contain energy from the Eye of Magnus
+<|end_items|>
+<|begin_locations|>
+College of Winterhold: a college for mages
+Skyrim: a realm
+<|end_locations|>
+<|begin_tools|>
+the player is the Arch-Mage
+the player should have the Staff of Magnus
+<|end_tools|>
+<|begin_description|>
+There is something you should be aware of, Arch-Mage. We've been contacted by the Jarl of Markarth. It would seem there's some sort of disturbance.
+From what few details we were given, it sounds quite familiar. I suspect that the power released by the Eye of Magnus was not fully contained, and has coalesced in this part of Skyrim. I do hope you still have the Staff of Magnus someplace. I suspect you're going to need it to contain the power.
+I'm sure the Jarl will be quite pleased to. I think it only fitting that the Arch-Mage personally receive a large portion of the reward.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Laila Law-Giver to uncover and stop the illegal Skooma trade in Riften
+<|end_objective|>
+<|begin_tasks|>
+convince Sarthis close down his Skooma operation permanently
+<|end_tasks|>
+<|begin_task_locations|>
+the warehouse within Riften
+<|end_task_locations|>
+<|begin_quest_giver|>
+Laila Law-Giver: the lawful female ruler of Riften, located at Riften
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Sarthis: a male Skooma dealer, located at the warehouse within Riften
+<|end_characters|>
+<|begin_items|>
+Skooma: an illegal drug
+<|end_items|>
+<|begin_locations|>
+Riften: a city
+<|end_locations|>
+<|begin_tools|>
+Laila Law-Giver gives the player the key to the warehouse
+<|end_tools|>
+<|begin_description|>
+We're aware of a Skooma dealer's presence in the warehouse within this city. Unfortunately, we're certain this Skooma dealer, Sarthis, has informants within the city guard. Every time we've made a move to arrest him, he's escaped.
+However, if you'd take care of this discreetly, you might be able to surprise him without warning. Here, this is the key to the warehouse. See if you can drop in on this dealer of poison and convince him to close down his operation permanently.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+search Raven Rock and root out traitors who want to assassinate Councilor Morvayn
+<|end_objective|>
+<|begin_tasks|>
+talk to Geldis Sadri and check out any leads he provides you
+<|end_tasks|>
+<|begin_task_locations|>
+Retching Netch Cornerclub: a bar in Raven Rock
+<|end_task_locations|>
+<|begin_quest_giver|>
+Adril Arano: the second councilor of Raven Rock, and a loyal underling of Councilor Morvayn, located at Raven Rock
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Councilor Morvayn: the nobleman who rules over Raven Rock, a member of House Redoran, located at Raven Rock
+Geldis Sadri: a knowledgeable barkeeper, located at Retching Netch Cornerclub
+<|end_characters|>
+<|begin_groups|>
+House Redoran: an honorable great house
+House Hlaalu: a dishonorable great house, rivals of House Redoran
+Ulen Family: a family belonging to House Hlaalu
+<|end_groups|>
+<|begin_locations|>
+Raven Rock: a city
+<|end_locations|>
+<|begin_tools|>
+the player has helped Raven Rock before
+the Ulen Family has placed a deathmark on Councilor Morvayn's head
+<|end_tools|>
+<|begin_description|>
+After everything you've already done for Raven Rock, I hate to ask for more but I can't risk Councilor Morvayn being killed.
+The Ulen Family of House Hlaalu, a rival Great House, has placed a deathmark on the Councilor's head. I need you to start out by being my eyes and ears... search Raven Rock and see if you can root out these traitors.
+The best place to start would be Geldis Sadri over at the Retching Netch Cornerclub. If he provides you any leads, check them out before bringing them to my attention. I can't afford to make any mistakes.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+assassinate an ex-lover for Muiri
+<|end_objective|>
+<|begin_tasks|>
+speak with Muiri, set up the contract with her, and fulfill it
+<|end_tasks|>
+<|begin_task_locations|>
+The Hag's Cure: an apothecary in Markarth
+<|end_task_locations|>
+<|begin_quest_giver|>
+Astrid: the player's guildleader in the Dark Brotherhood
+<|end_quest_giver|>
+<|begin_rewards|>
+Astrid will let the player keep whatever Muiri pays, as this is the player's first assassination contract
+<|end_rewards|>
+<|begin_characters|>
+Muiri: the apothecary's female assistant, located at The Hag's Cure
+<|end_characters|>
+<|begin_items|>
+Black Sacrament: a ritual to employ the services of the Dark Brotherhood
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins
+<|end_groups|>
+<|begin_locations|>
+Markarth: a city
+<|end_locations|>
+<|begin_tools|>
+Muiri has performed the Black Sacrament
+do whatever Muiri wishes, be professional, represent the Dark Brotherhood well, and get the job done
+<|end_tools|>
+<|begin_description|>
+Ah, there you are. We've got some business to discuss.
+You must go to the city of Markarth, and speak with the apothecary's assistant. You'll probably find her in the shop, The Hag's Cure. The girl's been running her mouth, wants an ex-lover killed. She's apparently performed the Black Sacrament. Her name is Muiri. I need you to talk to her, set up the contract, and carry it out.
+Just do whatever the contact wishes. Be professional, represent us well, and get the job done. Since it's your first contract, I'll let you keep whatever Muiri pays. She'll be generous, I'm sure. They always are.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+spread the word about Geldis Sadri's new Sujamma
+<|end_objective|>
+<|begin_tasks|>
+distribute 10 Sadri's Sujamma to people
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Geldis Sadri: a barkeep
+<|end_quest_giver|>
+<|begin_rewards|>
+something extra
+<|end_rewards|>
+<|begin_items|>
+10 Sadri's Sujamma: Geldis Sadri's special Sujamma
+Sujamma: an alcoholic beverage
+<|end_items|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+The house specialty is the finest Sujamma to cross your lips, friend. My own personal formula that I call 'Sadri's Sujamma'.
+In fact, I've just added some new ingredients to the mixture that I think makes it taste better than ever. All I need to do is get the word out that it's ready and they'll flock here for it.
+Here, take these ten samples of the Sujamma and spread the word. If you get rid of all of them, there's something extra in it for you.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+take Whiterun in the name of the Stormcloaks
+<|end_objective|>
+<|begin_tasks|>
+tear through the barricades, and find a way to drop the drawbridge into Whiterun
+<|end_tasks|>
+<|begin_task_locations|>
+Whiterun: a city with tall, yet old and crumbling walls
+<|end_task_locations|>
+<|begin_quest_giver|>
+Galmar Stone-Fist: the player's commanding officer in the Stormcloaks, a Nord
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_groups|>
+Stormcloaks: Nord rebel forces opposing the Empire
+<|end_groups|>
+<|begin_locations|>
+Skyrim: a province of the Empire
+<|end_locations|>
+<|begin_tools|>
+Galmar Stone-Fist is addressing the player and the player's fellow Stormcloaks: the true sons and daughters of Skyrim
+Imperial legionnaires have been stationed on the walls of Whiterun
+<|end_tools|>
+<|begin_description|>
+This is it men! They say that our cause is false and that we are nothing more than thieves, thugs and murderers! But no! We are farmers! We are craftsmen! We are sons and daughters of shopkeepers, maid servants and soldiers!
+We are the sons and daughters of Skyrim! And we have come this far because our cause is true. Because we fight as one. And because our hearts are bursting with anger! What we do here today, we do for our country! For all the true Nords of Skyrim!
+Whiterun's walls are tall, but they are old and crumbling, like the Empire whose Legion lines them. They've barricades to block us, but we'll tear through them and the Imperials behind them! Our objective is the drawbridge. If we can find a way to drop it, the city will be ours!
+Everyone on me. Let's show these Imperial milk drinkers what true Nords look like! Rrrrraaaaaarrrrr!!!!!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+take Bera's necklace to Runil, and return to Morwen
+<|end_objective|>
+<|begin_tasks|>
+give Bera's necklace to Runil and tell him that Morwen sent you
+<|end_tasks|>
+<|begin_task_locations|>
+Falkreath: a town in Skyrim
+<|end_task_locations|>
+<|begin_quest_giver|>
+Morwen: a Skaal woman born in Skyrim, located at Skaal village
+<|end_quest_giver|>
+<|begin_rewards|>
+Morwen will do what she can
+<|end_rewards|>
+<|begin_characters|>
+Bera: Morwen's mother, a Skaal
+Runil: a male Priest, located at Falkreath
+<|end_characters|>
+<|begin_groups|>
+Skaal: a friendly tribe of people living on a cold, remote island
+<|end_groups|>
+<|begin_locations|>
+Skyrim: a realm
+<|end_locations|>
+<|begin_tools|>
+Bera left the Skaal village to return to Skyrim with her love: Morwen's father, a sailor from Skyrim
+Morwen thinks that Bera would like her necklace be placed upon her grave in Falkreath
+<|end_tools|>
+<|begin_description|>
+My mother, Bera, was Skaal, but she left the village and I was born in Skyrim. A trade ship from Skyrim struck ice off the coast near the village, and the Skaal took in the surviving sailors. My mother fell in love with one of the sailors - my father - and eventually returned with him to Skyrim.
+I came across a few of my mother's old things not long ago. Among them was a necklace that my father gave to her when they were married. I believe she would want it placed upon her tombstone in Falkreath, as a symbol of her undying love and the great sacrifice she made for it.
+If you find yourself in Falkreath, please give this amulet to the priest Runil and tell him that I sent you. He will understand. I don't have much to give in reward, but return to me when the task is done and I'll do what I can. Thank you, Skaal-friend.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+avenge Kodlak
+<|end_objective|>
+<|begin_tasks|>
+retrieve the fragments of Wuuthrad and wipe out the Silver Hand
+<|end_tasks|>
+<|begin_task_locations|>
+Driftshade Refuge: the headquarters of the Silver Hand
+<|end_task_locations|>
+<|begin_quest_giver|>
+Vilkas: a fellow member of the Companions, located at Jorrvaskr
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Kodlak: an old man, and the leader of the Companions, located at Jorrvaskr
+<|end_characters|>
+<|begin_items|>
+Wuuthrad: a legendary battleaxe
+<|end_items|>
+<|begin_groups|>
+Silver Hand: a bandit gang who hate the Companions
+Companions: a band of honorable warriors
+<|end_groups|>
+<|begin_locations|>
+Jorrvaskr: the mead hall of the Companions
+<|end_locations|>
+<|begin_tools|>
+the Silver Hand attacked the Companions in Jorrvaskr, killed Kodlak, and stole the fragments of Wuuthrad
+<|end_tools|>
+<|begin_description|>
+The Silver Hand attacked us. They finally found enough courage to attack Jorrvaskr. We fought them off, but... The old man... Kodlak... he's dead.
+No one else got hurt, but they made off with all our fragments of Wuuthrad. But you and I are going to reclaim them. We will bring the battle to their chief camp, Driftshade Refuge. There will be none left living to tell their stories. Only songs of Jorrvaskr will be sung.
+We will avenge Kodlak. And they will know terror before the end.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+tell Liefnarr that he is not welcome home
+<|end_objective|>
+<|begin_tasks|>
+find Liefnarr
+<|end_tasks|>
+<|begin_task_locations|>
+Broken Helm Hollow: a camp east towards the border of Morrowind
+<|end_task_locations|>
+<|begin_quest_giver|>
+Grosta: an angry wife
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Liefnarr: Grosta's missing husband, located at Broken Helm Hollow
+<|end_characters|>
+<|begin_locations|>
+Morrowind: a province inhabited by elves
+<|end_locations|>
+<|begin_tools|>
+Liefnarr went to trade some grain with people at Broken Helm Hollow: he never came back
+<|end_tools|>
+<|begin_description|>
+My husband Liefnarr said he was going east towards the border of Morrowind to trade some of our grain to some folks at Broken Helm Hollow.
+I waited and waited, and he never came back. Probably shacked up with some elven whore. Good riddance to him I say. If I only knew where he was, I'd sure give him a piece of my mind.
+If you see him, tell him Grosta said he can go straight to hell... he's not welcome here any more.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+make the shortfalls from Thieves Guild's other jobs look legit
+<|end_objective|>
+<|begin_tasks|>
+change the numbers in the business ledger
+<|end_tasks|>
+<|begin_task_locations|>
+Bits and Pieces: a store in Solitude
+<|end_task_locations|>
+<|begin_quest_giver|>
+Delvin Mallory: the player's superior in the Thieves Guild
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_groups|>
+Thieves Guild: a guild of thieves
+<|end_groups|>
+<|begin_locations|>
+Solitude: a city in Skyrim
+Skyrim: a province
+<|end_locations|>
+<|begin_tools|>
+most businesses in Skyrim keep their transactions recorded within business ledgers
+<|end_tools|>
+<|begin_description|>
+Most of the establishments in Skyrim keep their transactions recorded within business ledgers.
+Your job would be to change the numbers in those books so the shortfalls from our other jobs look legit. In this case, we want to waylay a shipment on the way from this business without them even noticin' anything went missin'.
+Feel like doing a bit of writin' in Bits and Pieces in Solitude?
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+retrieve Wylandriah's Dwemer Spoon, Orichalcum Ingot, and Grand Soul Gem
+<|end_objective|>
+<|begin_tasks|>
+1) fetch Dwemer Spoon
+2) fetch Orichalcum Ingot
+3) fetch Grand Soul Gem
+<|end_tasks|>
+<|begin_task_locations|>
+1) Fellstar Farm, Boti's house in Ivarstead
+2) Frozen Hearth Inn, an inn in Winterhold
+3) The White Phial, an alchemy shop in Windhelm
+<|end_task_locations|>
+<|begin_quest_giver|>
+Wylandriah: an absent-minded mage
+<|end_quest_giver|>
+<|begin_rewards|>
+Wylandriah will reward the player
+<|end_rewards|>
+<|begin_characters|>
+Boti: Wylandriah's friend, located at Fellstar Farm
+<|end_characters|>
+<|begin_items|>
+Dwemer Spoon: an item
+Orichalcum Ingot: an item
+Grand Soul Gem: a gem
+<|end_items|>
+<|begin_locations|>
+Ivarstead: a town
+Winterhold: a city
+Windhelm: a city
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I could use some help with getting organized. An assistant perhaps? No, no, no. Maybe a familiar. No, too messy. Well, at any rate, organization is not my strong suit. Not at all. I need as much help as I can get.
+In fact, if you could retrieve a few things for me, I could start on my next set of experiments. What I need is my Dwemer Spoon, my Orichalcum Ingot and my Grand Soul Gem. In fact, I could use them immediately.
+Well... why are you still standing here? Oh, right. You need to know where they are! That would help. Let's see. Last time I used the Dwemer Spoon was at my dear friend Boti's house in Ivarstead... Fellstar Farm I believe it's called. The Orichalcum Ingot should still be in Winterhold at the Frozen Hearth Inn. I don't know why I didn't just take it with me. And last is the gem. I left that one in Windhelm at the White Phial alchemy shop. It was a good trade too. Ah well.
+Bring those items back to me and I'll be happy to experiment on you. No, no... that isn't right. I'd be happy to reward you.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Louis Letrush get Frost and his lineage papers from Sibbi Black-Briar
+<|end_objective|>
+<|begin_tasks|>
+talk to Sibbi Black-Briar about Frost and the lineage papers
+<|end_tasks|>
+<|begin_task_locations|>
+Riften Jail: a jail in Riften
+<|end_task_locations|>
+<|begin_quest_giver|>
+Louis Letrush: a man
+<|end_quest_giver|>
+<|begin_rewards|>
+you'll be well paid
+<|end_rewards|>
+<|begin_characters|>
+Sibbi Black-Briar: a privileged man, located at Riften Jail
+Frost: one of the finest breeding horses in the realm
+Maven Black-Briar: Sibbi Black-Briar's mother, and a dangerous, powerful woman, located at Riften
+<|end_characters|>
+<|begin_locations|>
+Riften: a city
+<|end_locations|>
+<|begin_tools|>
+Sibbi Black-Briar agreed to sell Frost to Louis Letrush
+Maven Black-Briar threw Sibbi Black-Briar in Riften Jail before he delivered Frost to Louis Letrush: Sibbi Black-Briar thinks that this exempts him from selling Frost to Louis Letrush
+<|end_tools|>
+<|begin_description|>
+I'm Louis Letrush. Looking for work? I need someone to deliver a message to Sibbi Black-Briar.
+I recently approached Sibbi Black-Briar about buying Frost, one of the finest breeding horses in the realm. He agreed to sell. I paid Sibbi half the cost of Frost up front, but before he could deliver, Maven had him locked up. Sibbi believes this exempts him from our deal. It does not.
+Head to the Riften Jail and talk to Sibbi. Get him to tell you where Frost and his Lineage Papers are and bring them to me outside Riften. You'll be well paid for your time.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+convince Ranmir pay his debts to Haran
+<|end_objective|>
+<|begin_tasks|>
+talk to Ranmir
+<|end_tasks|>
+<|begin_task_locations|>
+The Frozen Hearth: a tavern
+<|end_task_locations|>
+<|begin_quest_giver|>
+Haran: a bartender, located at The Frozen Hearth
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Ranmir: a male drunk, located at The Frozen Hearth
+<|end_characters|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Ranmir owes this tavern enough coin to burn it down, build it back up, then burn it down again just for laughs.
+He's had some troubles in his life, but I can't have him drinking here without at least paying back some of the coin he owes.
+Go right ahead and talk to him. He just might be sober enough to listen to you.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+confront Cicero and kill him
+<|end_objective|>
+<|begin_tasks|>
+1) find Arnbjorn and make sure he is alright
+2) search Cicero's room for clues about where he has gone and let Astrid know about your findings
+<|end_tasks|>
+<|begin_task_locations|>
+1) the wilderness
+2) Dark Brotherhood Sanctuary, the hideout of the Dark Brotherhood
+<|end_task_locations|>
+<|begin_quest_giver|>
+Astrid: the player's guildmaster in the Dark Brotherhood, located at Dark Brotherhood Sanctuary
+<|end_quest_giver|>
+<|begin_rewards|>
+Astrid lets the player take Shadowmere, when the player goes to find Arnbjorn
+<|end_rewards|>
+<|begin_characters|>
+Cicero: a fellow member of the Dark Brotherhood, a dangerous madman
+Night Mother: the spiritual female leader of the Dark Brotherhood
+Veezara: a fellow member of the Dark Brotherhood, a man
+Shadowmere: Astrid's male horse, located at outside by the pool
+Arnbjorn: a fellow member of the Dark Brotherhood, a man
+<|end_characters|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins
+<|end_groups|>
+<|begin_tools|>
+the player is the Listener of the Dark Brotherhood
+Cicero went berserk because he overheard Astrid complain about the Night Mother and the player being the listener: Cicero wounded Veezara and tried to kill Astrid before fleeing
+<|end_tools|>
+<|begin_description|>
+The fool Cicero went absolutely berserk! He wounded Veezara, tried to kill me, and then he fled. I knew that lunatic couldn't be trusted.
+Nothing set Cicero off. At least nothing I'm aware of. Well... If I'm being honest, I haven't exactly been discreet lately in expressing my frustration with this whole situation. Obeying the Night Mother. You being the Listener. It's ridiculous. No offense. Cicero may have overheard me talking to one of the others about the Night Mother. It's possible I was... not entirely respectful. But to go this far. To attempt to murder the leader of a Sanctuary. Cicero must pay with his life. There is no other option.
+I want you to find that miserable little fool and end his life! But first... find my husband. Make sure he's all right. After the attack, Arnbjorn flew into a rage. When Cicero left... Arnbjorn went after him. They disappeared into the wild. Take my horse, Shadowmere. You'll find him outside, by the pool, when you go find Arnbjorn. Search Cicero's room here. Maybe there's something in there that sheds some light on where he might have gone.
+Let me know the minute you find something. I've got to see to Veezara, and calm everyone down.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+assassinate Titus Mede II
+<|end_objective|>
+<|begin_tasks|>
+get onboard
+<|end_tasks|>
+<|begin_task_locations|>
+Katariah: Titus Mede II's ship, moored offshore in the Solitude inlet
+<|end_task_locations|>
+<|begin_quest_giver|>
+Amaund Motierre: a man who has contracted the Dark Brotherhood to kill Titus Mede II, located at Skyrim
+<|end_quest_giver|>
+<|begin_rewards|>
+Amaund Motierre will reveal the location of the dead drop that holds the player's payment
+<|end_rewards|>
+<|begin_characters|>
+Titus Mede II: the Emperor, located at onboard the Katariah
+<|end_characters|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins
+<|end_groups|>
+<|begin_locations|>
+Solitude: a city in Skyrim
+Skyrim: a province of the Empire
+<|end_locations|>
+<|begin_tools|>
+the player is a member of the Dark Brotherhood
+Titus Mede II will be surrounded by elite bodyguards, but they might be more lax than usual because everyone assumes that the Dark Brotherhood has been destroyed
+<|end_tools|>
+<|begin_description|>
+The Emperor is still in Skyrim, but not for long. He's onboard his ship, the Katariah, moored offshore in the Solitude inlet. But you must hurry!
+If you can get onboard that ship. Kill Titus Mede II, as contracted... I will reveal the location of the dead drop that holds your payment.
+This is the true Emperor, not some half-penny lookalike. He'll be surrounded by elite bodyguards, I'm sure. You'll have your work cut out for you. Still... everyone assumes the Dark Brotherhood has been completely destroyed. They may be a bit more lax than usual.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill a beast for Pavo Attius
+<|end_objective|>
+<|begin_tasks|>
+kill the beast
+<|end_tasks|>
+<|begin_task_locations|>
+Pavo Attius' home
+<|end_task_locations|>
+<|begin_quest_giver|>
+Aela the Huntress: a fellow member of the Companions
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Pavo Attius: a man
+<|end_characters|>
+<|begin_groups|>
+Companions: a band of honorable warriors
+<|end_groups|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Pavo Attius has asked for our help. It seems a predator has invaded his home, and someone needs to clear the beast out.
+Be cautious. Beasts are not nearly as predictable as men. Give the thing a quick death.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help Elynea Mothren to repair Neloth's tower
+<|end_objective|>
+<|begin_tasks|>
+find 3 taproots, soak them in the headwaters of Harstrad, and bring them to Elynea Mothren
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Elynea Mothren: Neloth's mycologist, and an old woman
+<|end_quest_giver|>
+<|begin_rewards|>
+Elynea Mothren pays the player
+<|end_rewards|>
+<|begin_characters|>
+Neloth: a pompous master wizard
+<|end_characters|>
+<|begin_items|>
+3 taproots
+<|end_items|>
+<|begin_locations|>
+Harstrad: a river
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I don't care if he's a master wizard. He can't treat me like this! Master Neloth, that fetcher, told me to fix his house. If I don't, he'll find a new mycologist who will. Decades of loyal service, and he'd just throw me out like yesterday's breakfast!
+I need three taproots soaked in the headwaters of the Harstrad river to fix Neloth's tower. I'm an old woman. I can't possibly make that trip. It's way too dangerous.
+If you get some taproots, I'll pay you to dip them in the headwaters and bring them to me.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+restore the Gildergreen with the sap of the Eldergleam
+<|end_objective|>
+<|begin_tasks|>
+get Nettlebane
+<|end_tasks|>
+<|begin_task_locations|>
+Orphan Rock: a Hagraven nest
+<|end_task_locations|>
+<|begin_quest_giver|>
+Danica Pure-Spring: a priestess of Kynareth, located at the Gildergreen in Whiterun
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Kynareth: the goddess of nature
+<|end_characters|>
+<|begin_items|>
+Gildergreen: the big holy tree of Kynareth that died
+Eldergleam: the ancient parent tree of the Gildergreen
+Nettlebane: a weapon that can cut the Eldergleam
+<|end_items|>
+<|begin_groups|>
+Hagravens: old, bird-like hags
+<|end_groups|>
+<|begin_locations|>
+Whiterun: a city
+<|end_locations|>
+<|begin_tools|>
+disciples of Kynareth used to travel far to hear the winds of Kynareth in the Gildergreen's branches
+<|end_tools|>
+<|begin_description|>
+This is the Gildergreen. It was planted as a seedling in the early years of Whiterun. Disciples of Kynareth could sense something holy in it, and traveled far to hear the winds of the goddess in its branches. Of course, not as many pilgrims these days. A big dead tree isn't very inspiring if you're coming to worship the divine of wind and rains. Kynareth gives life, and we need a living tree to be her symbol.
+I've thought about restoring the Gildergreen... Trees like this never really die. They only slumber. I think if we had some of the sap from the parent tree, Eldergleam, we could wake up its child. But even if you could get to the Eldergleam, you couldn't tap it. Not with any normal metal. If you want to help, you'll need something to cut into it first.
+Eldergleam is older than metal, from a time before men or elves. To even affect it, you have to tap into the old magic. You'll have to deal with the Hagravens. I've heard about a weapon they've made for sacrificing Kynareth's creations. It's called "Nettlebane." The hags terrify me, or I would have gone after it myself. It's held in a Hagraven nest called Orphan Rock
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+destroy Harkon
+<|end_objective|>
+<|begin_tasks|>
+meet up with Isran and the rest of your Dawnguard allies
+<|end_tasks|>
+<|begin_task_locations|>
+Castle Volkihar: a castle belonging to Harkon in Tamriel
+<|end_task_locations|>
+<|begin_quest_giver|>
+Isran: the player's leader in the Dawnguard
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Harkon: the lord of the vampires, located at Castle Volkihar
+<|end_characters|>
+<|begin_groups|>
+Dawnguard: an organization of vampire hunters
+<|end_groups|>
+<|begin_locations|>
+Tamriel: a continent
+<|end_locations|>
+<|begin_tools|>
+Isran will address the player's fellow Dawnguard members before leaving for Castle Volkihar: the Dawnguard has gained the upper hand in the fight against the vampires
+<|end_tools|>
+<|begin_description|>
+The day hasn't been won while the vampire Harkon still walks Tamriel.
+Let me address the Dawnguard, and then we'll be off. The men deserve to know that we've finally gained the upper hand. It's time we take the fight to their door.
+Gather your things and rest well, my friend. We meet outside Castle Volkihar.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill the Gourmet, steal his writ of passage, and assume his identity
+<|end_objective|>
+<|begin_tasks|>
+talk to Festus
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Astrid: the player's guildleader in the Dark Brotherhood
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Gourmet: a famous master chef, whose true identity is not known
+Festus: a fellow Dark Brotherhood member, a man
+<|end_characters|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins
+<|end_groups|>
+<|begin_tools|>
+the Gourmet is the last target before he Dark Brotherhood strikes out at the emperor: the Gourmet is scheduled to cook for the emperor at a special dinner
+Festus is close to uncovering the identity of the Gourmet
+<|end_tools|>
+<|begin_description|>
+There's just one more target before we strike out at the Emperor.
+Have you by chance heard of the "Gourmet"? Read his cookbook? It's become quite a phenomenon. The Gourmet is scheduled to cook for the Emperor at a special dinner.
+You'll kill him, steal his Writ of Passage, and assume the role of master chef. Festus has been spearheading this part of the assassination plan. He's close to uncovering the identity of the Gourmet.
+You should report to him.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+accept Amaund Motierre's assassination contract
+<|end_objective|>
+<|begin_tasks|>
+take the sealed letter and the valuable amulet to your superior in the Dark Brotherhood
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Amaund Motierre: a nobleman, located at a crypt
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_items|>
+Black Sacrament: a dark ritual to obtain the services of the Dark Brotherhood
+<|end_items|>
+<|begin_groups|>
+Dark Brotherhood: a guild of assassins
+<|end_groups|>
+<|begin_tools|>
+the player, a member of the Dark Brotherhood, came to see Amaund Motierre after he had performed the Black Sacrament
+Amaund Motierre wants to arrange several assassination contracts with the Dark Brotherhood, leading to the assassination of the emperor
+Amaund Motierre gives the player two items: a sealed letter that will explain everything that needs to be done, and a valuable amulet - the player can use it to pay for any and all expenses
+<|end_tools|>
+<|begin_description|>
+By the almighty Divines. You've come. You've actually come. This dreadful Black Sacrament thing... it worked.
+Well, I won't waste your time. I would like to arrange a contract. Several, actually. I daresay, the work I'm offering has more significance than anything your organization has experienced in, well, centuries.
+As I said, I want you to kill several people. You'll find the targets, as well as their manners of elimination, quite varied. I'm sure someone of your disposition will probably even find it enjoyable. But you should know that these killings are but a means to an end. For they pave the way to the most important target. The real reason I'm speaking with a cutthroat in the bowels of this detestable crypt. For I seek the assassination of... ...the Emperor.
+What I ask is no small thing, of course. But you represent the Dark Brotherhood. This is... what you do? No? You must understand. So much has led to this day. So much planning, and maneuvering. Now, it's as if the very stars have finally aligned. But I digress. Here, take these two items. They need to be delivered to your, um... superior. The sealed letter will explain everything that needs to be done. The amulet is quite valuable - you can use it to pay for any and all expenses.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+convince Nikulas to stay with his mother
+<|end_objective|>
+<|begin_tasks|>
+counsel Nikulas on the perils of the world
+<|end_tasks|>
+<|begin_task_locations|>
+Skaal Village: a small, remote village
+<|end_task_locations|>
+<|begin_quest_giver|>
+Edla: a slightly worried mother, located at Skaal Village
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Nikulas: Edla's son, strong and loyal, yet reckless and foolish, located at Skaal Village
+<|end_characters|>
+<|begin_tools|>
+Edla recently lost her husband: Nikulas is everything she has left
+<|end_tools|>
+<|begin_description|>
+I'm Edla. I have a son. His name is Nikulas. He's a good lad, strong and loyal. I only wish he wasn't so eager to leave the village. I've tried to tell him that the world beyond our lands is dangerous and cruel, but he won't listen.
+For now, I need Nikulas here. You see, his father, my husband, was recently lost to us. Nikulas is all that I have left in this world. I know it is selfish of me to say so, but I cannot lose him. Not while I still grieve. Also, I know his heart. Nikulas is reckless and foolish, like most young men. He cannot understand what awaits him in the wide world.
+Could you talk to Nikulas? I know he would listen to you. You've been out there in the wide world. You know its perils.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+save the Guardian of Mana, and Zeryphesh
+<|end_objective|>
+<|begin_tasks|>
+find the Guardian of Mana
+<|end_tasks|>
+<|begin_task_locations|>
+Vaults Forsaken: a foul dungeon filled with Ezrohir
+<|end_task_locations|>
+<|begin_quest_giver|>
+Sphinx: a statue that speaks in riddles
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Guardian of Mana: a good female spirit, located at Vaults Forsaken
+<|end_characters|>
+<|begin_groups|>
+Ezrohir: a race of people who are at war with Zeryphesh
+<|end_groups|>
+<|begin_locations|>
+Zeryphesh: a city-state
+<|end_locations|>
+<|begin_tools|>
+the Ezrohir captured the Guardian of Mana again: they stripped away her magic and enslaved her
+<|end_tools|>
+<|begin_description|>
+The Ezrohir prepare today for war
+Their legions number in the score.
+Their Alchemy and Artifice suffice
+To capture Mana... not once but twice.
+Imprisoned in the Vaults Forsaken:
+Subdued, enslaved, her magic taken.
+Forced to lead their troops in battle
+From Guardian... to so much chattel.
+The Ezrohir have Mana enslaved
+But there's still hope; she might yet be saved.
+The enemy lie in this foul creche.
+Save the Guardian... save Zeryphesh.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+convince Fazeer Shah to help you
+<|end_objective|>
+<|begin_tasks|>
+locate Fazeer Shah
+<|end_tasks|>
+<|begin_task_locations|>
+Salt Barrens: a desert
+<|end_task_locations|>
+<|begin_quest_giver|>
+Guardian Of Air: an immortal spirit
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Fazeer Shah: a male djinni, located at Salt Barrens
+Ezrek Khan: a male djinni, located at a dark realm
+<|end_characters|>
+<|begin_tools|>
+Fazeer Shah and Ezrek Khan went to war centuries ago: they damaged the cities and devastated the land; Zeraphi sultan had enough and banished them both
+<|end_tools|>
+<|begin_description|>
+Centuries ago, a djinni named Fazeer Shah and a djinni named Ezrek Khan quarreled over some trivial matter, and ultimately went to war. They caused considerable damage to the cities, and devastated the land, until the Zeraphi sultan had had enough. He banished them both: one to the desert, and one to... another place; a dark realm.
+If you can reach Fazeer Shah, you might be able to convince him to help us.
+You must travel out into the Salt Barrens to locate Fazeer Shah.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+recover the Rosamortis for Selrenki
+<|end_objective|>
+<|begin_tasks|>
+1) convince the spirits to unlock the Ghost Chains
+2) get the Rosamortis away from its big undead guardian
+<|end_tasks|>
+<|begin_task_locations|>
+1) near the Bone Gallery
+2) Bone Gallery, a crypt whose entrance is locked with the Ghost Chains
+<|end_task_locations|>
+<|begin_quest_giver|>
+Selrenki: a shady man, located at near the Bone Gallery
+<|end_quest_giver|>
+<|begin_rewards|>
+Selrenki makes it worth the player's while
+<|end_rewards|>
+<|begin_items|>
+Ghost Chains: chains that only a ghost can open
+Rosamortis: a valuable little item that can save the life of someone who's been mortally wounded
+<|end_items|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I got a proposition for you... a little "I scratch my back, you scratch yours" kind of thing. See this crypt over here? It's called the Bone Gallery, and there's a little thing in there called the Rosamortis... a handy little thingamajig that can save the life of someone who's been mortally wounded... which, while pretty valuable, is also guarded by the biggest undead monstrosity I've ever seen!
+Also, the entrance to the Bone Gallery is locked with chains only a ghost can open! You'll have to convince the spirits to unlock the Ghost Chains and give you access, then get the Rosamortis away from that monster... but I promise to make it worth your while!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+find out whether a used Ember can be recharged, and return to Nerasis
+<|end_objective|>
+<|begin_tasks|>
+attempt to charge the Spent Ember
+<|end_tasks|>
+<|begin_task_locations|>
+Tarroch's Rift: a mana-rich area with horrible monsters
+<|end_task_locations|>
+<|begin_quest_giver|>
+Nerasis: a a researcher working for the Empire
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE: Nerasis will pay the player
+<|end_rewards|>
+<|begin_items|>
+Ember: a magical power source
+Spent Ember: a burned-out Ember
+<|end_items|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+Hello there! I wonder if you have a moment to help me out? My name is Nerasis; I'm a researcher for the Empire. I've been working on a theory that used Ember can be recharged, with exposure to a suitably large source of mana. My research led me to Tarroch's Rift, where the mana output ratio is... well, it's very high.
+The problem is that there are quite a few horrible monsters between me and the mana source. I would be willing to pay you to take this burned-out Spent Ember into Tarroch's Rift and attempt to charge it, then bring it back here so I can see if my theory is correct.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+see if there are Ezrohir scouts at the Tower of the Moon
+<|end_objective|>
+<|begin_tasks|>
+deal with any Ezrohir scouts you find
+<|end_tasks|>
+<|begin_task_locations|>
+Tower of the Moon: an ancient tower in the Ossean Wastes, near Zeryphesh
+<|end_task_locations|>
+<|begin_quest_giver|>
+Muzaffar: the player's friend, located at Zeryphesh
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_groups|>
+Ezrohir: a race of people who are at war with Zeryphesh
+<|end_groups|>
+<|begin_locations|>
+Zeryphesh: a city-state located in the Ossean Wastes
+Forsaken Vaults: a dungeon located far out in the Ossean Wastes
+Ossean Wastes: a desert
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+My friend, I have a mission for you. You may have noticed the Ezrohir activity in the Ossean Wastes. We believe these are scouts operating out of the Forsaken Vaults, but they are appearing so close to the city gates that we think they might have a base much nearer, from which they are spying on us.
+We have narrowed down the possibilities, and I want you to look into the Tower of the Moon, an ancient tower jutting from the Ossean Wastes. Determine if there are any Ezrohir scouts there... and if you find any, deal with them.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+prove your worth to Grom
+<|end_objective|>
+<|begin_tasks|>
+attempt to survive the Arena of Slaughter
+<|end_tasks|>
+<|begin_task_locations|>
+Arena of Slaughter: Grom's bloodstained arena
+<|end_task_locations|>
+<|begin_quest_giver|>
+Grom: a peerless killer, located at Arena of Slaughter
+<|end_quest_giver|>
+<|begin_rewards|>
+Grom's vast spoils
+<|end_rewards|>
+<|begin_tools|>
+many have tried to survive the Arena of Slaughter: now their souls serve Grom
+<|end_tools|>
+<|begin_description|>
+So... you come seeking the wealth of Grom? My spoils are vast, and have no peer in this realm.
+There is no path to success for you, lest you survive my arena and prove your worth.
+Be forewarned - many have tested their mettle on this bloodstained floor, but none have yet succeeded. Their souls are now mine, and they do as they are bid.
+Will you attempt the challenge? I will await your decision.
+None have yet triumphed within the walls of my arena.
+Perhaps you will be the first?
+Perhaps...
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+steal the armor schematics
+<|end_objective|>
+<|begin_tasks|>
+get inside the Sturmbeorn makeshift smithy
+<|end_tasks|>
+<|begin_task_locations|>
+Temple Steppes: a region
+<|end_task_locations|>
+<|begin_quest_giver|>
+a scout
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_groups|>
+Sturmbeorn: dangerous marauders
+Warbeasts: wild monsters
+<|end_groups|>
+<|begin_tools|>
+two Sturmbeorn blacksmiths are making suits of armor for Warbeasts
+<|end_tools|>
+<|begin_description|>
+If you're going out to the Temple Steppes, I could use your help. The Sturmbeorn have set up a makeshift smithy there, and they have two blacksmiths making suits of armor for wild Warbeasts they've captured.
+Those Sturmbeorn seem to be working from schematics, but they keep them under lock and key. Do you think you might be able to get in there and grab the armor schematics?
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+kill the Wraith Lord and find Estherian Spectre's remains along the Locket
+<|end_objective|>
+<|begin_tasks|>
+1) find the Sanguine Gems
+2) place the Sanguine Gems on the altars to open the path to the Wraith Lord
+<|end_tasks|>
+<|begin_task_locations|>
+1) the depths beyond the Rotting Crypt
+2) Rotting Crypt, a crypt
+<|end_task_locations|>
+<|begin_quest_giver|>
+Estherian Spectre: a ghost of a man who is bound to the Rotting Crypt, located at near the altars in the Rotting Crypt
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Jessa: a woman
+<|end_characters|>
+<|begin_items|>
+Locket: a locket Jessa seeks
+<|end_items|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+I am bound to this place, and may not pass beyond the threshold. 
+If you seek my remains, you must find the Sanguine Gems - they may be found in the depths beyond. Place them upon these altars, and the path to the Wraith Lord will be revealed.
+If you can best him, you will discover my remains there - and the Locket Jessa seeks.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+help colonists by thinning out packs of Warbeasts
+<|end_objective|>
+<|begin_tasks|>
+kill 10 Warbeasts
+<|end_tasks|>
+<|begin_task_locations|>
+Temple Steppes: a region in Estheria
+<|end_task_locations|>
+<|begin_quest_giver|>
+Commander Vale: the leader of the Vanquisher Corps, giving quest via "Bounty Board"
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_enemies|>
+10 Warbeasts: dangerous monsters
+<|end_enemies|>
+<|begin_items|>
+"Bounty Board": a bounty board
+<|end_items|>
+<|begin_groups|>
+Vanquisher Corps: a military outfit
+<|end_groups|>
+<|begin_locations|>
+Estheria: a country
+<|end_locations|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+BOUNTY!
+Commander Vale of the Vanquisher Corps is offering a reward to anyone who can help thin out the packs of Warbeasts hampering colonization and defense efforts in Estheria.
+This reward shall be paid to anyone who slays 10 or more Warbeasts in the Temple Steppes.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+travel to Zeryphesh on the Imperial Railmaster's Embercraft
+<|end_objective|>
+<|begin_tasks|>
+tell the Imperial Railmaster when your ready to go
+<|end_tasks|>
+<|begin_task_locations|>
+NONE
+<|end_task_locations|>
+<|begin_quest_giver|>
+Imperial Railmaster: a transporter
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Vanquisher: a female commander
+<|end_characters|>
+<|begin_locations|>
+Zeryphesh: a town a couple of days travel away from here
+Embercraft: a transportation device
+<|end_locations|>
+<|begin_tools|>
+the Vanquisher told the Imperial Railmaster that the player is coming to him
+<|end_tools|>
+<|begin_description|>
+You're the one the Vanquisher lady told me about, then? Alright... whenever you're ready to get rollin', we'll get your gear aboard our Embercraft, and we'll set out to Zeryphesh. Shouldn't take us more than a couple of days to get there!
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+retrieve the Scroll of Anom-Irek, and return to Miamin
+<|end_objective|>
+<|begin_tasks|>
+find the Scroll of Anom-Irek in a vault
+<|end_tasks|>
+<|begin_task_locations|>
+Corrupted Crypt: a crypt crawling with the Sturmbeorn in the Path of the Honored Dead
+<|end_task_locations|>
+<|begin_quest_giver|>
+Miamin: an Estherian scout, located at Path of the Honored Dead
+<|end_quest_giver|>
+<|begin_rewards|>
+equipment fit for a hero
+<|end_rewards|>
+<|begin_items|>
+Scroll of Anom-Irek: a powerful healing scroll
+<|end_items|>
+<|begin_groups|>
+Estherians: magical humanoids
+Sturmbeorn: ferocious bandits
+<|end_groups|>
+<|begin_locations|>
+Path of the Honored Dead: a pass
+<|end_locations|>
+<|begin_tools|>
+the player has helped Estherians before
+<|end_tools|>
+<|begin_description|>
+You must be the human the other Estherians are speaking of. I am glad to have met you. I have been sent on a quest to recover the Scroll of Anom-Irek, stored in a vault in the Corrupted Crypt, here. The scroll should allow us to heal the Estherians who have been corrupted by evil spirits. Unfortunately, the Sturmbeorn have already entered the crypt, and I have been unable to get past them.
+Can I ask you to attempt to retrieve the scroll? I will wait here in the Path of the Honored Dead for your return. Should you succeed, I will see what I can do to provide you with some equipment more fitting a hero of your stature.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
+<|begin_quest|>
+<|begin_objective|>
+save the Mana Queen
+<|end_objective|>
+<|begin_tasks|>
+go through the gate to the Forsaken Vaults
+<|end_tasks|>
+<|begin_task_locations|>
+Forsaken Vaults: a perilous dungeon
+<|end_task_locations|>
+<|begin_quest_giver|>
+Sphinx: the guardian of the Forsaken Vaults, speaks in rhymes, located at the gate to the Forsaken Vaults
+<|end_quest_giver|>
+<|begin_rewards|>
+NONE
+<|end_rewards|>
+<|begin_characters|>
+Mana Queen: a good female spirit, located at Forsaken Vaults
+<|end_characters|>
+<|begin_tools|>
+NONE
+<|end_tools|>
+<|begin_description|>
+The Mana Queen has come and gone
+Through this gate, she journeyed on.
+Follow her and pay the cost.
+Hasten forth, or she'll be lost.
+<|end_description|>
+<|end_quest|>
+<|endoftext|>
+
