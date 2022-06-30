@@ -1,0 +1,2726 @@
+[{
+        "name": "Catch of the Day",
+        "objective": "help Thomas gather fish for his village",
+        "first_tasks": ["catch 16 fish"],
+        "first_task_locations": [{
+                "name": "Salmon Steps",
+                "description": "a nearby river rich in salmon"
+            }
+        ],
+        "quest_giver": {
+            "name": "Thomas",
+            "description": "a concerned village fisherman",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 32
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "fish",
+                "amount": 16
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["NONE"],
+        "description": "Traveler, I'm worried about my fellow villagers here in the village. I don't think that they eat enough nutritious, tasty fish.\nCould you help me gather more? I simply can't catch enough fish for everyone, even if I'm a pro fisherman.\nThere is a river, Salmon Steps, bountiful in salmon near here. You could try your luck there, and catch 16 fish for me. I could pay you 32 shiny, green emeralds for the fish."
+    }, {
+        "name": "Pests Be Come",
+        "objective": "take care of the Endermites that have been bothering the villagers",
+        "first_tasks": ["kill Endermites"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "a village"
+            }
+        ],
+        "quest_giver": {
+            "name": "Matt",
+            "description": "an annoyed villager",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "golden carrots",
+                "amount": 16
+            }
+        ],
+        "groups": [{
+                "name": "Endermites",
+                "description": "small, annoying creatures"
+            }
+        ],
+        "items": [{
+                "name": "Ender Pearls",
+                "description": "spawn Endermites when thrown",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["NONE"],
+        "description": "Some incredibly foolish individual's been throwing Ender Pearls all over our village! Now the whole place is crawling with Endermites!\nCould you take care of those little critters before they cause any serious issues? Kill them all, and receive 16 golden carrots for your trouble. You would have all our thanks, too."
+    }, {
+        "name": "Waters of Life",
+        "objective": "help the villagers of Desert Refuge obtain a permanent source of water",
+        "first_tasks": ["build a well in Desert Refuge"],
+        "first_task_locations": [{
+                "name": "Desert Refuge",
+                "description": "a village in a desert"
+            }
+        ],
+        "quest_giver": {
+            "name": "Jesse",
+            "description": "a thirsty villager",
+            "location": "Desert Refuge"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a bucket of lava",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a friend of Jesse"],
+        "description": "Hail friend! It's good to see you. I'd offer you something to drink, but I'm running low on refreshments, and quite thirsty myself. We are in a desert, after all. There's not much water around...\nNow that I think of it... You could actually help the whole Desert Refuge by obtaining us a permanent source of water! Build us a well, please. Ahh, I can already taste the fresh water on my lips...\nI could give you this bucket of lava in exchange for a well. Just don't do anything mischievous with it, or burn yourself!"
+    }, {
+        "name": "Gold. GOLD. GOLD!",
+        "objective": "bring gold ore to Nila",
+        "first_tasks": ["find some gold ore"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "ore veins deep in the ground"
+            }
+        ],
+        "quest_giver": {
+            "name": "Nila",
+            "description": "a greedy villager",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "melon seeds",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is an enemy of Nila"],
+        "description": "What are YOU doing here! If it was up to me, I'd never let you in the village.\nPerhaps you'd like to mend our relations? Bring me some gold ore, the more the better. You can never have enough of it; it's so beautiful. My gold. I wish to have it all to myself. Too bad it's mainly found in the ore veins deep in the ground.\nI guess you could have these melon seeds as a reward. I have no use for them; melons have nothing on gold."
+    }, {
+        "name": "Our Father in the Sky Like the Diamonds",
+        "objective": "bring 9 diamonds to Paul",
+        "first_tasks": ["find 9 diamonds"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "ancient ruins, and deep within the Overworld itself"
+            }
+        ],
+        "quest_giver": {
+            "name": "Paul",
+            "description": "a cleric",
+            "location": "Villager's temple"
+        },
+        "reward": [{
+                "name": "Glowstone Dust",
+                "description": "a potion ingredient",
+                "amount": 64
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "diamonds",
+                "amount": 9
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["NONE"],
+        "description": "My child, my temple could use a donation. I have to tend the sick and needy: I cannot procure all my potion ingredients myself. I often have to participate in rather complicated trades for the ingredients.\nPlease, help a humble servant of the Gods: bring me 9 diamonds. I know that they are rare, but you can find still find them in ancient ruins, and even deep within the Overworld itself.\nI have a vast surplus of some potion ingredients that cannot be traded further: I can give you 64 Glowstone Dust for your time and effort."
+    }, {
+        "name": "Fine Dining",
+        "objective": "bring 5 golden apples to Bella",
+        "first_tasks": ["obtain 5 golden apples"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "dangerous places"
+            }
+        ],
+        "quest_giver": {
+            "name": "Bella",
+            "description": "a woman tired of regular food",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "diamond block",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "golden apples",
+                "amount": 5
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player can craft golden apples by combining an apple with gold ingots"],
+        "description": "I'm sick and tired of eating the same boring, mundane food every day. I want to taste something a bit more refined. Something like golden apples.\nCould you help a lady in distress? Bring me 5 golden apples to sample from, and I'll procure you a diamond block. That should leave a sweet taste in your mouth, as well.\nGolden apples can be found in various dangerous corners of the world. If you don't fancy exploring, you can craft golden apples by combining an apple with gold ingots."
+    }, {
+        "name": "Flying Colors",
+        "objective": "bring 10 red banners to Mike",
+        "first_tasks": ["obtain 10 red banners"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Mike",
+            "description": "a man who wants to redecorate his home",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "apples",
+                "amount": 32
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "red banners",
+                "amount": 10
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player can craft banners from sticks and wool"],
+        "description": "I'd like to redecorate my home. Stranger, could you do a man a favor? Obtain ten red banners and bring them to me. I have heard that you can craft banners from sticks and wool.\nI'll have 32 apples for you."
+    }, {
+        "name": "Flowers for Someone Special",
+        "objective": "bring 32 poppies to Justin",
+        "first_tasks": ["gather 32 poppies"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "outdoors in plains and forests"
+            }
+        ],
+        "quest_giver": {
+            "name": "Justin",
+            "description": "a person who wants to give a gift to someone",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 32
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "poppies, common red flowers",
+                "amount": 32
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player a famous hero"],
+        "description": "You must be the hero I have heard so much about. I have a small task for you; it should be child's play for one such as yourself.\nThere is someone I really care about. I'd like to gift them some flowers, perhaps some of those nice, deep red poppies.\nPlease, bring me 32 poppies. You can gather them almost everywhere outdoors in plains and forests. I'll have 32 emeralds waiting for you..."
+    }, {
+        "name": "Fleeting Strength",
+        "objective": "give a Potion of Strength to Mister Meek",
+        "first_tasks": ["obtain a Potion of Strength"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Mister Meek",
+            "description": "a weak man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "diamond",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Potion of Strength",
+                "description": "a strength potion",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["Mister Meek has heard that the player help people"],
+        "description": "You're the one who's been helping people, right? Well, now you could help me too.\nYou see, I need to get my hands on a Potion of Strength. I'm not the strongest person around: for once, I'd like to carry things around as if they were mere feathers.\nGive me the potion, and receive a precious diamond in return."
+    }, {
+        "name": "Here Kitty, Kitty, Kitty",
+        "objective": "bring a cat to Baba",
+        "first_tasks": ["tame a cat"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Baba",
+            "description": "a child",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 16
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["NONE"],
+        "description": "Hello. I'm Baba. My parents don't know how to tame animals. I want a kitty. You can have my allowance, 16 emeralds, if you bring me a kitty cat.\nCan I please have a cat, traveler? You must know how to tame kitties.\nPretty please? Tame a cat and bring it to me."
+    }, {
+        "name": "Showing Your True Colors",
+        "objective": "bring 16 cyan dye to Lee",
+        "first_tasks": ["obtain 16 cyan dye"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Lee",
+            "description": "a leatherworker",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 32
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "cyan dye",
+                "amount": 16
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["cyan dye is made by combining green dye and blue dye"],
+        "description": "I want to make my leather works more... dashing and colorful.\nBring me 16 cyan dye, and I'll reward you with 32 emeralds. You can make cyan dye by combining green dye with blue dye, I think. I'd obtain the dye myself, but the smell of my tanning chemicals attracts all sorts of unsavory creatures to me out there."
+    }, {
+        "name": "Where to Hang...",
+        "objective": "bring a painting to Sandy",
+        "first_tasks": ["obtain a painting"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Sandy",
+            "description": "a scared woman",
+            "location": ""
+        },
+        "reward": [{
+                "name": "TNT",
+                "description": "explosives",
+                "amount": 16
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a known villain"],
+        "description": "*scream of terror* I.. I.. I don't want any trouble. Please, I just want to live my live in peace.\nYou're not going to kill me? Sinister master, may this mere woman ask a tribute from you? Please, I'd like to have a painting.\nIn return, you will receive 16 TNT, perfect for ramping up explosions (Preferably elsewhere)."
+    }, {
+        "name": "Is Today Someone's Birthday?",
+        "objective": "bring a cake to Baker",
+        "first_tasks": ["bake a cake"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Baker",
+            "description": "a sweet-loving man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "golden apples",
+                "amount": 3
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a friend of Baker"],
+        "description": "My friend, as you might know, I'm not a man to say no to the sweeter temptations in life.\nI'd be overjoyed, if you baked me a delicious cake and brought it to me.\nI'm not leaving you hanging either: I have 3 golden apples for you."
+    }, {
+        "name": "It's Your Lucky Day",
+        "objective": "bring a rabbit's foot to Wilson",
+        "first_tasks": ["hunt down a rabbit"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "deserts, taiga forests, and frozen regions"
+            }
+        ],
+        "quest_giver": {
+            "name": "Wilson",
+            "description": "a worried man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "Potion of Leaping",
+                "description": "a potion that boosts jumps",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is an enemy of Wilson"],
+        "description": "Oh. It's you. As if I wouldn't have enough to worry about...\nOr perhaps even a devil like you has a heart. Would you help me sweep my worries away by bringing me a rabbit's foot? I'd like to feel luckier. Hunt down a rabbit. They are found in deserts, taiga forests, and frozen regions. Rabbits are quite quick on their feet, so they might keep you busy for a while.\nDo this for me, and I'll give you a Potion of Leaping. That should help you jump out of my sight faster."
+    }, {
+        "name": "Moving to Places",
+        "objective": "bring a horse to Tammy",
+        "first_tasks": ["tame a horse"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "plains and savannas"
+            }
+        ],
+        "quest_giver": {
+            "name": "Tammy",
+            "description": "a villager with wanderlust",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "block of emeralds",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player can tame a horse by trying to mount it until it stops throwing the player off its back"],
+        "description": "*sigh* I dream of leaving this tiny village every day. If only I had a horse... then I could go anywhere I want. Wherever my wanderlust takes me to.\nTraveler, you must have covered a lot of land, learned many new skills. Please help me: tame a horse, and bring it to me. Horses are commonly found grazing plains, and their warmer cousins savannas. You can tame a horse by trying to mount it until it stops throwing you off its back. I'll pay a whole block of emeralds for it. Then I too, could take on the life on road."
+    }, {
+        "name": "Lively Living",
+        "objective": "help Greta redecorate her home",
+        "first_tasks": ["place the decorations Greta gives you in her home"],
+        "first_task_locations": [{
+                "name": "Hamlet-By-The-Grass",
+                "description": "a village"
+            }
+        ],
+        "quest_giver": {
+            "name": "Greta",
+            "description": "a female villager",
+            "location": "Hamlet-By-The-Grass"
+        },
+        "reward": [{
+                "name": "",
+                "description": "gold ingot",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["NONE"],
+        "description": "My home is starting to look a bit drab. Could you help me redecorate my home here in Hamlet-By-The-Grass?\nI don't know you that well; you definitely should come up with something fresh and interesting. Here. Take these decorations and place them in my home.\nAfterwards, you can have this gold ingot."
+    }, {
+        "name": "A Rose, My Darling",
+        "objective": "bring a rose to Romeo",
+        "first_tasks": ["find a rose"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "temperate forests"
+            }
+        ],
+        "quest_giver": {
+            "name": "Romeo",
+            "description": "a man in love",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "pumpkin pies",
+                "amount": 27
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a famous hero"],
+        "description": "Great timing, Hero. I'm suffering... my poor heart is writhing in love.\nHelp me find a rose for my loved one, so that my heart may yet calm down. All I need is but a single rose. They can be found in various temperate forests.\nPlease, help a fellow in love. I have 27 pumpkin pies I can give you."
+    }, {
+        "name": "Affordable Cooling",
+        "objective": "bring some ice to Caleb",
+        "first_tasks": ["find some ice"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "snowy tundras, in frosted rivers"
+            }
+        ],
+        "quest_giver": {
+            "name": "Caleb",
+            "description": "a calm man",
+            "location": "a desert village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "cacti",
+                "amount": 42
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a known villain"],
+        "description": "I know of your dark deeds. I do not want any trouble from you.\nHowever... if you have had a change of heart, I could use a little help. The hot desert air of this village is making me rather uncomfortable. I could stave off the heat, if I had some ice.\nTell you what, bring me ice, and you may still redeem yourself, villain, and net yourself 42 cacti. Ice is commonplace in snowy tundras, in frosted rivers."
+    }, {
+        "name": "Staying Warm...",
+        "objective": "craft 2 campfires, and give them to Maria",
+        "first_tasks": ["collect 3 sticks, a piece of coal, and 3 wood logs"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Maria",
+            "description": "a woman suffering from cold",
+            "location": "a snowy village"
+        },
+        "reward": [{
+                "name": "Blue Ice",
+                "description": "very slippery, blue-colored ice",
+                "amount": 32
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "sticks",
+                "amount": 3
+            }, {
+                "name": "",
+                "description": "wood logs",
+                "amount": 3
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a friend of Maria"],
+        "description": "Dear friend, this village is freezing cold, isn't it? This cold is turning my fingers blue, at least.\nYou are a highly skilled individual. May I ask you to craft a campfire or two? First, you have to collect some materials: 3 sticks, a piece of coal, and 3 wood logs.\nAfter crafting the campfires, please give them to me. I even have something for you: 32 Blue Ice. It's slippery, blue-colored ice. I'm sure it'll prove useful to you, my friend."
+    }, {
+        "name": "Spooky Shenanigans",
+        "objective": "give a carved pumpkin to Will",
+        "first_tasks": ["obtain a carved pumpkin"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Will",
+            "description": "a mischievous child",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "cookies",
+                "amount": 10
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is an enemy of Will"],
+        "description": "Try to catch me, you big meanie! I bet you can't even carve pumpkins!\nYou wanna try to obtain a carved pumpkin and give it to me? I surely will not do any kind of pranks with it... like sneaking up on grownups... pinky swear.\nPerhaps I'd even share my ten cookies with you. That should teach to to be nicer!"
+    }, {
+        "name": "Assorted Armors",
+        "objective": "give an armor stand to Nick",
+        "first_tasks": ["craft an armor stand"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Nick",
+            "description": "an armorer",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "blocks of coal",
+                "amount": 10
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "sticks",
+                "amount": 6
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player can craft an armor stand with 6 sticks and a smooth stone slab"],
+        "description": "I just don't know where I could display my armors for sale. I know that there are armor stands that could do the job, but I'm way too busy hammering down new armors to actually go and hunt for the needed crafting materials.\nYou don't seem to have a day job, stranger. Could you help a busy armorer, and craft an armor stand? You could even have some of my blocks of coal for your reward. Ten blocks of coal in total.\nYou just need six sticks and a smooth stone slab to craft an armor stand."
+    }, {
+        "name": "Brain Over Brawl",
+        "objective": "give 10 pistons to Harry",
+        "first_tasks": ["craft 10 pistons"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Harry",
+            "description": "a mason",
+            "location": ""
+        },
+        "reward": [{
+                "name": "Nether Quartz",
+                "description": "a rare crafting ingredient, used to make quartz pillars",
+                "amount": 32
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "wooden planks",
+                "amount": 3
+            }, {
+                "name": "",
+                "description": "cobblestone",
+                "amount": 4
+            }, {
+                "name": "Redstone Dust",
+                "description": "a crafting ingredient that powers up contraptions",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is an infamous person", "the player can craft a piston with 3 wooden planks, 4 cobblestone, an iron ingot, and Redstone Dust"],
+        "description": "You are the person who's been causing trouble in these parts, aren't you?\nWhy don't we put your energy to a better use? I'm a mason, which means that I have to move large quantities of stone from one place to another. I'd like to automate that process with pistons. That would save me from backache.\nThe problem is I don't have the materials for making pistons, or the know-how to craft them. This is where you enter the picture. Craft 10 pistons, and then bring them to me. I know that you need 3 wooden planks, 4 cobblestone, an iron ingot, and Redstone Dust for crafting a piston.\nSome quarts pillars broke while we were transporting them. You could have the remaining 32 Nether Quartz from them."
+    }, {
+        "name": "A More Than Exotic Fruit",
+        "objective": "bring 6 Chorus Fruits to Kevin",
+        "first_tasks": ["find 6 Chorus Fruits"],
+        "first_task_locations": [{
+                "name": "The End",
+                "description": "a mysterious, hard to reach dimension"
+            }
+        ],
+        "quest_giver": {
+            "name": "Kevin",
+            "description": "a curious man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "diamonds",
+                "amount": 12
+            }
+        ],
+        "items": [{
+                "name": "Chorus Fruits",
+                "description": "strange fruits that might teleport the player a short distance when eaten",
+                "amount": 6
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "Traveler! Did you know that our dimension is one among many. There exists a dimension called \"The End\". It is a mysterious place, and supposedly hard to reach.\nI yearn to know more about that dimension. I have heard vague rumors about fruits native to the End that might teleport you a tiny distance when digested. They are called Chorus Fruits.\nIf you get your hands on six Chorus Fruits, I promise to reward you well with 12 diamonds. Please help a man sate his ever-growing curiosity."
+    }, {
+        "name": "A Distraction for Idle Hands",
+        "objective": "give a music disc to Lou",
+        "first_tasks": ["find a music disc"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Lou",
+            "description": "a nitwit",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "blocks of emerald",
+                "amount": 6
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a known villain"],
+        "description": "Gee! You okay? *looks at you with a blank expression* You look a dark human-thing.\nMe think me know the right think to cheer you up! A quest. Me want one of those music disc thingies. Find one?\nGet 6 blocks of emerald in return."
+    }, {
+        "name": "A Service Dog",
+        "objective": "bring a wolf to Miles the Moron",
+        "first_tasks": ["tame a wolf"],
+        "first_task_locations": [{
+                "name": "Wide Woodland",
+                "description": "a large forest"
+            }
+        ],
+        "quest_giver": {
+            "name": "Miles the Moron",
+            "description": "a nitwit",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a lot of pumpkins",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a friend of Miles the Moron"],
+        "description": "Me happy. See a friend. Hello friend!\nMe would like me own wolfie. Could help me do things... Wolfies like Wide Woodland. A biggy forest. Tame a wolfie. Bring it to me. Me give you pumpkins. A load of pumpkins."
+    }, {
+        "name": "Assistant Cartographer",
+        "objective": "give the map of Spruced Hills to Carl",
+        "first_tasks": ["make a map of Spruced Hills"],
+        "first_task_locations": [{
+                "name": "Spruced Hills",
+                "description": "a region of taiga hills"
+            }
+        ],
+        "quest_giver": {
+            "name": "Carl",
+            "description": "a cartographer",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a spyglass",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is a friend of Carl"],
+        "description": "I raise my face from my maps for a moment, and there you are! Just as I need the help of a trusted friend.\nThere are many, many regions in this world: mapping them all out is a tremendous task. I ask you to map out one of them: Spruced Hills. It is a taiga hills region, which means that there might be some rather steep hills covered in spruces and snow.\nAfter making a map of Spruced Hills, come back here and give the map to me. I shall give you a spyglass, a fine tool for an aspiring cartographer.\nTravel safely! Being mindful of your surroundings is an important skill for everyone, not just us cartographers."
+    }, {
+        "name": "Lurkers in Shadows",
+        "objective": "find out what the suspicious person is after",
+        "first_tasks": ["find and follow the suspicious person at dusk"],
+        "first_task_locations": [{
+                "name": "Cocoa Hamlet",
+                "description": "a village in a jungle"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a worried man",
+            "location": "Cocoa Hamlet"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a diamond",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is a famous hero"],
+        "description": "I almost didn't see you there, Hero. I'm succumbed in deep, dark thoughts at the moment.\nSomeone's been spying on our village for quite some time. I personally spotted that suspicious individual coming here around dusk.\nPerhaps that person is plotting something malicious, perhaps not. Regardless, I'm worried that something bad might happen to Cocoa Hamlet. You, Hero, are the right person to find out what that suspicious person is up to. The jungle can hide many dangers in its deep thickets of trees and vines. Find and follow the suspicious person, here in Cocoa Hamlet.\nWe can give you a diamond for your time. An adventurer found it in an abandoned jungle temple a long time ago."
+    }, {
+        "name": "Not like My Momma Makes It",
+        "objective": "give mushroom stew to Ilona",
+        "first_tasks": ["find a red mushroom, and a brown mushroom", "make mushroom stew"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "mushroom fields, and dimly lit places"
+            }, {
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Ilona",
+            "description": "an assertive child",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "roses",
+                "amount": 10
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["Ilona gives the player a bowl for making the mushroom stew"],
+        "description": "My momma is allergic to mushrooms. I can't ever get delicious mushroom stew at home.\nHere, take my bowl. Find one red mushroom, and another brown mushroom. Make mushroom stew in my bowl. Then, give the stew to me. Other kids say that mushrooms grow in fields, and poorly lit areas.\nI loaned my momma's roses a bit. You can have the whole ten of them. I'm sure that she won't notice 'em missing."
+    }, {
+        "name": "Look at the Time Fly",
+        "objective": "give a clock to Anders",
+        "first_tasks": ["obtain a clock"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Anders",
+            "description": "an anxious man",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "some blocks of iron",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["Anders has heard that the player help people"],
+        "description": "I don't know when nightfall arrives. As night falls, the world is inherited by monsters, and outdoors become much more dangerous! Even within the village! I could be in the middle of some important task, and then a zombie might attack and kill me!\nYou have been helping others: maybe you could help me too. I want a clock to keep track of time more easily. Would you kindly obtain one?\nI have some blocks of iron for you..."
+    }, {
+        "name": "Colorful Carpets",
+        "objective": "give 6 different-colored carpets to Bertha",
+        "first_tasks": ["obtain 6 different-colored carpets"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Bertha",
+            "description": "a bored woman",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a painting",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a friend of Bertha"],
+        "description": "The warmest greetings to you, friend!\nI hope that you don't mind, but I'm feeling a bit bored right now. I could make myself a game of sorts, if I had six different-colored carpets.\nYou surely wouldn't leave a friend dying in boredom? Please obtain six different-colored carpets, and bring them to me. As a token of our friendship, I'm giving you a pretty painting in return."
+    }, {
+        "name": "A Bit Bling-Bling",
+        "objective": "give a diamond hoe to Fred",
+        "first_tasks": ["obtain a diamond hoe"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Fred",
+            "description": "a farmer",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "melons",
+                "amount": 32
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is an enemy of Fred"],
+        "description": "Don't you go anywhere close my crops! Have you not tormented me enough already? Or are you here to reconcile?\nI could use a new hoe. Perhaps even something somewhat more fancier than my old one. Alright. Bring me a diamond hoe.\nThen I might forgive you. And I may even give you a small reward on top of that: 32 melons that I grew myself."
+    }, {
+        "name": "A Fancy New Shirt",
+        "objective": "give a leather tunic to Narcissos",
+        "first_tasks": ["obtain a leather tunic"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Narcissos",
+            "description": "a narcissistic man",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a diamond chestplate",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is not wearing any kind of armor"],
+        "description": "Aren't I just the handsomest man in this village? I'd like to become even flashier than I am now.\nEven you, traveler, lack any kind of flashy armor. I could give you my old, crummy diamond chestplate so that you'd look a bit less embarrassing.\nHowever, I want you to give me a brand new leather tunic in return."
+    }, {
+        "name": "Safety First",
+        "objective": "give a turtle shell to Pete",
+        "first_tasks": ["obtain a turtle shell"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "sandy beaches"
+            }
+        ],
+        "quest_giver": {
+            "name": "Pete",
+            "description": "a nitwit",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a diamond sword",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["NONE"],
+        "description": "Me hurt me often. Other village-people suggest me get a helmet to protect me head.\nMe seen turtles on sandy beaches. They never get hurt, because they hide in thick shells.\nYou give me a turtle shell? Make me safe? Me give you this sharp stick in return. It a diamond sword. It pretty, but me hurt plenty after touching it."
+    }, {
+        "name": "Atmospheric Lighting",
+        "objective": "give some candles to Felicia",
+        "first_tasks": ["obtain some candles"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Felicia",
+            "description": "a pompous woman",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "Lapis Lazuli",
+                "description": "a cataclysm in enchanting",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player can craft a candle by combining a honeycomb with string"],
+        "description": "Monsters hide in the dark. I'm way too important to die to some mindless, monstrous rabble! Ergo, I need to light up my house thoroughly.\nYou sure look like a servant. Hear your mistress' command, then. Go, and fetch some candles for me. If you didn't know, you can make candles by combining a honey comb with string.\nGet a move on. If your services please me, I may give you some Lapis Lazuli. Perhaps you can enchant something with it?"
+    }, {
+        "name": "A Cat on a Leash",
+        "objective": "give a lead to Bruce",
+        "first_tasks": ["obtain a lead"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Bruce",
+            "description": "a happy man who owns a cat",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 5
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player tamed the cat for Bruce", "the player can craft a lead by combining some string with a slimeball"],
+        "description": "Hello again! I'd like the thank you again for taming a cat for me. I'm really happy about my cat.\nThere is a small issue, though. I hate to trouble you further, but could you get me a lead? I just don't want my cat to wander off to dangerous places all alone. Did you know that you can craft a lead by combining some string with a slimeball?\nI'll even pay you five emeralds for the lead."
+    }, {
+        "name": "Sweet Dreams",
+        "objective": "give a green bed to Luke",
+        "first_tasks": ["obtain a green bed"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Luke",
+            "description": "a grumpy toolsmith",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 32
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is a friend of Luke"],
+        "description": "I hate working the forge all day long. People should learn to make their tools themselves! Arrgh!\nI'm sorry friend. I'm just feeling quite cranky at the moment. My bed is all lumpy and uncomfortable. If only I had a better bed. That would surely improve my mood!\nCould you, perhaps, obtain a bed for me? I'd prefer a green bed. Help your friend get rest at night. I'd be even willing to part from 32 emeralds for a good bed."
+    }, {
+        "name": "Taking Notes",
+        "objective": "give a book and quill to Larry",
+        "first_tasks": ["obtain a book and quill"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Larry",
+            "description": "a librarian",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "an enchanted book",
+                "amount": 1
+            }
+        ],
+        "motivation": "comfort",
+        "tools": ["the player is an enemy of Larry: the player hit Larry"],
+        "description": "Don't you dare to scratch my books with your breath! I have not forgotten your vile deeds. Why did you even hit me?\nYou can make up for your violent nature, though. Bring me a book and quill, it should help with a little project of mine. I'd love to catalog my books in a more orderly fashion.\nHelp me out, and I'll forgive you for hitting me. I'd even give you an enchanted book."
+    }, {
+        "name": "A Witch of the Wild",
+        "objective": "help Zara determine whether the rumors about a witch in Darkwater Bog are true",
+        "first_tasks": ["search Darkwater Bog for a witch"],
+        "first_task_locations": [{
+                "name": "Darkwater Bog",
+                "description": "a nearby swamp"
+            }
+        ],
+        "quest_giver": {
+            "name": "Zara",
+            "description": "a worried woman",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "diamonds",
+                "amount": 16
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is a known villain"],
+        "description": "Oh great. It's the evil-doer. Our village faces enough hardship even without the likes of you!\nOn the contrary... Perhaps evil plus evil equals good. There are rumors about a witch in living in a nearby swamp. Many villagers, myself included, worry about the presence of a witch. Would you like to search Darkwater Bog for that witch, and confirm whether the rumors are true?\nEven a villain can't resist the price I'm willing to pay for that knowledge: 16 diamonds."
+    }, {
+        "name": "Arrow Examination",
+        "objective": "bring a spectral arrow to Legolas for research",
+        "first_tasks": ["obtain a spectral arrow"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Legolas",
+            "description": "a fletcher",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "Arrows of Weakness",
+                "description": "special arrows, shoot an enemy with one, and they become much weaker",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "I have heard whispers about some strange arrows here in the village. They are known as \"spectral arrows\", and I'd like to find out what exactly they do to their targets. Call that my professional curiosity as a fletcher.\nIf you obtain a spectral arrow in your travels, I'd be happy to have it for research. I will even give you some special arrows I've made: Arrows of Weakness. Shoot an enemy with one, and you'll find them much weaker... and easier to kill."
+    }, {
+        "name": "Hermit Knowledge",
+        "objective": "ask Lone Wolf about the meaning of life, and return to Mario",
+        "first_tasks": ["find Lone Wolf"],
+        "first_task_locations": [{
+                "name": "Lily Forest",
+                "description": "a flower forest"
+            }
+        ],
+        "quest_giver": {
+            "name": "Mario",
+            "description": "a curious person",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a compass",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Lone Wolf",
+                "description": "a strange woman",
+                "location": "Lily Forest"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "There is a strange woman living alone out in the Lily Forest. Some say that she knows the meaning of life!\nCould you find her in that flower forest, and ask her about it? I really want to hear what could possibly be the meaning of life.\nWhen you return, I'll have a little something for you. A compass. May it point you toward your destinations in life!"
+    }, {
+        "name": "Intentional Game Design",
+        "objective": "try to sleep in a bed in the Nether, and report back to Lily",
+        "first_tasks": ["go to the Nether"],
+        "first_task_locations": [{
+                "name": "Nether",
+                "description": "a hellish, dangerous dimension"
+            }
+        ],
+        "quest_giver": {
+            "name": "Lily",
+            "description": "a mischievous person",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a diamond",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is an enemy of Lily", "the player can get to the Nether with a portal made out of obsidian: take a look at ruined portals scattered around the world"],
+        "description": "Why are you talking to me? Can't you just steer clear of me?\nIf you really want to do something interesting, though, I've got something fun for you. Go to the Nether. You know, the lethal hellish dimension? You can get there with a portal made out of obsidian. Take a look at the various ruined portals dotting the landscape. Try to sleep in a bed there, and report back to me. I'm very interested in hearing the results of this little experiment.\nIf the things I've heard about the Nether are true that should teach you a lesson... and I'll even give you a shiny diamond."
+    }, {
+        "name": "Electric Shock Therapy",
+        "objective": "hit Test Subject with lightning, and report back to Judas",
+        "first_tasks": ["go to Test Subject when there's a thunderstorm"],
+        "first_task_locations": [{
+                "name": "Desolate Plains",
+                "description": "the desert outside Woodland Homestead"
+            }
+        ],
+        "quest_giver": {
+            "name": "Judas",
+            "description": "a curious cleric",
+            "location": "Woodland Homestead"
+        },
+        "reward": [{
+                "name": "",
+                "description": "the player can keep the trident",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Woodland Homestead",
+                "description": "a village"
+            }
+        ],
+        "characters": [{
+                "name": "Test Subject",
+                "description": "a depressed man from Woodland Homestead, who volunteered for Judas's experiment",
+                "location": "Desolate Plains"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is a famous hero", "Judas gives the player an enchanted trident: the player can channel lightning with it during thunderstorms"],
+        "description": "As a cleric, my duty is to heal the villagers of Woodland Homestead both spiritually and physically. As a hero, your duty is to help people in trouble.\nI sometimes devise new treatments for various illnesses: some of my experiments are successful, the others, sadly, not so much. I would like you to assist me with an experiment. I also have a volunteer participating in the experiment as well: a depressed man from this very village.\nI need you to go to the Desolate Plains, the desert just outside this village, and hit that test subject of mine with lightning when there's a thunderstorm. For this, I'm giving you an enchanted trident: you can use it to channel lightning during thunderstorms.\nFinally, you should report back to me, and let me know what happened. You can keep the trident.\nMay the Gods be with you, hero!"
+    }, {
+        "name": "Nothing Suspicious...",
+        "objective": "see what happens after eating suspicious stew, and report back to Dave",
+        "first_tasks": ["eat the suspicious stew Dave gives you"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Dave",
+            "description": "a farmer who likes cooking",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 10
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["suspicious stew is mushroom stew laced with some flowers: it may have positive or negative effects on its eater"],
+        "description": "I keep the villagers fed. Without my crops, our village would surely face a famine!\nSometimes, I like to cook new foods using various natural ingredients to prepare us for poor harvests. This time, I tried to make some mushroom stew, but one of the villagers accidentally tripped, and dropped some flowers into the pot with the stew.\nTraveler, could you please taste the suspicious mushroom stew? It can have either positive or negative effects on its eater. I'm giving you some.\nPlease see what happens after eating the suspicious stew, and report back to me. I'd hate to throw away the whole batch of mushroom stew for nothing. I'll even give you 10 emeralds for being a taster."
+    }, {
+        "name": "Bowing Down Creepers",
+        "objective": "test out the Awesome Bow, and report back to Jack",
+        "first_tasks": ["kill 15 Creepers with the Awesome Bow"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Jack",
+            "description": "a fletcher",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 32
+            }
+        ],
+        "items": [{
+                "name": "Awesome Bow",
+                "description": "a special bow crafted by Jack",
+                "amount": 1
+            }
+        ],
+        "enemies": [{
+                "name": "Creepers",
+                "description": "green monsters that sneak up on people and try to blow them up along with them",
+                "amount": 15
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "I'm a fletcher. Bows and arrows are my domain.\nIn fact, I've just crafted a special Bow I've dubbed the \"Awesome Bow\". I just need someone to test it out.\nYou could be just the right person for the job. Go, and kill 15 Creepers with the Awesome Bow. I friggin' hate those green suicide bombing monsters! I'll have 32 emeralds for you, as a tester's fee."
+    }, {
+        "name": "Misguided Arrows",
+        "objective": "collect what a creeper drops upon death after being killed by a skeleton, and report to Oliver",
+        "first_tasks": ["make a skeleton kill a creeper"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Oliver",
+            "description": "a curious woman",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "blocks of diamond",
+                "amount": 5
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["Oliver has heard that the player help people"],
+        "description": "I've been pondering about something. Village legends tell that creepers drop something very peculiar when killed by skeletons.\nI have heard that you are a helpful person. Could you perhaps collect that item and report back to me? You just have to figure out how to get a skeleton kill a creeper.\nThis might be a difficult task to accomplish. You will be rewarded accordingly: five blocks of diamond. Surely you too are curious about what happens."
+    }, {
+        "name": "Lost Lore",
+        "objective": "collect \"Secrets of the Overworld\" for Dagon",
+        "first_tasks": ["find \"Secrets of the Overworld\""],
+        "first_task_locations": [{
+                "name": "",
+                "description": "a jungle temple"
+            }
+        ],
+        "quest_giver": {
+            "name": "Dagon",
+            "description": "a distressed librarian",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "blocks of emerald",
+                "amount": 5
+            }
+        ],
+        "items": [{
+                "name": "\"Secrets of the Overworld\"",
+                "description": "a book containing forgotten knowledge",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is an infamous person"],
+        "description": "Arrg! Important books are just rotting away in remote places, and no one is doing a damn thing about recovering them. All that precious knowledge... lost forever.\nWait. Aren't you that infamous, misbehaving wreck of a person? I'm sorry, I have more important things to worry about than you. Unless, you want to start cleaning up your act.\nI know for sure that there's this book, \"Secrets of the Overworld\", just laying around somewhere withing a jungle temple. Just think what moist jungle air is doing to that precious tome of forgotten knowledge! I need to find it, and collect it for me. I can't leave the village myself; no one else can tend my library!\nI'm willing to pay a lot for the book: 5 blocks of emerald."
+    }, {
+        "name": "A Mine of Knowledge",
+        "objective": "recover \"The Nether: Compiled Accounts of the Hellish Plane\" for John",
+        "first_tasks": ["find \"The Nether: Compiled Accounts of the Hellish Plane\""],
+        "first_task_locations": [{
+                "name": "",
+                "description": "a nearby mineshaft"
+            }
+        ],
+        "quest_giver": {
+            "name": "John",
+            "description": "a dreaming librarian",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "enchanted book",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "\"The Nether: Compiled Accounts of the Hellish Plane\"",
+                "description": "a book about the hellish dimension the player is familiar with",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is a famous hero"],
+        "description": "To have more tomes in my library... Now that would be incredibly lovely...\nOh hero, I was just dreaming about having more precious, amazing books. Actually, you could recover a book for me. It is called \"The Nether: Compiled Accounts of the Hellish Plane\", and it tells about the hellish dimension your familiar with. You can find it in a nearby mineshaft.\nI'm willing to part from an enchanted book, should you succeed in recovering \"The Nether: Compiled Accounts of the Hellish Plane\"."
+    }, {
+        "name": "Pillaging the Illagers",
+        "objective": "bring the plans of Illagers to Xan",
+        "first_tasks": ["steal the plans of Illagers who threaten Fishing Hamlet"],
+        "first_task_locations": [{
+                "name": "Deepwood Tower",
+                "description": "an Illager outpost tower in the nearby woods"
+            }
+        ],
+        "quest_giver": {
+            "name": "Xan",
+            "description": "a scared man",
+            "location": "Fishing Hamlet"
+        },
+        "reward": [{
+                "name": "",
+                "description": "enchanted sword",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Fishing Hamlet",
+                "description": "a village"
+            }
+        ],
+        "groups": [{
+                "name": "Illagers",
+                "description": "bandits"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is a known villain"],
+        "description": "No! Go away! Please don't kill me...\nIllagers are making me scared enough already! Perhaps you'd like to do something villainous, and even net a reward for it?\nThis village, Fishing Hamlet, has been threatened by nearby Illagers of Deepwood Tower for some time. You could go to their tower in the woods and steal their plans.\nBring the plans to me, and I'll give you an enchanted sword as a reward. Just don't test its blade on me, please!"
+    }, {
+        "name": "Monsters Under Bed?",
+        "objective": "see that Ron's home is safe, and report to Ron",
+        "first_tasks": ["check that there's nothing dangerous inside"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "Ron's home"
+            }
+        ],
+        "quest_giver": {
+            "name": "Ron",
+            "description": "a paranoid villager",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "an emerald",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "I don't feel safe in my own home. No one in this village believes me, when I tell them that something's observing me while I'm at home.\nTraveler, would you like to earn an emerald? You just have to verify that there's nothing dangerous in my home. Just see that my home is safe, and tell me what you've uncovered.\nThis paranoia is weighting heavily on me..."
+    }, {
+        "name": "Sinister Worship",
+        "objective": "investigate the cultists for Reverend Revan",
+        "first_tasks": ["spy on the cultists"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "a ruined portal not for from the village"
+            }
+        ],
+        "quest_giver": {
+            "name": "Reverend Revan",
+            "description": "a concerned cleric",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a healing potion",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "There is a ruined portal not far from the village. My fellow villagers have seen some ominous-looking people, possibly cultists, near the portal. I am a servant of the Gods: I can't let dark cultists conduct their sinister rituals.\nI'd like you to investigate these cultists: you are a stranger, thus unknown to them. Who are they? What are their intentions? You should start by heading out to the ruined portal, and spying on those cultists.\nI have put aside a healing potion for you. Hopefully, you won't need to consume it immediately after your return. Godspeed to you. May you always walk on the path of light."
+    }, {
+        "name": "Roguish Past",
+        "objective": "bring Kate's notebook to her",
+        "first_tasks": ["find the buried treasure"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "a beach not that far away from Seaside Settlement"
+            }
+        ],
+        "quest_giver": {
+            "name": "Kate",
+            "description": "a woman who used to be a pirate queen",
+            "location": "Seaside Settlement"
+        },
+        "reward": [{
+                "name": "",
+                "description": "the player may keep the rest of the buried treasure",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Seaside Settlement",
+                "description": "a coastal village"
+            }
+        ],
+        "motivation": "serenity",
+        "tools": ["Kate has heard that the player helps people", "Kate gives the player a map that points the player to the buried treasure"],
+        "description": "I have not always been a simple villager of Seaside Settlement. I was a pirate queen: I pillaged many a ship that linger the bottom of the ocean with my crew.\nAlas, my life was turned upside down one fateful day: my ship sank, and I washed up to the shore. A kind villager from this very village found me and helped me regain my strength. I left my pirate days behind, and settled down in Seaside Settlement.\nHowever, I'd still like to obtain my notebook from those days: I accidentally dropped it into the last treasure chest we buried into the ground. My adventuring days are over: you, however, are known to do odd tasks of more or less adventurous nature to others. I'll give you my treasure map: it will lead you to the buried treasure.\nYou may keep the buried treasure to yourself, I just ask you to give me my notebook."
+    }, {
+        "name": "The Ruler of The End",
+        "objective": "find out whether the Ender Dragon exists",
+        "first_tasks": ["find a stronghold"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a knowledgeable woman",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "there are wonderful treasures in the End",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Ender Dragon",
+                "description": "a dragon the rules over The End",
+                "location": ""
+            }
+        ],
+        "locations": [{
+                "name": "The End",
+                "description": "the dimension at the end of all"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is an infamous person", "the player can enter The End from a stronghold"],
+        "description": "There is a place at the end of all, far away from this village. A perfect place for a person of a more.. dark disposition.\nThis place is called The End. It is said that you can enter it from a stronghold. The End is is said to be ruled over by a beast called the Ender Dragon: I'd like you check out whether the Ender Dragon truly exists.\nOh, I did not mention the best part yet: there are wonderful treasures in The End."
+    }, {
+        "name": "A Helping Hand",
+        "objective": "bring glistering melon slices to Cleo",
+        "first_tasks": ["find Cleo"],
+        "first_task_locations": [{
+                "name": "Humming Hills",
+                "description": "a village"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a farmer",
+            "location": "Seaside Settlement"
+        },
+        "reward": [{
+                "name": "",
+                "description": "Cleo will pay the player",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Cleo",
+                "description": "a female cleric",
+                "location": "Humming Hills"
+            }
+        ],
+        "locations": [{
+                "name": "Seaside Settlement",
+                "description": "a village"
+            }
+        ],
+        "motivation": "equipment",
+        "tools": ["glistering melon slices are used to brew healing potions"],
+        "description": "I am a farmer here in Seaside Settlement. Sometimes, I get a bountiful harvest of melons. I process most of the melons into glistering melon slices for clerics and their important healing potions.\nI actually just finished preparing some glistering melon slices. Could you please take them to the cleric in the village of Humming Hills? I'm sure she'll pay you for them."
+    }, {
+        "name": "Connecting the Dots",
+        "objective": "bring Inkspot's map to Mapmaker, and return to Inkspot",
+        "first_tasks": ["find Mapmaker"],
+        "first_task_locations": [{
+                "name": "Rivermouth",
+                "description": "a village"
+            }
+        ],
+        "quest_giver": {
+            "name": "Inkspot",
+            "description": "a cartographer",
+            "location": "Desert Refuge"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a little something",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Mapmaker",
+                "description": "a male cartographer",
+                "location": "Rivermouth"
+            }
+        ],
+        "locations": [{
+                "name": "Desert Refuge",
+                "description": "a village"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "Oh my! I'm supposed to deliver a map of mine to one of my colleagues in another village, but I just can't ever spare the time\nYou seen to have a lot of time on your hands. Could you please deliver my map to Mapmaker in Rivermouth? He'd be grateful to you; he has wanted to examine this particular map for a long time. Upon your return, I'd give you a little something for your help."
+    }, {
+        "name": "Medical Breakthrough?",
+        "objective": "bring Edward's special healing potion to Pope",
+        "first_tasks": ["find Pope"],
+        "first_task_locations": [{
+                "name": "Hamlet-By-The-Grass",
+                "description": "a village"
+            }
+        ],
+        "quest_giver": {
+            "name": "Edward",
+            "description": "a retired adventurer",
+            "location": "Hamlet-By-The-Grass"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a small compensation from Pope",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Pope",
+                "description": "a male cleric",
+                "location": "Hamlet-By-The-Grass"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "I used to be an adventurer. I braved the depths of this world like no one else before me.\nI still have one of my healing potions as a memento from those days of glory. That potion is quite special... Now that I think of it, the local cleric, Pope, might want to examine it for its peculiar properties. He could make some potent healing potions after researching my special potion.\nCould you please find him, and give him the potion? The cleric will surely give you a small compensation fee."
+    }, {
+        "name": "A Shadow of Treachery",
+        "objective": "investigate Suspicious Man's actions",
+        "first_tasks": ["find Suspicious Man's journal, and bring it to Una"],
+        "first_task_locations": [{
+                "name": "Desert Refuge",
+                "description": "a village"
+            }
+        ],
+        "quest_giver": {
+            "name": "Una",
+            "description": "a concerned woman",
+            "location": "Desert Refuge"
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 48
+            }
+        ],
+        "characters": [{
+                "name": "Suspicious Man",
+                "description": "a male villager",
+                "location": "Desert Refuge"
+            }
+        ],
+        "groups": [{
+                "name": "Illagers",
+                "description": "bandits that torment villagers"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["Una thinks that Suspicious Man works for Illagers"],
+        "description": "I need the help of an outsider. I think one of the villagers here works for Illagers in secret! They could be planning an attack on Desert Refuge!\nWould you please investigate this matter for me? Try to obtain Suspicious Man's journal. It should shed light on his actions.\nI'me even willing to reward you with 48 emeralds. What are a few gems to peace of mind?"
+    }, {
+        "name": "Of Horses and Donkeys",
+        "objective": "test out whether horses can breed with donkeys",
+        "first_tasks": ["tame a horse", "tame a donkey", "breed the tamed horse with the tamed donkey"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "plains and savannas"
+            }, {
+                "name": "",
+                "description": "plains and savannas"
+            }, {
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a curious child",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "some golden apples",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "My daddy said that horses and donkeys can make babies together. I want to see what their babies look like!\nYou are a grown-up! You ought to know how to tame and breed animals. Please show me a baby donkey-horse! I have seen both donkeys and horses eating grass an plains and savannas. Try to tame one of both and make them breed!\nShow me a baby horse-donkey, and I'll give you some golden apples. They're incredibly tasty... and so shiny!"
+    }, {
+        "name": "Made of Obsidian",
+        "objective": "bring some obsidian blocks to Tim",
+        "first_tasks": ["make water flow on lava to form obsidian", "mine out obsidian blocks"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "underground in deep caves"
+            }, {
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Tim",
+            "description": "a mason",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "something precious",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "I have a task for you, stranger. And I'm willing to give you something precious in return.\nThere are age-old tales of strong, volcanic glass. This glass is known as obsidian. I'd love to try out my masonry on obsidian!\nThe tales also say that you can make obsidian by directing water on lava pools. There are many such pools underground in deep caves. I would ask you to mine out some obsidian blocks for me.\nI'm not built for adventure myself: carving stones is all I know."
+    }, {
+        "name": "Uncharted Waters",
+        "objective": "bring 6 tropical fish to Mickey",
+        "first_tasks": ["catch 6 tropical fish"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "oceans"
+            }
+        ],
+        "quest_giver": {
+            "name": "Mickey",
+            "description": "a fisherman",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "an enchanted fishing rod",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "I've caught a mountain of salmon and cod. Yet, there are still some more exotic fish that have eluded my fishing rod.\nTraveler, do you like fishing? May I ask you to catch 6 tropical fish for me? These sort of fish are common in vast oceans of our world. I yearn to take a look at new kinds of fish. I could even try to breed them.\nIf you happen to give me 6 exotic fish, I'll be glad to reward you with an enchanted fishing rod of mine. A best kind of tool for a passionate fisher."
+    }, {
+        "name": "Not Just Black Sheep",
+        "objective": "bring some colorful sheep to James",
+        "first_tasks": ["find some colorful sheep"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "practically everywhere with grass"
+            }
+        ],
+        "quest_giver": {
+            "name": "James",
+            "description": "a dumb shepherd",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a pile of white wool",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "I've been told that there are sheep in all possible colors; not just black, gray, white and brown.\nI'm not the sharpest shepherd around. You seem like a clever person: perhaps you know how to find these colorful sheep. Sheep love grass; they tend to stay in grassy areas.\nLet me have some colorful, beautiful sheep. I want to test breeding a flock of sheep in all colors of the rainbow. I'll let you have a pile of regular ole white wool."
+    }, {
+        "name": "Disco Sheep",
+        "objective": "name one of Sean's sheep \"jeb_\", and observe what happens",
+        "first_tasks": ["get a name tag"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "dungeons, mineshafts, and woodland mansions"
+            }
+        ],
+        "quest_giver": {
+            "name": "Sean",
+            "description": "a happy shepherd",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a mountain of wool in all different colors",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player helped Sean before: the player brought him colorful sheep"],
+        "description": "Good day to you, traveler! I just love the colorful sheep you brought me: they are so pretty.\nThere's an interesting thing I heard from a fellow shepherd: if you name a sheep \"jeb_\", something bizarre is supposed to happen. I'm happy at the moment, but knowing what happens to any sheep named \"jeb_\" would make me even happier. I something good happens, I shall name all of them so. If something bad happens, I will warn all shepherds about this particular name.\nYou have to find a name tag. Those are scattered in dangerous places; monster-filled dungeons, abandoned mineshafts, and even the ominous woodland mansions. Feel free to name one of my sheep \"jeb_\", and please make note of what happens. Do this, and I promise to give you a mountain of wool in all possible colors."
+    }, {
+        "name": "A Bringer of Hope",
+        "objective": "recover a bundle of potion ingredients for Kitt",
+        "first_tasks": ["find the bundle of potion ingredients"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "a sunken ship east of Seaside Settlement"
+            }
+        ],
+        "quest_giver": {
+            "name": "Kitt",
+            "description": "a sad cleric",
+            "location": "Seaside Settlement"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a brewing stand",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Seaside Settlement",
+                "description": "a coastal village"
+            }
+        ],
+        "motivation": "serenity",
+        "tools": ["the player a friend of Kitt", "Kitt gives the player a potion of water breathing"],
+        "description": "The ship sank. All those poor sailors have now passed the veil to the other side. This is a sad day for us all.\nMy friend, that ship carried important potion ingredient for our village. Most of the goods that are not produced here are transported here by the sea. Now I can't fashion remedies for our villagers, and the next shipment will not be here for a long time.\nYou are a good person. I ask you to find a bundle of life-saving potion ingredients for me. That would mean a lot for the whole village! The bundle should be in the sunken ship east of here. Here, this potion of water breathing should help you dive to the ship save and sound.\nI'll even let you have my old, extra brewing stand as a gift upon your return. Be careful while you dive; there a many lethal things lurking beneath the waves. I'd hate to bury a friend."
+    }, {
+        "name": "That Belongs to a Library!",
+        "objective": "recover writings of a lost culture for Jane",
+        "first_tasks": ["find the writings of a lost culture"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "an ocean ruin far west of here"
+            }
+        ],
+        "quest_giver": {
+            "name": "Jane",
+            "description": "a librarian",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "some bookshelves",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is a famous hero"],
+        "description": "There are ruins scattered on both land and the bottom of the sea, hero. These ruins tell us many things about the people who inhabited them: their hardships and hopes.\nI'm not a hero like you, just your everyday librarian. I know of a submerged ruin in an ocean far west of here that you could explore. I implore you: find writings of a lost culture that lived in the ruin. The writings will be reduced to a lump of watery paper, if we don't recover them in time.\nI have some unused bookshelves that I could give you in return. Even heroes need to civilize themselves with quality literature sometimes."
+    }, {
+        "name": "Musings of a Madman",
+        "objective": "bring Spook's new book to Kant",
+        "first_tasks": ["find Spook"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "an igloo to the north"
+            }
+        ],
+        "quest_giver": {
+            "name": "Kant",
+            "description": "a fearless bookworm",
+            "location": "village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "an enchanted book",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Spook",
+                "description": "a madman who writes novels",
+                "location": "an igloo to the north"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is a known villain"],
+        "description": "Oh... You're that dark villain. This is just like one of my adventure novels! So exciting!\nPerhaps you happen to know Spook. He's a kooky novelist who lives in an igloo to the north. You should get along with him splendidly! And whole you are there, you could even get his new book for me. I need to know what events unfold in that one!\nEvil machinations need funding, don't they? Well, do my little book-fetching mission, and gain an enchanted book. I love books, but that one flew over my head... literally!."
+    }, {
+        "name": "The One That Got Away",
+        "objective": "recover Heide's fishing rod",
+        "first_tasks": ["find the Elder Guardian that swallowed Heide's fishing rod, and kill it"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "an ocean monument: a dangerous underwater temple made out of turquoise stone blocks, located far south of Fishing Hamlet"
+            }
+        ],
+        "quest_giver": {
+            "name": "Heide",
+            "description": "an annoyed fisherman",
+            "location": "Fishing Hamlet"
+        },
+        "reward": [{
+                "name": "",
+                "description": "enough cooked salmon to last the player's lifetime",
+                "amount": 1
+            }
+        ],
+        "enemies": [{
+                "name": "Elder Guardian",
+                "description": "one-eyed, large, pale, evil pufferfish that can shoot laser, and make the player fatigued when the player is near them",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Fishing Hamlet",
+                "description": "a fishing village"
+            }
+        ],
+        "motivation": "serenity",
+        "tools": ["the player is an enemy of Heide"],
+        "description": "I just escaped with my life from a friggin' Elder Guardian, and now I run into you, my least favorite person in the whole world.\nThe damn Elder Guardian swallowed the hook, line, and sinker of my fishing rod while I was out in the sea fishing on my boat. It must have eaten the whole fishing rod after it slipped from my grip into the sea.\nI shouldn't have gone fish so close to the ocean monument far south of this village. I just couldn't see the turquoise stones that make up the monument before it was too late. Who even built those dangerous underwater temples anyway?\nI have a proposition for you: recover my fishing rod from the Elder Guardian, and I'll set you up with enough cooked salmon to last your lifetime. We might even become friends. First, you have to find the Elder Guardian, and kill it.\nElder Guardians are one-eyed, large, pale, evil pufferfish. They can shoot laser, and make you fatigued when you get close to them."
+    }, {
+        "name": "Ancient Artisanship",
+        "objective": "bring an ancient device to Zed",
+        "first_tasks": ["find the ancient device"],
+        "first_task_locations": [{
+                "name": "Tut's Temple",
+                "description": "an ancient desert pyramid filled with traps and treasure, a short way away from Desert Refuge"
+            }
+        ],
+        "quest_giver": {
+            "name": "Zed",
+            "description": "a researcher",
+            "location": "Desert Refuge"
+        },
+        "reward": [{
+                "name": "",
+                "description": "something useful",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Desert Refuge",
+                "description": "a desert village"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "Hello traveler. What brings you to Desert Refuge, this piece of civilization out in the scorching desert? Are you stocking up on supplies on your way to explore desert ruins?\nIf you are, I would like your help. I promise to pay you with something useful. The thing is, there's this ancient pyramid, Tut's Temple, a short way away from this village. It is said to be full of treasure! And some highly lethal traps that are too much to overcome for a meager researcher like me. There are also rumors that say that the ancients had useful devices lost to time. I'd love to get my hands on one, for science.\nPlease, go to Tut's Temple and find an ancient device! It may tell us about many lost crafts!"
+    }, {
+        "name": "A Mansion of Marauders",
+        "objective": "confirm whether the Dark Hall actually exists",
+        "first_tasks": ["scout out Darkwood"],
+        "first_task_locations": [{
+                "name": "Darkwood",
+                "description": "a dark, dense forest with thick leaf canopies that block sunlight"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a scared woman",
+            "location": "Pineville"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a block of emerald",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Pineville",
+                "description": "a forest village"
+            }, {
+                "name": "Dark Hall",
+                "description": "a woodland mansion inhabited by Illagers"
+            }
+        ],
+        "groups": [{
+                "name": "Illagers",
+                "description": "outcasts from villages that became bandits"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "I think I saw an Illager scout keeping an eye on our village from the shadows of nearby trees. Pineville is not safe! The Illagers of the Dark Hall are going to kill us all!\nTraveler, could you please help me calm my nerves? It is said that there is a woodland mansion called the Dark Hall deep in the thickets of Darkwood. It is supposed to be a safe haven for Illagers, those bloodthirsty outcasts who resorted to banditry!\nI would like you to scout out Darkwood. Be cautious. Darkwood is a dark, dense forest with thick leaf canopies that block sunlight: perfect for ambushes. Find out if the Dark Hall truly exists. I'll pay you a block of emerald! Those are not that easy to come by!"
+    }, {
+        "name": "Mushroom Mania",
+        "objective": "grow a huge mushroom, and report back to Herbert",
+        "first_tasks": ["find a mushroom", "find a way to grow a regular mushroom to a huge mushroom"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "places shielded from direct sunlight"
+            }, {
+                "name": "",
+                "description": "somewhere near Herbert"
+            }
+        ],
+        "quest_giver": {
+            "name": "Herbert",
+            "description": "a mushroom-loving man",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a bunch of golden carrots",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["NONE"],
+        "description": "Mushrooms are awesome! I love everything about them! Their texture, their taste...\nSome travelers claim to have seen some huge, giant mushrooms that stand as tall as trees. I want to see one for real!\nCould you help me see a huge mushroom? You are a traveler: you must know how to grow huge mushrooms. Please find a regular mushroom from a place shielded from direct sunlight, and find a way to grow it into a huge mushroom somewhere where I can see it.\nReport back to me after growing a huge mushroom, and I'll reward you with a bunch of golden carrots. They are tasty, but I prefer mushrooms. Especially steamy, hot mushroom stew that waters one's mouth."
+    }, {
+        "name": "Bringing Out the Flavor",
+        "objective": "bring a lava bucket, blaze rod, and a block of coal to Dana",
+        "first_tasks": ["obtain a lava bucket", "obtain a blaze rod", "obtain a block of coal"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "lava pools deep underground"
+            }, {
+                "name": "Nether",
+                "description": "a hellish place"
+            }, {
+                "name": "",
+                "description": "ore veins seated in stone"
+            }
+        ],
+        "quest_giver": {
+            "name": "Dana",
+            "description": "a female butcher",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a year's supply of steak",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["Dana gives the player a bucket"],
+        "description": "My job is to sell meat of all sorts: both cooked and raw. I take pride in my craftsmanship: I always try to find new, improved ways to cook meat.\nI have a hypothesis: the fuel used in my oven affects the taste of the meat that's cooked in it. I'd like to test out different materials to feed the flames of my oven: a bucket of lava, a blaze rod, and a block of coal, for starters.\nWould you help a butcher better her craft? Bring the items I mentioned to me, and I'll cook you a year's worth of steak.\nLava can be found in pools deep under the ground. I'll give you a bucket for scooping out the lava. Blaze rods a trickier to obtain; you have to brave the hellscape that is the Nether. Coal, on the contrary, is quite easy to get. Just look out for ore veins seated in stone."
+    }, {
+        "name": "Deal of the Century",
+        "objective": "bring 2 blocks of diamond to Pate",
+        "first_tasks": ["obtain 2 blocks of diamond"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "diamond veins deep in the ground"
+            }
+        ],
+        "quest_giver": {
+            "name": "Pate",
+            "description": "a weaponsmith",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a block of Netherite",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Netherite",
+                "description": "a rare, valuable metal",
+                "amount": 1
+            }
+        ],
+        "motivation": "equipment",
+        "tools": ["the player is a friend of Pate"],
+        "description": "My friend, I've got a profitable deal for you today. As you know, I smith weapons from a variety of materials, including diamond.\nJust so it happens, I'm running low on diamonds: soon I can't make any diamond swords for daring adventurers. I'm not skilled in adventuring; I can't brave the deep underground for diamond veins.\nYet, I have a whopping block of Netherite. You definitely don't see those every day! Here's the deal: bring me 2 blocks of diamond, and I'll give you my block of Netherite. A good deal for a good friend."
+    }, {
+        "name": "Weapons of Monster Mass Destruction",
+        "objective": "bring 8 Ancient Debris to Kaz",
+        "first_tasks": ["mine 8 Ancient Debris"],
+        "first_task_locations": [{
+                "name": "Nether",
+                "description": "a lethal dimension, where the player can easily burn in lava"
+            }
+        ],
+        "quest_giver": {
+            "name": "Kaz",
+            "description": "a weaponsmith",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a new kind of sword",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Netherite",
+                "description": "a metal that cuts sharper than diamond",
+                "amount": 1
+            }, {
+                "name": "Ancient Debris",
+                "description": "a rare ore that can be refined into Netherite",
+                "amount": 1
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is an enemy of Kaz"],
+        "description": "A nasty person like you can go to the Nether. No one would miss you, if you were to die in there. If you don't burn yourself in lava, you could do a bit something for me there.\nI have heard that there's a new kind of metal that can be fashioned into a sword that cuts sharper than diamond! I can't wait to experiment on that metal: it's called Netherite, and it can be refined from a rare ore known only as \"Ancient Debris\".\nMine 8 Ancient Debris, and bring them to me. I'll even fashion you a new kind of sword for your help. Only use it on monsters: you'll just dull its blade for nothing by sticking it into innocent villagers."
+    }, {
+        "name": "New Materials",
+        "objective": "bring 10 scutes to Dean",
+        "first_tasks": ["obtain 10 scutes from turtles"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "sandy beaches"
+            }
+        ],
+        "quest_giver": {
+            "name": "Dean",
+            "description": "a depressed leatherworker",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a stack of leather",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "scutes",
+                "amount": 10
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["Dean has heard that the player helps people"],
+        "description": "I have made all sorts of things from leather: tunics, hats, and even little tent-houses. There's nothing new I can create...\nCould you perhaps help me out of this sea of creative depression? You do help people? Please find me a new material to work with! Perhaps turtle scutes would work...\nPlease help me get my hands on ten scutes: you can get them from turtles on sandy beaches. I'll give you a stack of leather for your services!"
+    }, {
+        "name": "Tools of the Enemy",
+        "objective": "bring an Illager crossbow to Gilbert",
+        "first_tasks": ["steal an Illager crossbow"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "a nearby Illager outpost"
+            }
+        ],
+        "quest_giver": {
+            "name": "Gilbert",
+            "description": "a sly fletcher",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a powerful bow",
+                "amount": 1
+            }
+        ],
+        "groups": [{
+                "name": "Illagers",
+                "description": "bandits"
+            }
+        ],
+        "motivation": "knowledge",
+        "tools": ["the player is an infamous person"],
+        "description": "You are quite a mischievous person, aren't you? Maybe you'd like to do a small prank for me?\nI want to get an Illager crossbow. See what makes it tick. The problem is, Illagers are quite a nasty bunch: they shoot anyone with their crossbows without discrimination.\nLift one of their crossbows from them, bring it to me, and I'll give you a powerful bow of my own making."
+    }, {
+        "name": "Tales of Terror",
+        "objective": "visit a Nether Fortress, and report back to Yves",
+        "first_tasks": ["go to the Nether", "find a Nether Fortress"],
+        "first_task_locations": [{
+                "name": "Nether",
+                "description": "a dangerous, hellish dimension"
+            }, {
+                "name": "Nether Fortress",
+                "description": "a terrible fortress in the Nether, inhabited by fierce creatures"
+            }
+        ],
+        "quest_giver": {
+            "name": "Yves",
+            "description": "a storyteller",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a diamond",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["NONE"],
+        "description": "I love to tell stories to others. I'd like to bolster my reputation as a storyteller with some novel, unheard stories about the Nether. To recount its dangers and hellish nature...\nA witness' account of a Nether Fortress would help me devise some dashing tales. A terrible fortress with equally terrible inhabitants...\nWould you be my witness? Please, go to the Nether and find a Nether Fortress. Visit it, and tell me all about it. I'll have a diamond for you. It should entice you to help me."
+    }, {
+        "name": "Exclusively Here!",
+        "objective": "bring \"An Interview With the Enderman\" to Finn",
+        "first_tasks": ["convince A.R. sign an exclusivity deal with Villager"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "a hidden camp on a mountain"
+            }
+        ],
+        "quest_giver": {
+            "name": "Finn",
+            "description": "a distressed librarian",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "name tags",
+                "amount": 32
+            }
+        ],
+        "items": [{
+                "name": "\"An Interview with the Enderman\"",
+                "description": "a new novel by A.R.",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "A.R.",
+                "description": "a famous female novelist",
+                "location": "a hidden camp on a mountain"
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["NONE"],
+        "description": "No one cares about libraries any more! Everyone just buys their books, even though they could read them for free!\nThere's only one thing I can do to make my library more popular: exclusive books. I'd like to secure an exclusivity deal with A.R., a very famous novelist. She has just finished her new book, \"An Interview with the Enderman\", while staying at a hidden camp on a mountain.\nCould you please get to A.R.'s camp and convince her to sign the exclusivity deal? Bring back a copy of \"An Interview with the Enderman\" too. I'd like to read it myself. You can have 32 name tags as a reward, keeping things named and ordered is always useful."
+    }, {
+        "name": "Bolstering Catalog",
+        "objective": "recover a shipment of books for Nate",
+        "first_tasks": ["find the shipment of books"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "an Illager outpost"
+            }
+        ],
+        "quest_giver": {
+            "name": "Nate",
+            "description": "a happy librarian",
+            "location": "Nate's library"
+        },
+        "reward": [{
+                "name": "",
+                "description": "blocks of emerald",
+                "amount": 10
+            }
+        ],
+        "groups": [{
+                "name": "Illagers",
+                "description": "bandits"
+            }
+        ],
+        "characters": [{
+                "name": "A.R.",
+                "description": "a famous female novelist",
+                "location": ""
+            }
+        ],
+        "motivation": "serenity",
+        "tools": ["the player helped Nate sign an exclusivity deal with A.R."],
+        "description": "Welcome to my library! How may I help you on this beautiful day?\nAh, you're my helper from before! Thanks to you, the library's been visited much more frequently than ever before. Having exclusive rights to A.R.'s books made the library soar in popularity! I even had to order more copies of books to satisfy all reading needs!\nActually, there is a teeny tiny issue related to the books: a band of Illagers stole a shipment of books and hauled them to their outpost. Would you kindly find and recover the shipment for me? You'll receive 10 blocks of emerald for your services."
+    }, {
+        "name": "The Dragon at the End of It All",
+        "objective": "slay the Ender Dragon, and report back to Weak Will",
+        "first_tasks": ["enter The End"],
+        "first_task_locations": [{
+                "name": "The End",
+                "description": "a mysterious place at the end of space and time"
+            }
+        ],
+        "quest_giver": {
+            "name": "Weak Will",
+            "description": "a suicidal nitwit",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "something cool",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Ender Dragon",
+                "description": "an evil dragon",
+                "location": ""
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["NONE"],
+        "description": "Me useless moron, say many people of this village. Me want to seem like a hero instead. Would make I happier, less thinking of dying.\nMe know!!! Go to The End. That strange place at the end. Kill that big meanie Ender Dragon. Tell I how you did it, and me can tell everyone me did it!\nMe give you something cool for me white lie."
+    }, {
+        "name": "Number One Armorer",
+        "objective": "bring 32 blocks of iron to Arnold",
+        "first_tasks": ["obtain iron ore", "smelt iron ore into iron ingots", "craft iron ingots into blocks of iron"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "iron veins in the ground"
+            }, {
+                "name": "",
+                "description": "a furnace somewhere"
+            }, {
+                "name": "",
+                "description": "any crafting bench"
+            }
+        ],
+        "quest_giver": {
+            "name": "Arnold",
+            "description": "an inexperienced armorer",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "better armor than the player is wearing now",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "blocks of iron",
+                "amount": 32
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["the player is a famous hero"],
+        "description": "I want to become famous. Just not quite like you, hero. I seek to become the best armorer in the world. To do that, I need a lot of practice in hammering down pieces of armor.\nWould you please bring me 32 blocks of iron? Those should help me become a better armorer in no time! First, you have to get iron ore from the many iron veins in the ground. Next, you'll want to smelt the ore into iron ingots in a furnace somewhere. Lastly, you ought to craft those iron ingots into blocks of iron on a crafting table.\nDo all that, and I promise to outfit you in better armor than what you are wearing now!"
+    }, {
+        "name": "A Faithful Servant",
+        "objective": "bring a load of sticks to Jim",
+        "first_tasks": ["chop down trees to obtain wood", "craft sticks from wood"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "all kinds of forests"
+            }, {
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Jim",
+            "description": "a cowardly fletcher",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "Jim becomes the player's loyal minion",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["the player is a known villain"],
+        "description": "What! NO! Please spare me, oh dark master! I promise I'll be your best servant. A minion of unshaken loyalty.\nIf my arrows were known to be the best, your dark influence would spread across the land! Please, master. Bring me a load of sticks so I can craft arrows en masse.\nMaster, you need to chop down trees in a forest of any kind, and then craft the wood from the trees into sticks."
+    }, {
+        "name": "A Market for Stone",
+        "objective": "help Dan promote his stoneworks",
+        "first_tasks": ["hand out promotional pamphlets to villagers"],
+        "first_task_locations": [{
+                "name": "Stoneburg",
+                "description": "a large village"
+            }, {
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Dan",
+            "description": "a lamenting mason",
+            "location": "Stoneburg"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a load of emeralds",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["the player is a friend of Dan"],
+        "description": "No one in this village buys the beautiful stones cut by me. I'm a failure of a mason!\nFriend, could you promote my stoneworks? I really could use more customers. This village is quite large, there ought to be at least a few villagers who might be interested in my stone bricks and other stoneworks. Just hand out some promotional pamphlets to the villagers of Stoneburg.\nYou'll even net a load of emeralds for your services, my friend."
+    }, {
+        "name": "Notes in Blocks",
+        "objective": "bring 24 note blocks to Zana",
+        "first_tasks": ["obtain 24 note blocks"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Zana",
+            "description": "a musician",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a music disc",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "note blocks, used to play musical notes",
+                "amount": 24
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["the player is an enemy of Zana", "the player can craft note blocks from wooden planks and redstone dust"],
+        "description": "I am most certainly not going to sing your praises, you nasty cretin.\nOn the contrary, it would be music to my ears if you helped me reach my musical ambitions. No one in this village seems to care for music, or any of the arts for that matter. For starters, obtain 24 note blocks. It has to be exactly 24, because there are that many different notes to play. It's possible to craft note blocks from wooden planks and redstone dust.\nBring the 24 note blocks to me. I'll let you have an old music disc of mine."
+    }, {
+        "name": "A Talkative Pet",
+        "objective": "bring a tamed parrot to Olivia",
+        "first_tasks": ["tame a parrot"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "jungles"
+            }
+        ],
+        "quest_giver": {
+            "name": "Olivia",
+            "description": "a responsible child",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a diamond",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["Olivia gives the player seeds that can be used to tame a parrot"],
+        "description": "My mommy and daddy say that I can't go outside the village. I don't! But I really wanna have a parrot. The other kids would certainly like me better if I had a cool pet like a parrot!\nYou a big enough to travel to places on your own without your parents. Traveler, please tame a parrot and bring it to me. I even have some seeds for you: tame the parrot with them. Parrots live in jungles.\nI will give you this diamond I once found on the ground. Even a kid like me knows that those are valuable."
+    }, {
+        "name": "The Call of Adventure",
+        "objective": "bring a sword and a suit of armor to Hunter",
+        "first_tasks": ["obtain a sword", "obtain a suit of armor"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "weaponsmiths"
+            }, {
+                "name": "",
+                "description": "armorers"
+            }
+        ],
+        "quest_giver": {
+            "name": "Hunter",
+            "description": "a youngster who wants to become an adventurer",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "some amethyst shards",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["NONE"],
+        "description": "I do not want to spend my whole life in this village! I want to become an adventurer, like you. Maybe even make a name for myself...\nCan you please help me start my life as an adventurer? I just need a sword and a suit of armor to keep myself save from danger. You can get swords from weaponsmiths and armor from armorers.\nI collected some amethyst shards when I was a child dreaming of adventure. You can have them. You may yet find a use for them."
+    }, {
+        "name": "A Tour in Hell",
+        "objective": "explore the Nether with Sam",
+        "first_tasks": ["go to the Nether with Sam"],
+        "first_task_locations": [{
+                "name": "Nether",
+                "description": "a dangerous, hellish ream"
+            }
+        ],
+        "quest_giver": {
+            "name": "Sam",
+            "description": "a fame-seeking man",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "diamonds",
+                "amount": 10
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["NONE"],
+        "description": "I really want to see something more interesting than the bounds of this village. That would also elevate my status among the other villagers.\nTraveler, can you take me to the Nether? I want see that hellish realm myself, but I can't fend off its dangers all by myself. Let us explore the place together.\nYou will also get a fair reward for being my guide in the Nether: 10 diamonds. Don't spend them all at once."
+    }, {
+        "name": "Turning Heads",
+        "objective": "give red dye to Cara",
+        "first_tasks": ["find red dye"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "wandering traders"
+            }
+        ],
+        "quest_giver": {
+            "name": "Cara",
+            "description": "a woman who wants to dye her hair",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "emeralds",
+                "amount": 12
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["NONE"],
+        "description": "The guys in this village rarely take note of me. I want to dye my hair red to make myself more attractive.\nWandering traders often have red dye. Could you find some and give it to me? I'd give you 12 emeralds for the red dye."
+    }, {
+        "name": "A Box of Tricks",
+        "objective": "give an Ender Chest to Loki",
+        "first_tasks": ["obtain an Ender Chest"],
+        "first_task_locations": [{
+                "name": "End Cities",
+                "description": "storied cities at the end of time and space"
+            }
+        ],
+        "quest_giver": {
+            "name": "Loki",
+            "description": "a mischievous man",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "some powered rails",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Ender Chests",
+                "description": "chests whose contents are stored separately for all people",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["the player can craft Ender Chests somehow"],
+        "description": "I'm planning all sorts of new pranks that would make me a famous man here in the village. There's one integral item that I haven't been able to obtain: an Ender Chest. You know, the chests whose contents are stored separately for everyone?\nI heard you can find Ender Chests in End Cities at the end of time and space. It should also be possible to craft them somehow. Can you obtain an Ender Chest? I would pay you well for one: you could have some powered rails that I used in one of my pranks."
+    }, {
+        "name": "Sweets for All",
+        "objective": "give 10 honey blocks to Martin",
+        "first_tasks": ["find some bees"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Martin",
+            "description": "a retired wandering trader",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "Shulker Box",
+                "description": "an easily movable storage box",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "honey blocks",
+                "amount": 10
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["NONE"],
+        "description": "I'd like to bake my delicious honey cakes for the whole village! Then they'd certainly know that I have traveled all over the world! I even used to be a wandering trader.\nI need a lot of honey for the cakes. You are quite a wanderer yourself. Perhaps you could help me procure 10 honey blocks. You can get honey from bees; you just have to find them first.\nDo this for me, and I'll give you a special reward: a Shulker Box. These things were worth their weight in emeralds every time someone murdered my pack llamas: they made hauling my stock much easier. "
+    }, {
+        "name": "A Playful Panda",
+        "objective": "bring a playful panda to Garth",
+        "first_tasks": ["find a playful panda, and put a lead on it"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Garth",
+            "description": "an aspiring zookeeper",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a saddle",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["the player is an infamous person", "Garth gives the player a lead"],
+        "description": "You have got quite a reputation. Not a very positive one, mind you!\nI, on the other hand, seek to become famous in more positive terms: I want to become a zookeeper. For that I'm going to need some animals to showcase. There exist special, playful pandas who love to roll around. I want one.\nThis is your chance to bring a bit joy to this world: bring me a playful panda for my zoo. First, you have to find one and put a lead on it. Here, take this lead. When you return with the panda, I'll give you a saddle in return."
+    }, {
+        "name": "Elytra Air Show",
+        "objective": "complete Alex's Elytra obstacle course",
+        "first_tasks": ["talk to Alex when you are ready"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Alex",
+            "description": "an Elytra lover",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "cool prizes for good performances",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "Elytra",
+                "description": "wings that let the player fly",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["the player has an Elytra"],
+        "description": "You've got a nice pair of wings on you. Would you care to try my Elytra obstacle course? Villagers might enjoy to see you fly. Perhaps they'd even want to try my course after seeing you go through it. Just talk to me when you are ready.\nGood performances are awarded with cool prizes!"
+    }, {
+        "name": "Head Hunter",
+        "objective": "bring 5 zombie heads to Elena",
+        "first_tasks": ["obtain 5 zombie heads"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Elena",
+            "description": "a monster hater",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "Elytra",
+                "description": "wings that let the player fly",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["Elena has heard that the player helps people", "powerful creepers are somehow related to obtaining the zombie heads"],
+        "description": "I want all monsters in this world know how much I hate them. Perhaps I could get some of their heads to show my disdain toward them. Zombie heads should show all zombies that I am not to be trifled with.\nYou will certainly help me; many people in this village have told me that you are a resourceful and eager to work. Bring me five zombie heads. Powerful creepers are somehow related to getting the heads, but I don't know how exactly.\nGet me the heads, and I'll give you wings that let you soar the skies: an Elytra."
+    }, {
+        "name": "Coming Soon!",
+        "objective": "promote the services of Bob in nearby villages",
+        "first_tasks": ["talk to the villagers", "hand out promotional items to villagers", "hand out coupons to villagers"],
+        "first_task_locations": [{
+                "name": "Seaside Settlement",
+                "description": "a coastal village"
+            }, {
+                "name": "Desert Refuge",
+                "description": "a desert village"
+            }, {
+                "name": "Stoneburg",
+                "description": "a mountain village"
+            }
+        ],
+        "quest_giver": {
+            "name": "Bob",
+            "description": "a wandering trader",
+            "location": "wilderness"
+        },
+        "reward": [{
+                "name": "",
+                "description": "an enchanted book",
+                "amount": 1
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["NONE"],
+        "description": "Hail! It's rare to see another traveler out in the wilderness. I'm a wandering merchant by trade: I travel from village to village to sell my merchandise.\nYou wouldn't mind helping me out a bit in exchange for an enchanted book? I'd like you to promote my services in nearby villages: Seaside Settlement, Desert Refuge, and Stoneburg.\nI am already fairly well-known in the coastal Seaside Settlement, so you just gotta tell the villagers there that I am coming there soon. For the villagers of Desert Refuge out in the desert, I have some promotional items that I want you to hand out. Lastly, I want you to give some coupons to the villagers of the mountainous Stoneburg.\nGood luck in your promotional mission!"
+    }, {
+        "name": "Word of the Gods",
+        "objective": "convince the villagers of Woodridge come to the temple more often",
+        "first_tasks": ["talk to the villagers"],
+        "first_task_locations": [{
+                "name": "Woodridge",
+                "description": "a village"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a concerned cleric",
+            "location": "Woodridge"
+        },
+        "reward": [{
+                "name": "",
+                "description": "bottles of enchanting",
+                "amount": 10
+            }
+        ],
+        "motivation": "serenity",
+        "tools": ["NONE"],
+        "description": "People do not care about the gods any more! The temple of gods in this village remains empty!\nMy child, could you convince the villagers of Woodridge come to the temple more often? It would do good to their everlasting souls. Please, talk to the villagers of Woodridge. Do this, and I'll be sure to reward you well with 10 bottles of enchanting."
+    }, {
+        "name": "Branching Out",
+        "objective": "help Chris finish up a trade deal between him and Wander",
+        "first_tasks": ["take Chris's contract to Wander"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "the wilderness"
+            }
+        ],
+        "quest_giver": {
+            "name": "Chris",
+            "description": "a happy leatherworker",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "",
+                "description": "block of emerald",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Wander",
+                "description": "a male wandering merchant",
+                "location": "the wilderness"
+            }
+        ],
+        "motivation": "wealth",
+        "tools": ["NONE"],
+        "description": "My leatherworks are selling like hot cakes! I'm so happy!\nIt is a good time to expand my business out of this village. Traveler, could you help me finish up a trade deal between me and Wander the wandering merchant? You just need to take my contract to him. He should be out in the wilderness right now.\nYou'll get a block of emerald for your services. My business makes plenty of emeralds right now, so handing out a few isn't a biggie."
+    }, {
+        "name": "Withering Away",
+        "objective": "kill the Wither",
+        "first_tasks": ["gather up 3 wither skeleton skulls, and 4 blocks of soul sand", "summon the Wither with the gathered items"],
+        "first_task_locations": [{
+                "name": "Nether",
+                "description": "a hellish realm"
+            }, {
+                "name": "",
+                "description": "a place of the player's choosing"
+            }
+        ],
+        "quest_giver": {
+            "name": "Tove",
+            "description": "a storyteller",
+            "location": "a village"
+        },
+        "reward": [{
+                "name": "Nether Star",
+                "description": "a rare item",
+                "amount": 1
+            }
+        ],
+        "enemies": [{
+                "name": "Wither",
+                "description": "an extremely dangerous skeletal creature capable of bombing out everything in its surroundings",
+                "amount": 1
+            }
+        ],
+        "items": [{
+                "name": "",
+                "description": "wither skeleton skulls",
+                "amount": 3
+            }, {
+                "name": "",
+                "description": "blocks of soul sand",
+                "amount": 4
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["Tove draws the summoning pattern of the Wither for the player"],
+        "description": "I'm a storyteller. I always like to hear new stories that I can pass along to the people of this village.\nOld legends tell about a mighty skeletal creature known only as the \"Wither.\" It is said that it can bomb out everything in its surroundings. If you killed the Wither, I'd give you a rare Nether Star as a reward.\nI'll draw you the summoning pattern of the Wither. You need to gather up certain items from the hellish Nether: three wither skeleton skulls, and four blocks of soul sand. Use these items to summon the Wither."
+    }, {
+        "name": "Scouring Up Housing",
+        "objective": "build a new house in Woodridge",
+        "first_tasks": ["gather up materials for building a house"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a worried villager",
+            "location": "Woodridge"
+        },
+        "reward": [{
+                "name": "",
+                "description": "a stack of golden carrots",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "Woodridge",
+                "description": "a small village"
+            }
+        ],
+        "motivation": "serenity",
+        "tools": ["NONE"],
+        "description": "Our village, Woodridge, is stagnating hard! We need more housing so that our village can grow larger.\nTraveler, do you know anything about building houses? Perhaps you could build a brand new house in our village? You have to gather some house building materials first, though.\nI have a fine reward for you! A stack of golden carrots. A fine meal after doing some construction work, ain't it?"
+    }, {
+        "name": "Jewel of the Desert",
+        "objective": "build an inn in Desert Refuge",
+        "first_tasks": ["gather up materials for building an inn"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "Daniel",
+            "description": "a friendly villager",
+            "location": "Desert Refuge"
+        },
+        "reward": [{
+                "name": "",
+                "description": "stacks of sand, useful in crafting",
+                "amount": 10
+            }
+        ],
+        "locations": [{
+                "name": "Desert Refuge",
+                "description": "a desert village"
+            }
+        ],
+        "motivation": "reputation",
+        "tools": ["Daniel gives the player a box of building materials"],
+        "description": "Hail traveler! I'd guide you toward a soft bed, but as it happens, our village doesn't have an inn.\nWe really could use an inn: travelers heading in and out of the desert pass by Desert Refuge often. An inn would make our village even more famous! Could you build an inn here? You just need some building materials; I'll give you a box of materials to start with.\nWe will give you ten stacks of sand as a reward, to help you craft many useful things."
+    }, {
+        "name": "Guards! Guards! Guards!",
+        "objective": "build a watchhouse in River's End",
+        "first_tasks": ["find construction materials"],
+        "first_task_locations": [{
+                "name": "NONE",
+                "description": ""
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a nervous villager",
+            "location": "River's End"
+        },
+        "reward": [{
+                "name": "",
+                "description": "an enchanted axe",
+                "amount": 1
+            }
+        ],
+        "locations": [{
+                "name": "River's End",
+                "description": "a large village"
+            }
+        ],
+        "motivation": "protection",
+        "tools": ["the player is a famous hero"],
+        "description": "River's End is a large village, yet we lack a watchhouse! We don't have a place to store away all troublemakers! They are free to roam along the law-abiding people...\nHero, you are an honorable person. Could you build us a watchhouse? You should gather up some construction materials first. Complete the watchhouse, and we'll give you an enchanted axe. May it help you bury your enemies!"
+    }, {
+        "name": "Dark Rule",
+        "objective": "conquer Desert Refuge",
+        "first_tasks": ["kill all villagers who oppose you"],
+        "first_task_locations": [{
+                "name": "Desert Refuge",
+                "description": "a desert village"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "the player's loyal minion",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "the player will get new minions",
+                "amount": 1
+            }
+        ],
+        "motivation": "conquest",
+        "tools": ["the player is a known villain"],
+        "description": "Master, the desert village of Desert Refuge is ripe for taking! Your dark domain will grow vastly, if you were to conquer it!\nMaster, you should go to Desert Refuge, and kill all villagers you oppose you! The ones who don't, on the contrary, should make terrific new minions for you!"
+    }, {
+        "name": "Divide and Conquer",
+        "objective": "make Illagers fight each other",
+        "first_tasks": ["steal Tony's axe without being seen", "kill Tom, and pin his death on Tony by planting Tony's axe on Tom's corpse"],
+        "first_task_locations": [{
+                "name": "",
+                "description": "an Illager camp to the northeast"
+            }, {
+                "name": "",
+                "description": "an Illager outpost to the north"
+            }
+        ],
+        "quest_giver": {
+            "name": "Henrik",
+            "description": "a sneaky villager",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "something highly valuable",
+                "amount": 1
+            }
+        ],
+        "characters": [{
+                "name": "Tom",
+                "description": "a male Illager captain",
+                "location": "an Illager outpost to the north"
+            }, {
+                "name": "Tony",
+                "description": "a taciturn male Illager captain, a rival of Tom's",
+                "location": "an Illager camp to the northeast"
+            }
+        ],
+        "groups": [{
+                "name": "Illagers",
+                "description": "bandits"
+            }
+        ],
+        "motivation": "conquest",
+        "tools": ["Henrik has heard that the player help people"],
+        "description": "You are a friend of us villagers, and have helped many of us. Now I'd like you to do something a bit... less conventional.\nIllagers have been bothering us for ages: we villagers are not fighters; we can't hold our own against those bloodthirsty brigands. I want you to sow distrust among their ranks: make them fight amongst themselves.\nI already have a plan for you to follow. There are two Illager captains, Tony and Tom, who do not exactly see eye to eye. You should go to the Illager camp to the northeast, and pinch Tony's axe without being seen. Then, move on to the Illager outpost to the north of here, kill Tom, and plant Tony's axe on Tom's body. Tony is known to be quick to anger: Tom's men will go after him, for they will assume that Tony killed their leader.\nDo this grueling task, and I'll have something highly valuable for you."
+    }, {
+        "name": "Woodland Security",
+        "objective": "make Whispering Pines safer for villagers",
+        "first_tasks": ["build some iron golems"],
+        "first_task_locations": [{
+                "name": "Whispering Pines",
+                "description": "a scary taiga forest"
+            }
+        ],
+        "quest_giver": {
+            "name": "",
+            "description": "a spooked villager",
+            "location": ""
+        },
+        "reward": [{
+                "name": "",
+                "description": "a worthy gift",
+                "amount": 1
+            }
+        ],
+        "motivation": "security",
+        "tools": ["the player is an infamous person"],
+        "description": "You scared me! Although I suppose that even someone as infamous as you isn't quite as spooky as Whispering Pines.\nThat taiga forest is not safe! Many villagers have gone missing there; never to be seen ever again. There must be something that could be done to make the forest safer for us villagers...\nPerhaps you could go and build some iron golems in Whispering Pines? That would make the forest much safer! You'd even receive a worthy gift for doing this feat."
+    }
+]
